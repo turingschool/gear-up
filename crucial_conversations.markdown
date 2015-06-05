@@ -52,7 +52,7 @@ When you are confronted with a host of different problems, ask yourself what you
 
 ### Let It Go?
 
-How do you know if you should speak up? Ask yourself these questions. If you three or more are "yes," then it’s time to act.
+How do you know if you should speak up? Ask yourself these questions. If your answer to three or more are "yes," then it’s time to act.
 
 * Am I acting based on my real concerns?
 * Is my conscience nagging me? Will I regret not having said anything?
