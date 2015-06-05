@@ -29,6 +29,7 @@
 1. Did you pay your tab?
 3. Walk? Someone as cute as you shouldn't be walking home alone.
 5. I can keep you warm tonight. We don't need to tell anybody.
+7. Just this one night. C'mon.
 
 ## 3. Happy Hour - Person B
 
