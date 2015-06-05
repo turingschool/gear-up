@@ -41,3 +41,18 @@
 2. Yeah, I'm going to walk home.
 4. I'll be fine, thanks.
 6. No thanks.
+
+## 4. Sidelining
+
+### Sidelining - Person A
+
+1. So how do you think we should break down this project?
+3. I think C has been really struggling lately. I don't want him to hold
+   us back.
+5. I bet C could do a good job on the frontend?
+
+### Sidelining - Person B
+
+2. Maybe some pairing would be good.
+4. Yeah I would really like to get those extensions done.
+6. Yeah that would let us focus on the backend.
