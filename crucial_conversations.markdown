@@ -91,3 +91,12 @@ Spend the rest of the individual time writing answers to the following questions
 3. What scares you the most about crucial conversations?
 4. Think of a time you felt successful in a crucial conversation – what did this look like? Feel like? What happened?
 5. What was the last time you regretted *not* having a conversation / addressing an issue? Why didn't you do it at the time?
+
+## Small Group Conversation
+
+Your group should have a few small slips of paper that are the lines for three separate role plays. For *EACH* of the
+three scenarios:
+
+1. Have one person be "Person A" and a second one "Person B". Alternate lines starting with Person A.
+2. When you finish the script, as a group work through the process described in the reading above. How would you approach the crucial conversation?
+3. Share any additional thoughts or ask questions of the group
