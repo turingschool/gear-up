@@ -29,7 +29,7 @@ The most interesting and provocative discussions come from weakness, not strengt
 1. Discuss your individual progress. What have you done better than you expected here at Turing? What have you struggled with most? What's one or two things that you've *intended* to do but haven't? Why haven't you? Don't let each other off with the excuse of "not enough time," there's always a reason deeper than that.
 2. Discuss your cohort. How has the energy, character, and vibe of your cohort changed over time? What's stronger/better and what's weaker/worse? What do you observe about your cohort in comparison to others? What attributes/characteristics do you wish you could change about your cohort? What's stopping you?
 3. Discuss the staff and our classes/assignments. Who/what pushes you to do your best work? What demotivates you or slows your progress? Are you doing just what you're asked to do, or are you pushing further? What experiences have led to your biggest milestones of learning?
-4.
+4. Discuss the community at large. How are you pushing other people to be their best? What kinds of group patterns help you? What patterns are holding you back? What does the air *feel* like when you're here? Anxious? Excited? Invested? Angry? Chill? Is that the way you want it? How can you as a small group steer the community?
 
 ## Mission Statement - 10 Minutes
 
