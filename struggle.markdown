@@ -2,7 +2,7 @@
 
 ## Opening (4 minutes)
 
-“**If there is no struggle, there is no progress.** Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground. *They want rain without thunder and lightning.* They want the ocean without the awful roar of its many waters. This struggle may be a moral one; or it may be a physical one; or it may be both moral and physical; but it must be a struggle.” - [Frederick Douglass](https://www.goodreads.com/quotes/6398-if-there-is-no-struggle-there-is-no-progress-those
+“**If there is no struggle, there is no progress.** Those who profess to favor freedom, and yet depreciate agitation, are [people] who want crops without plowing up the ground. *They want rain without thunder and lightning.* They want the ocean without the awful roar of its many waters. This struggle may be a moral one; or it may be a physical one; or it may be both moral and physical; but it must be a struggle.” - [Frederick Douglass](https://www.goodreads.com/quotes/6398-if-there-is-no-struggle-there-is-no-progress-those
 )
 
 What do you struggle with?
@@ -59,4 +59,4 @@ Your group will get a stack of sticky notes. If you're willing, please *each* us
 * On the first one, describe your struggle in a few words (leave it anonymous)
 * On the second one, describe your most successful strategy for combating it
 
-Then stick the strategy on to the struggle and, as we wrap, put your struggle/strategy combo on the whiteboard.
+Then stick the strategy on to the struggle and, as we wrap, put your struggle/strategy combo on the whiteboard. *If* you see your struggle already there, then just post your strategy attached to the struggle.
