@@ -3,7 +3,7 @@
 > I just believe that the way that young people's minds develop is fascinating.
 > If you are doing something for a grade or salary or a reward, it doesn't have
 > as much meaning as creating something for yourself and your own life.
-> - Steve Wozniak, Co-Founder of Apple
+> - *Steve Wozniak*, Co-Founder of Apple
 
 Today let's think, talk, and listen about salary.
 
