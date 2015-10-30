@@ -11,15 +11,16 @@ Today let's think, talk, and listen about salary.
 
 Your small group will have a pile of several different articles. During this first segment you should:
 
-* Read at two of the articles
-* Consider how the sentiments of the article resonate with or are counter to your
-own experience.
+* Read two of the articles. Try to "actively" read with a pen in your hand, underlining things that are interesting, making notes in the margins, etc.
+* Think about: how do the sentiments of the article resonate with or counter your
+own experience?
+* Think about: When you're one day running a tech company, would the thinking/assertions in these articles influence how you set salaries?
 * Calculate your real cost of attending our program (below)
 * If you finish before time is up, read a third article
 
 To calculate the *real cost* of Turing you should:
 
-* Be somewhat pessimistic and estimate that your total time out of work is 10 months. Multiply your most recent salary by 73% to find the ballpark post-tax income, then multiply by 83% to find how much you would have earned during these 10 months.
+* Be pessimistic and estimate that your total time out of work is 10 months. Multiply your most recent salary by 73% to find the ballpark post-tax income, then multiply by 83% (aka 10/12) to find how much you would have earned during these 10 months.
 * Add your total tuition cost (generally $16300 to $21000)
 * Add your monthly cost of living multiplied by the 10 months plus any extra money you had to spend to be here (travel, equipment, etc)
 
@@ -31,7 +32,7 @@ How many years will it take to pay off your investment?
 
 ## Discussing
 
-Discussing salary is taboo in America. So let's do it. Discuss some of the
+Discussing salary is taboo in America -- so let's do it. Discuss some of the
 following with your small group:
 
 * What's the most you've ever earned in a year? Was it fulfilling? Was the
@@ -39,8 +40,8 @@ money comparable to the effort and heart you put in? Why aren't you doing that
 anymore?
 * What's it going to take for you to "break even" financially after the real
 total cost you've paid to attend Turing? Will anyone in your group be earning less than they did before? How many years would it take to hit their old salary? Who will pay off their investment the fastest?
-* What are your goals for salary? Why?
-* How do you think your upbringing affects your thinking about salary? Who in your family or close friends earns the most? Who earns the least? Does those people influence you?
+* What are your personal goals for salary? Why?
+* How do you think your upbringing affects your thinking about salary? Who in your family or close friends earns the most? Who earns the least? Do those people influence you?
 * Given your education, age, and upbringing, what do you think you're "supposed to" earn as an annual salary?
 * How is that thinking affected by your race, gender, age, sexuality, religion, and relationship/dependents?
 * We see job offers to the same student vary by as much as $25K. How will raw salary factor into your job hunt/selection? Is it less or more important than other factors like "culture", "technology stack", etc? Why?
