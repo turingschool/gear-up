@@ -30,7 +30,7 @@ For the first five years in the industry you can typically expect at least a $75
 
 How many years will it take to pay off your investment?
 
-## Discussing
+## Discussing (15 Minutes)
 
 Discussing salary is taboo in America -- so let's do it. Discuss some of the
 following with your small group:
