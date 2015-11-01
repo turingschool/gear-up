@@ -9,6 +9,19 @@ Today let's think, talk, and listen about salary.
 
 ## Reading & Writing (15 Minutes)
 
+### Articles
+
+For the session 10/30/15 we used the following articles to kickstart our thinking:
+
+* http://www.inc.com/magazine/201511/paul-keegan/does-more-pay-mean-more-growth.html
+* https://www.washingtonpost.com/news/the-switch/wp/2015/04/14/why-the-position-gap-is-more-important-than-the-wage-gap-for-women-in-tech/
+* http://techcrunch.com/2015/05/24/lockstep-salaries/
+* http://techcrunch.com/2015/08/26/sharing-salaries-in-a-spreadsheet-is-not-the-way-to-pay-transparency/
+* http://www.usatoday.com/story/tech/2014/10/09/high-tech-pay-gap-hispanics-asians-african-americans/16606121/
+* https://www.washingtonpost.com/news/the-switch/wp/2014/09/08/how-a-race-for-female-tech-talent-might-narrow-the-industrys-gender-pay-gap/
+
+### Instructions
+
 Your small group will have a pile of several different articles. During this first segment you should:
 
 * Read two of the articles. Try to "actively" read with a pen in your hand, underlining things that are interesting, making notes in the margins, etc.
