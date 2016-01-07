@@ -15,7 +15,7 @@ In that turbulence some people get hurt. For one perspective on our work, read t
 Let's spend about 15 minutes writing on these topics:
 
 * What do you most agree with in the essay?
-* When the topic of diversity is discussed, do you feel included? Uplifted? Brow-beaten? Why?
+* When the topic of diversity is discussed, do you feel included? Uplifted? Brow-beaten? How can we discuss important topics like this without people feeling alienated?
 * There are many assertions about gender and gender equity in the piece. Obviously, by the numbers, Turing is gender-inequal. Do you notice that on a frequent basis? Do you think it has an impact on our culture? How?
 * When, at Turing or in life, do you feel the most unwelcome because of your identity?
 * Victimhood is a deep rut to fall into. What do you do when you feel yourself slipping into that thinking? What/who pulls you out?
