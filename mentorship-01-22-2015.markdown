@@ -2,7 +2,7 @@
 
 ### Read from Selected White Papers (25 min)
 * Georgia T Chao - *Mentorship Phases & Outcomes*
-
+* Kathy Kram 
 
 ### Discussion (10 min)
 
