@@ -8,4 +8,4 @@
 
 
 ### Big Group Discussion (5 min)
-* focus on how we can use what we've learned / gleaned from the readings in order to improve relationships between mentors and students at Turing
+* focus on how we can use what we've learned / gleaned from the readings in order to improve relationships between mentors and students at Turing.
