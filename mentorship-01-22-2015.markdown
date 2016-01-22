@@ -3,7 +3,7 @@
 ### Reading (15-20 min)
 * [Excerpts from Selected Academic Research](https://gist.github.com/maryelizbeth/c806b7ec6566645179d2)
 
-### Discussion (10 min)
+### Small Group Discussion / Writing (10 min)
 * What do you feel are the goals of mentorship at Turing? 
 * Of the types of mentorship discussed, which do you feel is most common within our organization? 
 * Do you feel as though you can make it past the initiation phase with MOST of your mentors? 
