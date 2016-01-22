@@ -1,8 +1,7 @@
 ## Mentorship
 
-### Read from Selected White Papers (25 min)
-* Georgia T Chao - *Mentorship Phases & Outcomes*
-* Kathy Kram 
+### Reading (15-20 min)
+* [Excerpts from Selected Academic Research](https://gist.github.com/maryelizbeth/c806b7ec6566645179d2)
 
 ### Discussion (10 min)
 
