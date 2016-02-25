@@ -1,10 +1,8 @@
 # Allyship
 
-When we talk about cultural and systemic discrimination as large-scale, social issues, we run the risk of overlooking the ways in which we can use our relationships and daily interactions to effectively challenge undesireable norms.
+In previous GearUps, we've explored the ways in which we can unwittingly participate in behavior that alienates or perpetuates inequality and injustice in our workplaces and communities. What opportunities, if any, do you have to effectively challenge these issues when you encounter them? How can we use our relationships and daily interactions to effectively challenge cultural and systemic discrimination?
 
-In previous Gear Ups, we've explored the ways in which we can unwittingly participate in behavior that alienates others or perpetuates inequality and injustice in our workplaces and communities. We can also approach this topic through another lens: **what opportunities, if any, do you have to effectively challenge these issues when you encounter them**?
-
-"Allyship" is a wonky word to describe a way of viewing your relationships and interactions as small but often powerful opportunities to tackle these larger social issues. Today, we will consider some essays on the topic of allyship and discuss whether or not these strategies seem meaningful and realistic.
+"Allyship" is when a person of privilege seeks to operate in solidarity with and support a marginalized group of people. Today, we will discuss some essays on the topic of allyship.
 
 ## Structure
 
@@ -21,6 +19,7 @@ during this period you'll read at least two of these, but it can be any two.
 * [White Anti-Racism: Living the Legacy](http://www.tolerance.org/supplement/white-anti-racism-living-legacy)  
 * [11 Things White People Can Do To Be Real Anti-Racist Allies](http://www.alternet.org/news-amp-politics/11-things-white-people-can-do-be-real-anti-racist-allies)  
 * [Emma Watson: Gender Equality is Your Issue Too](http://www.unwomen.org/en/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too)  
+* [10 Things Every ‘Ally’ Needs to Remember](http://everydayfeminism.com/2013/11/things-allies-need-to-know/)  
 
 ## Writing (~12 Minutes)
 
@@ -38,6 +37,8 @@ You know there are several people in your cohort who don't drink, but come Thurs
 
 ### Scenario 3
 
+* One of your friends is talking about the events they attend as part of a member of a group at Turing that is only for people of a certain identity. A person passing by, who does not hold that identity, says that it is unfair that such exclusive groups exist, and they would like to be able to take part in those group's events. What, if anything, do you do? What would an ally to that group do? How do you feel about the existence of groups tailored to people of a certain identity? 
+
 ### Scenario 4
 
 ## Discussion (~22 Minutes)
@@ -45,6 +46,7 @@ You know there are several people in your cohort who don't drink, but come Thurs
 Within your group, consider these questions:
 
 * Review the scenarios described above. How did each of you respond? What are the implications of different responses?
+* What's one time you acted as an ally? What's one time someone acted as an ally for you?
 * Allyship, a social-responsibility buzzword, risks polarizing a community between people who are militantly politically correct and those who think being a good person is a matter of common sense. How would you describe your attitude toward these topics? What can you learn from people with a different perspective?
 * In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference?
 * Proponents of the allyship lense of social responsibility would argue that focusing on this scale is viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
