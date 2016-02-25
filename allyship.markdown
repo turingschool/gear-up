@@ -1,6 +1,6 @@
 # Allyship
 
-When we talking about cultural and systemic discrimination as large-scale, social issues, we run the risk of overlooking the ways in which we can use our relationships and daily interactions to effectively challenge undesirable norms.
+When we talk about cultural and systemic discrimination as large-scale, social issues, we run the risk of overlooking the ways in which we can use our relationships and daily interactions to effectively challenge undesireable norms.
 
 In previous Gear Ups, we've explored the ways in which we can unwittingly participate in behavior that alienates others or perpetuates inequality and injustice in our workplaces and communities. We can also approach this topic through another lens: **what opportunities, if any, do you have to effectively challenge these issues when you encounter them**?
 
