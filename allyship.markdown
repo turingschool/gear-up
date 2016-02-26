@@ -1,6 +1,6 @@
 # Allyship
 
-In previous GearUps, we've explored the ways in which we can unwittingly participate in behavior that alienates or perpetuates inequality and injustice in our workplaces and communities. What opportunities, if any, do you have to effectively challenge these issues when you encounter them? How can we use our relationships and daily interactions to effectively challenge cultural and systemic discrimination?
+In previous GearUps, we've explored the ways in which we can unwittingly participate in behavior that alienates or perpetuates inequality and injustice in our workplaces and communities. What opportunities, if any, do you have to address these issues when you encounter them? How can we use our relationships and daily interactions to effectively challenge cultural and systemic discrimination?
 
 "Allyship" is when a person of privilege seeks to operate in solidarity with and support a marginalized group of people. Today, we will discuss some essays on the topic of allyship.
 
@@ -19,12 +19,12 @@ during this period you'll read at least two of these, but it can be any two.
 * [White Anti-Racism: Living the Legacy](http://www.tolerance.org/supplement/white-anti-racism-living-legacy)  
 * [11 Things White People Can Do To Be Real Anti-Racist Allies](http://www.alternet.org/news-amp-politics/11-things-white-people-can-do-be-real-anti-racist-allies)  
 * [Emma Watson: Gender Equality is Your Issue Too](http://www.unwomen.org/en/news/stories/2014/9/emma-watson-gender-equality-is-your-issue-too)  
-* [10 Things Every ‘Ally’ Needs to Remember](http://everydayfeminism.com/2013/11/things-allies-need-to-know/)  
+* [Being an Ally: 10 Things Every ‘Ally’ Needs to Remember](http://everydayfeminism.com/2013/11/things-allies-need-to-know/)  
 * [Making Tech Spaces Safe for Diverse Faces](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
 
 ## Writing (~12 Minutes)
 
-Next process your thinking through writing.
+Next, process your thinking through writing.
 
 The scenarios listed below have all been reported to have happened here at Turing. As you read and write about each scenario, consider these general questions as well as those embedded in the scenario:
 
@@ -48,7 +48,7 @@ What, if anything, do you do?  If you were a person who felt especially excluded
 
 ### Scenario 3
 
-One of your friends is talking about one of the Joan Clarke events for women students that they attended. A person passing by, who does identify as a woman, says that it is unfair that such exclusive groups exist. They'd would like to be able to take part in those group's events.
+One of your friends is talking about one of the Joan Clarke events for women students that they attended. A person passing by, who does not identify as a woman, says that it is unfair that such exclusive groups exist. They would like to be able to take part in those group's events.
 
 What, if anything, do you do? What would an ally to that group do? How do you feel about the existence of groups tailored to people of a certain identity?
 
@@ -64,9 +64,9 @@ Within your group, consider these questions:
 
 * Review the scenarios described above. How did each of you respond? What are the implications of different responses?
 * What's one time you acted as an ally? What's one time someone acted as an ally for you?
-* Allyship, a social-responsibility buzzword, risks polarizing a community between people who are militantly politically correct and those who think being a good person is a matter of common sense. How would you describe your attitude toward these topics? What can you learn from people with a different perspective?
-* In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference?
-* Proponents of the allyship lense of social responsibility would argue that focusing on this scale is viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
+* Allyship, a social-responsibility buzzword, risks polarizing a community that includes people who are militantly politically correct and those who think being a good person is a matter of common sense. How would you describe your attitude toward these topics? What can you learn from people with a different perspective?
+* In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference? What are larger actions an ally can do?
+* Proponents of the allyship lens of social responsibility would argue that focusing on this scale is a viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
 
 ## Debrief: (~5 Minutes)
 
