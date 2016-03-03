@@ -16,13 +16,13 @@ Today, we will be exploring perspectives on environmenetal responsibility. Your 
 
 [The Climate Connection: "Nudge" theory](http://www.bbc.co.uk/worldservice/science/2010/11/101129_climate_connection_nudge_theory_video.shtml)
 
-[Something against why policy change is the way to go]
+[Why David Cameron's 'nudge unit' is a waste of time for the environment](http://www.theguardian.com/environment/2011/mar/31/david-cameron-nudge-unit-environment)
 
 ### 3. Resources as Fuel for Industrialization & Growth
 
 [Smells Like Progress: Growing Up in Cancer Alley](https://blog.epa.gov/blog/2013/08/smells-like-progress/)
 
-[Need an article about how western countries have gotten to pollute when they industrialized, but now we don't want developing countries to be able to do that]
+[What Is Equity in the Context of Climate Negotiations?](http://www.wri.org/blog/2012/12/what-equity-context-climate-negotiations)
 
 ### 4. Morality & Religion
  Choose 2 of the following:
