@@ -1,90 +1,100 @@
 # Environmental Responsibility
 
-Today, we will be exploring perspectives on environmenetal responsibility. Your current group will analyze and discuss 1 of 5 topics related to environmental responsibility, and then we will form new groups where everyone has read about a different topic. This second group will share and reflect on all 5 topics and discuss situations regarding environmental responsibility here at Turing and outside of it. 
+Today, we will try a new model for our exploration:
 
-## Reading (~10 Minutes)
+* Part 1: Small groups explore a single topic (reading, writing, discussing)
+* Part 2: Jigsaw groups discuss across topics
+* Part 3: Community debrief
 
-### 1. Apathy
+We will be exploring perspectives on **environmental responsibility**.
 
-[The psychology of climate change: why we do nothing](http://www.theecologist.org/News/news_analysis/301036/the_psychology_of_climate_change_why_we_do_nothing.html)
+## Part 1: Small Groups, Single Topic
 
-[Your brain on climate change: why the threat produces apathy, not action](http://www.theguardian.com/sustainable-business/2014/nov/10/brain-climate-change-science-psychology-environment-elections)
+### Reading (~10 Minutes)
 
-### 2. Policy & Systematic Change
+On the outline your group was assigned one of the domains below. Read the appropriate articles.
 
-[Leonardo Dicaprio's 2016 Oscar Acceptance Speech](http://oscar.go.com/news/winners/watch-leonardo-dicaprios-acceptance-speech-for-best-actor-2016) - from 2:00 on
+#### 1. Apathy
 
-[The Climate Connection: "Nudge" theory](http://www.bbc.co.uk/worldservice/science/2010/11/101129_climate_connection_nudge_theory_video.shtml)
+* [The psychology of climate change: why we do nothing](http://www.theecologist.org/News/news_analysis/301036/the_psychology_of_climate_change_why_we_do_nothing.html)
+* [Your brain on climate change: why the threat produces apathy, not action](http://www.theguardian.com/sustainable-business/2014/nov/10/brain-climate-change-science-psychology-environment-elections)
 
-[Why David Cameron's 'nudge unit' is a waste of time for the environment](http://www.theguardian.com/environment/2011/mar/31/david-cameron-nudge-unit-environment)
+#### 2. Policy & Systematic Change
 
-### 3. Resources as Fuel for Industrialization & Growth
+* [Leonardo Dicaprio's 2016 Oscar Acceptance Speech](http://oscar.go.com/news/winners/watch-leonardo-dicaprios-acceptance-speech-for-best-actor-2016) - from 2:00 on
+* [The Climate Connection: "Nudge" theory](http://www.bbc.co.uk/worldservice/science/2010/11/101129_climate_connection_nudge_theory_video.shtml)
+* [Why David Cameron's 'nudge unit' is a waste of time for the environment](http://www.theguardian.com/environment/2011/mar/31/david-cameron-nudge-unit-environment)
 
-[Smells Like Progress: Growing Up in Cancer Alley](https://blog.epa.gov/blog/2013/08/smells-like-progress/)
+#### 3. Resources as Fuel for Industrialization & Growth
 
-[What Is Equity in the Context of Climate Negotiations?](http://www.wri.org/blog/2012/12/what-equity-context-climate-negotiations)
+* [Smells Like Progress: Growing Up in Cancer Alley](https://blog.epa.gov/blog/2013/08/smells-like-progress/)
+* [What Is Equity in the Context of Climate Negotiations?](http://www.wri.org/blog/2012/12/what-equity-context-climate-negotiations)
 
-### 4. Morality & Religion
- Choose 2 of the following:
+#### 4. Morality & Religion
 
-[Pope Francis, in Sweeping Encyclical, Calls for Swift Action on Climate Change](http://www.nytimes.com/2015/06/19/world/europe/pope-francis-in-sweeping-encyclical-calls-for-swift-action-on-climate-change.html?_r=0)
+* [Pope Francis, in Sweeping Encyclical, Calls for Swift Action on Climate Change](http://www.nytimes.com/2015/06/19/world/europe/pope-francis-in-sweeping-encyclical-calls-for-swift-action-on-climate-change.html?_r=0)
+* [Stewards of the Earth](http://www.emagazine.com/magazine-archive/stewards-of-the-earth) - Starting from the heading "Active for Islam" towards the end
+* [Christianity and Climate Activism](http://yearsoflivingdangerously.com/video/reaching-across-divide/)
 
-[Christianity and Climate Activism](http://yearsoflivingdangerously.com/video/reaching-across-divide/)
+#### 5. Radical Environmentalism
 
-[Stewards of the Earth](http://www.emagazine.com/magazine-archive/stewards-of-the-earth) - Starting from the heading "Active for Islam" towards the end 
+* [Excerpt from Derrick Jensen's Endgame](http://www.derrickjensen.org/work/endgame/endgame-premises-english/)
 
-### 5. Radical Environmentalism
+### Writing (~5 Minutes)
 
-[Excerpt from Derrick Jensen's Endgame](http://www.derrickjensen.org/work/endgame/endgame-premises-english/)
+Consider the following questions and write about them in your notebook:
 
-
-## Writing: Round 1 (~5 Minutes)
- Consider the following questions and write about them in your notebook:
 * What do you think were the strongest arguments in these pieces?
+* What reinforced ideas you already had?
 * What considerations were overlooked?
 * Were there any details that surprised you? If so, what?
-* How do the authors' position affect your sense of individual responsibility around this topic? How does it affect the Turing community's responsibility?
+* How do the authors' position affect your sense of individual responsibility around this topic?
+* How could it affect the Turing community's responsibility?
 
-## Discussion: Round 1 (~10 Minutes)
+### Discussion (~10 Minutes)
 
 Based on what group you're in, discuss the following questions:
 
 #### 1. Apathy
-  * What do you think are the greatest barriers to taking action for a cause?
-  * Do you think these are legitimate reasons? Why or why not?
-  * When is a time when you felt frustrated by another person's apathy? What could you do to engage a person who is apathetic?
 
+* What do you think are the greatest barriers to taking action for a cause?
+* Do you think these are legitimate reasons? Why or why not?
+* When is a time when you felt frustrated by another person's apathy? What could you do to engage a person who is apathetic?
 
 #### 2. Policy & Systematic Change
-  * Is working for policy change a meaningful way to address environmental issues?
-  * What are obstacles to creating policy change? What can we do about it?
-  * If policy change is not a meaningful way to address these issues, what is? 
 
+* Is working for policy change a meaningful way to address environmental issues?
+* What are obstacles to creating policy change? What can we do about it?
+* If policy change is not a meaningful way to address these issues, what is?
 
 #### 3. Resources as Fuel for Industrialization & Growth
-  * Is there an inherent trade-off between economic growth and environmental degradation?
-  * Is the inequity that has resulted from market-driven development acceptable? Why or why not?
-  * If those inequities are unacceptable, what could be done to address them?
 
+* Is there an inherent trade-off between economic growth and environmental degradation?
+* Is the inequity that has resulted from market-driven development acceptable? Why or why not?
+* If those inequities are unacceptable, what could be done to address them?
 
 #### 4. Morality & Religion
-  * Is there a moral, religious, or spiritual reason to be environmentally responsible? 
-  * Do you think there is a place for moral, religious, or spiritual thought to guide environmental policy?
-  * How can we engage in a productive conversation with people who have different perspectives from us?
 
+* Is there a moral, religious, or spiritual reason to be environmentally responsible?
+* Do you think there is a place for moral, religious, or spiritual thought to guide environmental policy?
+* How can we engage in a productive conversation with people who have different perspectives from us?
 
 #### 5. Radical Environmentalism
-  * What are your initial reactions to this piece?
-  * What premise(s) particularly strike you? Why? Do you agree with it? Why or why not?
-  * Is industrial civilization inherently unsustainable? Is there value in working towards a sustainable society?
 
-## Discussion: Round 2 (~20 Minutes)
+* What are your initial reactions to this piece?
+* What premise(s) particularly strike you? Why? Do you agree with it? Why or why not?
+* Is industrial civilization inherently unsustainable? Is there value in working towards a sustainable society?
 
-Get into your new groups where there is a representative from each topic group. After each sharing a summary of your topic and the discussion that happened in your first group, consider the following questions:
+## Part 2: Jigsaw Discussion (~20 Minutes)
 
-  * What approach would you like to see Turing take toward this issue of environmental responsibility? Has that changed after being exposed to new perspectives? Why?
-  * If Turing could impart one skill on graduates that would help them bring a more environmentally responsible culture to their future employers, what should that skill be?
-  * What role do businesses and tech companies play in environmental responsibility? 
+Now rotate into your second group and let's discuss across topics with a representative from each topic group.
 
-## Debrief: (~5 Minutes)
-Gather together in the big workspace, where each group will share their main takeaways. 
+First, whip around the group giving a short summary of your topic and small group discussion. Second, consider the following questions:
+
+* What approach would you like to see Turing take toward this issue of environmental responsibility? Has that changed after being exposed to new perspectives? Why?
+* If Turing could impart one skill on graduates that would help them bring a more environmentally responsible culture to their future employers, what should that skill be?
+* What role do businesses and tech companies play in environmental responsibility?
+
+## Async Debrief (~5 Minutes)
+
+Take the last few minutes of our time, jump in #Turing on Slack, and have one member of your jigsaw group members share your key takeaways.
