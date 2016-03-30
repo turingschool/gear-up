@@ -96,7 +96,7 @@ Time to share some thoughts!
 Go around your small group and share:
 
 1. The most interesting number you saw today in all the readings/articles/exercises/questions
-2. Do you feel like your life would improve with greater diversity in the tech workforce?
+2. Could your life be improved with greater diversity in the tech workforce?
 
 Open discussion, then take 2 minutes to decide as a group, **what is the one thing you would take away from today's gear-up?**
 
