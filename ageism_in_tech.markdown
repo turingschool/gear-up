@@ -7,7 +7,7 @@
   * [Steven Levy on ageism in tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
   * [Is ageism in tech an under the radar diversity issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue) 
 
-### Discussion (10 min)
+### Discussion (30 min)
 Discuss the question “How are institutions shaped by individual actions?” through the lens of ageism in the tech industry. 
 * According to the articles and your own experiences, what institutional norms and practices perpetuate ageism?  
 * Identify three scenarios in which you are likely to encounter these institutional norms and practices in your first 3 years of employment in the tech industry?  
