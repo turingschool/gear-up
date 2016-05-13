@@ -1,7 +1,7 @@
 ## Ageism: A Lens for Exploring Diversity and Individual Action (Facilitator Companion)
 
 ### Introductions (5 min)
-* Role of the facilitator
+* Role of the facilitator (promote meaningful conversation that supports exchange and learning)
 * Agenda for the hour
 * Review evaluation criteria (see survey linked at the end)
 * Group goals  (1. Hit all the agenda items, 2. Reflect on the final question about authentic action, 3. Complete surveys on how you did as a facilitator)
