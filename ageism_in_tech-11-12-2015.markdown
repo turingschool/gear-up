@@ -1,5 +1,4 @@
-# Diversity and Individual Action
-How are institutions shaped by individual actions?
+# Ageism: A Lens for Exploring Diversity and Individual Action
 
 ### Introductions (5 min)
 
