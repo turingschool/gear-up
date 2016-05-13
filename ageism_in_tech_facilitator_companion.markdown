@@ -4,7 +4,10 @@
 * Role of the facilitator
 * Agenda for the hour
 * Review evaluation criteria (see survey linked at the end)
-* Group goals (1. Hit all the agenda items, 2. Reflect on the final question about authentic action, 3. Complete surveys on how you did as a facilitator)
+* Group goals  
+1. Hit all the agenda items  
+2. Reflect on the final question about authentic action 
+3. Complete surveys on how you did as a facilitator
 
 ### Read Articles (15 min)
   * [Silicon Valley's brutal ageism](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
@@ -20,5 +23,7 @@
 _The goal of recap is to synthesize the topics you've discussed. Consider reading through what your notetaker captured from your discussion. If you gave your group time to reflect privately on the last topic, this may be a good time for everyone to report out their ideas._
 
 ### Complete Surveys (5 min)
-_The facilitator is responsible for everyone in their group filling out surveys. Make time for it -- even if it means cutting the discussion short. Two reasons the survey is important: 1) It will give you some information about how your group management was perceived by the group, and 2) It will help set a tone of reverence for mod 1-3 student toward GearUp as a whole -- a small legacy you can leave behind._  
+_The facilitator is responsible for ensuring that everyone in their group fills out the survey. Make time for it -- even if it means cutting the discussion short. Two reasons the survey is important:_
+_1) It will give you some information about how your group management was perceived by the others_
+_2) It will help set a tone of reverence for mod 1-3 student toward GearUp as a whole -- a small legacy you can leave behind._  
 http://goo.gl/forms/BVi3v2qBxB
