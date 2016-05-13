@@ -7,6 +7,7 @@
 * Group goals  (1. Hit all the agenda items, 2. Reflect on the final question about authentic action, 3. Complete surveys on how you did as a facilitator)
 
 ### Read Articles (15 min)
+  * [When It Comes to Age, Tech Companies Don't Even Bother to Lie](http://observer.com/2016/04/when-it-comes-to-age-bias-tech-companies-dont-even-bother-to-lie/)
   * [Silicon Valley's brutal ageism](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
   * [Steven Levy on ageism in tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
   * [Is ageism in tech an under the radar diversity issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue) 
