@@ -12,15 +12,16 @@
   * [Is ageism in tech an under the radar diversity issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue) 
 
 ### Discussion (10 min)
-Discuss the question “How are institutions shaped by individual actions?” through the lens of ageism in the tech industry. 
-_It may be helpful to do a quick vocabular review here: What is an institution? (a company, an industry, a subset of an industry, a social convention, i.e. marriage) and What do we mean by individual actions? (interactions, choices you make in your day to do life)_
+Discuss the question “How are institutions shaped by individual actions?” through the lens of ageism in the tech industry.  
 
-_Also, it is *strongly* encouraged that you take notes on a white-board or big post-it -- these props help your group process the discussion and internalize takeaways._
+_It may be helpful to do a quick vocabular review here: What is an institution? (a company, an industry, a subset of an industry, a social convention, i.e. marriage) and What do we mean by individual actions? (interactions, choices you make in your day to do life)_  
 
-_Best practice: assign a timekeeper and a notetaker._
+_Also, it is *strongly* encouraged that you take notes on a white-board or big post-it -- these props help your group process the discussion and internalize takeaways._  
+
+_Best practice: assign a timekeeper and a notetaker._  
 
 * According to the articles and your own experiences, what institutional norms and practices perpetuate ageism?  
-_(possibilities here include default social activities, work hours, recreational activities, style of meetings, communication style)_
+_(possibilities here include default social activities, work hours, recreational activities, style of meetings, communication style)_  
 * Identify three scenarios in which you are likely to encounter these institutional norms and practices in your first 3 years of employment in the tech industry?  
 _It's best for these to come organically, but if you're desperate for ideas, here are some examples: interviewing candidates and your company has a bias for experiences young people are more likely to have, ageism excluded from your company's diversity efforts despite their clear lack of age diversity)
 * How do you expect you will you be affected by these norms and practices? Will you benefit or suffer from them?  
