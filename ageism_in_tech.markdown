@@ -3,9 +3,10 @@
 ### Introductions (5 min)
 
 ### Read Articles (15 min)
-  * [Silicon Valley's brutal ageism](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
-  * [Steven Levy on ageism in tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
-  * [Is ageism in tech an under the radar diversity issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue) 
+  * [When It Comes to Age, Tech Companies Don't Even Bother to Lie](http://observer.com/2016/04/when-it-comes-to-age-bias-tech-companies-dont-even-bother-to-lie/)
+  * [Silicon Valley's Brutal Ageism](https://newrepublic.com/article/117088/silicons-valleys-brutal-ageism)
+  * [Steven Levy on Ageism in Tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
+  * [Is Ageism in Tech an Under the Radar Diversity Issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue) 
 
 ### Discussion (30 min)
 Discuss the question “How are institutions shaped by individual actions?” through the lens of ageism in the tech industry. 
