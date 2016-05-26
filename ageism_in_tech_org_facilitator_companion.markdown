@@ -3,11 +3,11 @@
 ### Introductions (5 min)
 * Assign timekeeper and note-taker.
 * Share names and modules. 
-* Establish groundrules: spend a few minutes talking about what a productive, respectful conversation will look like. Beyond the obvious, it may be helpful to highlight the importance of making space for people who are shy/soft-spoken, be careful about interruptions, making space for different opinions. 
+* Establish groundrules: spend a few minutes talking about what a productive, respectful conversation will look like. Beyond the obvious, it may be helpful to highlight the importance of making space for people who are shy/soft-spoken, being careful not to interrupt others, making space for different opinions. 
 * Facilitator to do a quick walkthrough of the agenda. 
 
 ### Scenario (5 min)
-With your team, review the scenario below.  
+With your team, review the given scenario.  
 
 ### Strategize (35 min)
 Consider these sub-categories as a way to structure your discussion. 
