@@ -28,9 +28,9 @@ Your team's facilitator is responsibile for submitting your recommendations:
 * Add your team number, facilitator name, and link to gist using the format below
 * Submit a PR to this repo
 
-*Team Recommendations*
+**Team Recommendations**
 * Team 1 (Betty White): https://gist.github.com/bettywhite/57ce00324bbd73a3589591694931ef94
-* Team 2 (Sean Connery): http://www.seanconnery.com/ (this is SpaceJam caliber, folks)
+* Team 2 (Sean Connery): http://www.seanconnery.com/ (web design, a la SpaceJam)
 
 All other team members should use this time to complete the survey below, assessing your facilitator's performance. 
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
