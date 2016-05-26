@@ -20,7 +20,7 @@ Before jumping into the discussion, it may be helpful to specifically define wha
 **Define the Problem**  
 Based on those values, discuss the problems you plan to tackle through your recommendations.  
 * Is it merely that your employees are behaving inappropriately? 
-* Are you comfortable walking away from the client? 
+* Are you comfortable walking away from the client?   
 Unless you're clear on the problem, you may run into problems developing solutions as a group. 
 
 **Recommendations**  
