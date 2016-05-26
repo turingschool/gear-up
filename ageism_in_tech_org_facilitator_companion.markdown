@@ -1,7 +1,7 @@
 ## Ageism: A Lens for Exploring Diversity and Organizational Leadership (Facilitator Companion)
 
 ### Introductions (5 min)
-* Assign timekeeper and note-taker.
+* Assign timekeeper and notetaker.
 * Share names and modules. 
 * Establish groundrules: spend a few minutes talking about what a productive, respectful conversation will look like. Beyond the obvious, it may be helpful to highlight the importance of making space for people who are shy/soft-spoken, being careful not to interrupt others, making space for different opinions. 
 * Facilitator to do a quick walkthrough of the agenda. 
