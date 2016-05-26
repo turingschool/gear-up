@@ -1,4 +1,4 @@
-## Ageism: A Lens for Exploring Diversity and Individual Action
+## Ageism: A Lens for Exploring Diversity and Organizational Leadership
 
 Last Gear Up, we read some articles about ageism in the tech space and explored how we individually relate to the issue. This week, we will tackle ageism through an organizational leadership lens. 
 
