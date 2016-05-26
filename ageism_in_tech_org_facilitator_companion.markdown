@@ -25,7 +25,7 @@ Based on those values, discuss the problems you plan to tackle through your reco
 Unless you're clear on the problem, you may run into problems developing solutions as a group. 
 
 **Recommendations**  
-Develop solutions specifically targeted to address the problems you defined. 
+Fix your problems. 
 
 
 ### Complete Facilitator Surveys and Submit Recommendations (5 min)
