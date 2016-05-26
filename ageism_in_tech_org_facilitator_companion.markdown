@@ -4,7 +4,7 @@
 * Assign timekeeper and notetaker.
 * Share names and modules. 
 * Establish groundrules: spend a few minutes talking about what a productive, respectful conversation will look like. Beyond the obvious, it may be helpful to highlight the importance of making space for people who are shy/soft-spoken, being careful not to interrupt others, making space for different opinions. 
-* Facilitator to do a quick walkthrough of the agenda. 
+* Walk through the agenda. 
 
 ### Scenario (5 min)
 With your team, review the given scenario.  
