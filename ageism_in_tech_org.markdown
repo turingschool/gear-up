@@ -29,7 +29,7 @@ Your team's facilitator is responsibile for submitting your recommendations:
 * Submit a PR to this repo
 
 **Team Recommendations** (Facilitators: Please use the format below for submitting your team's information)
-* Team 1 (Betty White): https://gist.github.com/bettywhite/...
+* Team 1 (Taylor Moore): https://gist.github.com/NicoleKMarino/7b8e36d5ee8612609a8f153c24640cfa
 * Team 2 (Sean Connery): http://gist.github.com/seanconnery/...
 
 All other team members should use this time to complete the survey below, assessing your facilitator's performance. 
