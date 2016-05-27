@@ -28,10 +28,17 @@ Your team's facilitator is responsibile for submitting your recommendations:
 * Add your team number, facilitator name, and link to gist using the format below
 * Submit a PR to this repo
 
-**Team Recommendations** (Facilitators: Please use the format below for submitting your team's information)
-* Team 1 (Betty White): https://gist.github.com/bettywhite/...
-* Team 2 (Sean Connery): http://gist.github.com/seanconnery/...
+**Team Recommendations**
+* Team 1 (Taylor Moore): https://gist.github.com/NicoleKMarino/7b8e36d5ee8612609a8f153c24640cfa
+* Team 2 (Adrienne Domingus): https://gist.github.com/adriennedomingus/6b078ab4e28f3a58a05b877244cd0099
+* Team 3 (Brennan "Betty White" Holtzclaw): https://gist.github.com/brennanholtzclaw/e829d62c85b02296d9f39cfb6c8523ee
 * Team 4 (Brian Rippeto): https://gist.github.com/brianrip/094c10c99bacb92faed6160255b2d4ea
+* Team 5 (Chelsea Johnson, Team Jitterbug): https://gist.github.com/cheljoh/94bdeb966e1e530f3c6f5f9b610597a5
+* Team 6 (David Whitaker): https://gist.github.com/damwhit/e884c1f224bca8639956fd954d9edcad
+* Team 8 (Julian Feliciano): https://gist.github.com/julsfelic/982f5bca635150af0b11bfaa3ff832de
+* Team 9 (July Tran): https://gist.github.com/jwashke/301e8b443561a3c2a5ceb2c62088d6d5
+* Team 10 (Kimiko Kano): https://gist.github.com/ksk5280/3c8422a1dcb93e39f28d5b7b264c7e92
+* Team 11 (Scott Firestone): https://gist.github.com/saylerb/30d23bdaa25d78cd891c020b2ccd877f
 
 All other team members should use this time to complete the survey below, assessing your facilitator's performance. 
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
