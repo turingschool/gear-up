@@ -12,7 +12,7 @@ With your team, review the scenario below.
 
 > Your Gen-Y company was just acquired by a larger company, and several of your developers have been moved over to the parent company's project for AARP (formerly the American Association of Retired Persons). Early into the project, your developers' inability to relate to the expectations of your client and their customers began to undermine their ability to meet the client's needs. The issue culminated in a disastrous meeting with your client in which one of your engineers was dismissive of the needs your client raised. Your engineer wasn't trying to be combative, but his lack of understanding for older customers' comfort with tech nevertheless came across as impatient and unaccommodating. The client later contacted your CEO and threatened to leave unless the tone of your meetings changed and your team was more aligned with their overall goals.
 
-> You quickly become aware that this disdain for the AARP project is widespread across your team. Many of your developers are unenthusiastic about adapting to the client's needs, and they seem unable to imagine creative solutions to some of the challenges the your client faces. You’re able to replace the team lead with a gentleman in his early fifties from your parent company; while this subdues your client in the short-term, it is now beginning to cause strife between the lead and the rest of your team. 
+> You quickly become aware that this disdain for the AARP project is widespread across your team. Many of your developers are unenthusiastic about adapting to the client's needs, and they seem unable to imagine creative solutions to some of the challenges your client faces. You’re able to replace the team lead with a gentleman in his early fifties from your parent company; while this subdues your client in the short-term, it is now beginning to cause strife between the lead and the rest of your team. 
 
 > While the youthful culture of your developers was celebrated before the acquisition, it is now a liability. If you are not able to turn these dynamics around quickly, either your client will leave or you will be forced to take some dramatic actions with your employees that may harm the otherwise creative and dynamic environment you worked so hard to create. You assemble a team of people who were at your start-up from the beginning, care about the employees involved, and care about the success of the acquisition to develop some recommendations on how to de-escalate the situation.
 
@@ -29,8 +29,8 @@ Your team's facilitator is responsibile for submitting your recommendations:
 * Submit a PR to this repo
 
 **Team Recommendations** (Facilitators: Please use the format below for submitting your team's information)
-* Team 1 (Betty White): https://gist.github.com/bettywhite/57ce00324bbd73a3589591694931ef94
-* Team 2 (Sean Connery): http://www.seanconnery.com/ (web design, a la SpaceJam)
+* Team 1 (Betty White): https://gist.github.com/bettywhite/...
+* Team 2 (Sean Connery): http://gist.github.com/seanconnery/...
 
 All other team members should use this time to complete the survey below, assessing your facilitator's performance. 
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
