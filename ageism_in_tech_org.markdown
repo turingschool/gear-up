@@ -36,4 +36,4 @@ All other team members should use this time to complete the survey below, assess
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
 
 ### Report Out (10 min)
-Reconvene your group in Classroom B where each group will report out their recommendations.
+Reconvene your group in Big Workspace where each group will report out their recommendations.
