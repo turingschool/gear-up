@@ -31,6 +31,7 @@ Your team's facilitator is responsibile for submitting your recommendations:
 **Team Recommendations** (Facilitators: Please use the format below for submitting your team's information)
 * Team 1 (Betty White): https://gist.github.com/bettywhite/...
 * Team 2 (Sean Connery): http://gist.github.com/seanconnery/...
+* Group 8 (Julian Feliciano): https://gist.github.com/julsfelic/982f5bca635150af0b11bfaa3ff832de
 
 All other team members should use this time to complete the survey below, assessing your facilitator's performance. 
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
