@@ -35,4 +35,4 @@ Make sure all other team members complete the survey.
 http://goo.gl/forms/SxVhhcuCuNgNujwM2
 
 ### Report Out (10 min)
-Reassemble in Classroom B. The sooner you get there, the sooner we get to lunch. 
+Reassemble in the Big Workspace.
