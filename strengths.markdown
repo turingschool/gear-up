@@ -25,9 +25,9 @@ Take the [University of Kent’s Strengths Test](https://www.kent.ac.uk/careers/
 
 ## Discuss (25 min)
 - What opportunities have you had to use these strengths at Turing? How else could you design projects and other activities to suit your strengths?
-- What could you do to strengthen these strengths?
-- How to use your strengths in a programming career?
-- If you worked on a team with this group, how could you take advantage of each other's strengths?
+- What could you do to deepen these strengths?
+- How can you use your strengths in your programming career?
+- If you worked on a team with others in your group, how could you take advantage of each other's strengths?
 
 ## Retro (5 min)
 Please fill out [this survey](http://goo.gl/forms/HslsACu8vBCyoSW42).
