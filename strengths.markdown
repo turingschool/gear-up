@@ -10,24 +10,24 @@ While there are many frameworks for organizing personal and professional develop
 
 In today's exercise, we will read an article from Gallup arguing for a strengths-based approach to professional development, take a free strengths-identification assessment, and break into groups where we can discuss how to best engage our strengths in a career of tech.
 
-### READ - 5 min
+## Read (5 min)
 Read this article, ["The Fallacy Behind the American Dream,”](
 http://www.gallup.com/businessjournal/26278/fallacy-behind-american-dream.aspx) (Gallup, February 8, 2007).
 
-### TAKE THE ASSESSMENT - 10 min
+## Take the Assessment (10 min)
 Take the [University of Kent’s Strengths Test](https://www.kent.ac.uk/careers/Choosing/strengths.htm). This test is a free, simplified variation of Gallup’s StrengthsFinder assessment.
 
-### ORGANIZE BY STRENGTHS - 5 min
+## Organize by Strengths (5 min)
 | []()        | []()           |
 | ------------- |-------------|
 | **Executing** (Classroom A) <li>Conscientious</li><li>Cautious</li><li>Determined</li><li>Goal-Oriented</li> | **Influencing** (BW tables) <li>Leader</li><li>Organizer</li><li></li><li></li>  |
 | **Relationship Building** (BW couches) <li>Outgoing</li><li>Caring</li><li>Cooperative</li><li></li>| **Strategic Thinking** (Classroom C) <li>Creative</li><li>Helicopter</li><li>Adaptable</li><li>Analytical</li> |
 
-### DISCUSS - 25 min
+## Discuss (25 min)
 - What opportunities have you had to use these strengths at Turing? How else could you design projects and other activities to suit your strengths?
 - What could you do to strengthen these strengths?
 - How to use your strengths in a programming career?
 - If you worked on a team with this group, how could you take advantage of each other's strengths?
 
-### RETRO - 5 min
+## Retro (5 min)
 Please fill out [this survey](http://goo.gl/forms/HslsACu8vBCyoSW42).
