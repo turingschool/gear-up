@@ -6,7 +6,7 @@ While there are many frameworks for organizing personal and professional develop
 
 >For developing existing teams, there is evidence that “type”-based  personality tests can help managers better develop and deploy the talent they have already hired. For example, Gallup’s StrengthsFinder 2.0 is a tool that helps individuals understand and describe their own talents, and is commonly used by managers to understand and capitalize on the strengths of those they hire. More importantly, it is methodologically sound, and its reliability and validity are backed up by clear evidence.
 >
->Facebook uses StrengthsFinder...Regardless of the job openings they have available, Facebook simply hires the smartest people it can find, then uses StrengthsFinder results to understand their talents and create a job tailored to the candidate.
+>Facebook uses StrengthsFinder...Regardless of the job openings they have available, Facebook simply hires the smartest people it can find, then uses StrengthsFinder results to understand their talents and create a job tailored to the candidate. (["How To Hire Like Google And Facebook: Evaluating Candidates Beyond Their Technical Ability"](http://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#3f6a8f814f15): _Forbes_ April 15, 2014)
 
 In today's exercise, we will read an article from Gallup arguing for a strengths-based approach to professional development, take a free strengths-identification assessment, and break into groups where we can discuss how to best engage our strengths in a career of tech.
 
