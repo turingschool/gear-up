@@ -1,1 +1,3 @@
 Lorem ipsum...
+
+http://www.forbes.com/sites/markmurphy/2015/08/06/which-of-these-4-communication-styles-are-you/#193989a51ecb
