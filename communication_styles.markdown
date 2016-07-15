@@ -3,7 +3,7 @@
 ### Introduction to Exercise (5 min)
 
 ### Read and Write (25 min)
-Read [Which Of These 4 Communication Styles Are You?](http://www.forbes.com/sites/markmurphy/2015/08/06/which-of-these-4-communication-styles-are-you/#193989a51ecb) by Mark Murphy and reflect on the following questions in writing in your notebooks.
+Read [Which Of These 4 Communication Styles Are You?](http://www.forbes.com/sites/markmurphy/2015/08/06/which-of-these-4-communication-styles-are-you/#193989a51ecb) (Mark Murphy, *Forbes*: August 6, 2015) and reflect on the following questions in writing in your notebooks.
 * Which communication style (Analytical, Intuitive, Functional and Personal) do you think is your dominant style?  
   *(When you answer this question, please log your answer in the #on-campus channel in Slack. We will use this info to divide into groups)*
 * In what settings do you think this style is most effective? Reflect on a specific occasion when this style helped you be effective (build relationships, advance a cause you cared about, sell an idea).
