@@ -10,7 +10,7 @@ Read "[Which Of These 4 Communication Styles Are You?](http://www.forbes.com/sit
 * Which communication style (Analytical, Intuitive, Functional and Personal) do you think is your dominant style?  
   **(When you answer this question, please log your answer in the #on-campus channel in Slack. We will use this info to divide into groups)**
 * In what settings do you think this style is most effective? Reflect on a specific occasion when this style helped you be effective (build relationships, advance a cause you cared about, sell an idea).
-* Reflect on the other three communication styles? How would you characterize your reactions to people with these other styles? Does your reaction change depending on the context (a casual outing with friends versus a high-pressure project with colleagues?
+* Reflect on the other three communication styles. How would you characterize your reactions to people with these other styles? Does your reaction change depending on the context (a casual outing with friends versus a high-pressure project with colleagues)?
 * Does Murphy's article leave out other communication factors that are meaningful to you? What other lenses could you use to distinguish between individuals' communication styles?
 
 ### Discussion (25 min)
