@@ -14,7 +14,7 @@ Read "[Which Of These 4 Communication Styles Are You?](http://www.forbes.com/sit
 * Does Murphy's article leave out other communication factors that are meaningful to you? What other lenses could you use to distinguish between individuals' communication styles?
 
 ### Discussion (25 min)
-Organize into the groups posted on [today.turing.io] and introduce yourselves (5 min). Appoint someone to be timekeeper.  
+Organize into the groups posted on [today.turing.io](today.turing.io) and introduce yourselves (5 min). Appoint someone to be timekeeper.  
 
 Discuss the following topics within your groups.
 * Have the members of your group report out their style. When have their styles helped and created challenges for them?
