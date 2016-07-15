@@ -1,4 +1,4 @@
-## Communication Styles: Kn
+## Communication Styles
 
 ### Introduction to Exercise (5 min)
 “I'm a great believer that any tool that enhances communication has profound effects in terms of how people can learn from each other, and how they can achieve the kind of freedoms that they're interested in.” - Bill Gates  
