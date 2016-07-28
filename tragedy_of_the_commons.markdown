@@ -2,9 +2,6 @@
 
 We are confronted on a daily basis by social challenges -- ineffective public leaders, global warming, a sink full of dirty dishes -- for which we, as individuals, bear some small responsibility. 
 
-small individual bias -> large collective bias
-neutrality doesn't address issues
-
 ##Reading and Writing (20 min)
 http://ncase.me/polygons/
 
