@@ -1,6 +1,6 @@
 #Tragedy of the Commons: Voting, Sustainability, Cleaning
 
-We are confronted on a daily basis by social challenges -- ineffective public leaders, global warming, a sink full of dirty dishes -- for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best take responsibility for our actions. 
+We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best take responsibility for our actions. 
 
 Today, we will explore this quandary in more depth and use our discussions around this topic as a forum for strengthening skills that can help us more meaningfully participate in our communities in the future. These skills include:
 * Effectively communicating a contrary opinion,
@@ -38,7 +38,7 @@ Approximately 20% of the students are responsible for 80% of the dishwashing we 
 ##Discussion (25 min)
 Split into groups based on the topic you picked. To help stoke a lively discussion, have the members identify where in the following spectrum their response to the last question falls: "What do you think is the most realistic, responsible response to the inundation of these ethical demands?" 
 
-  apathy/paralysis   * * * * * * * * * * * *    try where I can    * * * * * * * * * * * *    fix all the things
+  <center>apathy/paralysis - - - - - - - - - "try where I can" - - - - - - - - - fix all the things</center>
 
 Now debate. Defend your argument and why you think it's the best blend of realistic and responsible. Keep in mind the following skills to exercise as you discuss: communicating a contrary opinion, facilitating controversial conversations, and contextualizing your position relative to others. 
 
