@@ -1,5 +1,4 @@
-#Tragedy of the Commons
-#Voting, Sustainability, Diversity, Cleaning Dishes
+#Tragedy of the Commons: Sustainability, Diversity, Voting, Cleaning Dishes
 
 We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best take responsibility for our actions. 
 
