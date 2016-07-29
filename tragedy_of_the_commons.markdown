@@ -9,9 +9,9 @@ Today, we will explore this quandary in more depth and use our discussions aroun
 
 ##Exploring (10 min)
 Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the dynamics they summarize at the end.  
-  *1.* Small individual shortcomings lead to large collective failures.  
-  *2.* Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
-  *3.* Small individual "anti-biases" can address systemic biases.  
+    **1.** Small individual shortcomings lead to large collective failures.  
+    **2.** Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
+    **3.** Small individual "anti-biases" can address systemic biases.  
 
 ##Write (15 min)
 ###Step 1: Choose Your Own Adventure
