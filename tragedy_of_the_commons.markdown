@@ -21,7 +21,7 @@ Pick one of the following topics as a lens for exploring these dynamics in your 
 If we all consumed a little less, walked a little more (instead of driving), used the air conditioner a little less, we could significantly slow some of the environmental changes that have been created by human beings. The consequences of not changing our behavior are now widely accepted, but meaningful changes to our behavior have not followed.
 
 ####Women and People of Color (PoC) in Tech
-Only 3% of technology jobs in Silicon Valley are occupied by Hispanics, only 2% are African-American, and women hold only approximately 15% of tech jobs in the industry. The dominant response to this problem is an attitude of "don't be an asshole, and things will improve," but research indicates is not a sufficient remedy for the problem. 
+Only 3% of technology jobs in Silicon Valley are occupied by Hispanics, only 2% are African-American, and women hold only approximately 15% of tech jobs in the industry. The dominant response to this problem is an attitude of "don't be an asshole, and things will improve," but research indicates this is not a sufficient remedy for the problem. 
 
 ####Voting in Local Elections
 It's easy to make a case that local elections matter more than federal elections, despite the disproportionate media attention garnered by the latter. Local elections are more likely to effect your children's education, crime in your neighborhood, access to public services, and your general quality of life. Yet only 21% of eligible voters participate in local elections.
