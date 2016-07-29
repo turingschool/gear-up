@@ -9,9 +9,9 @@ Today, we will explore this quandary in more depth and use our discussions aroun
 
 ##Exploring (10 min)
 Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the dynamics they summarize at the end.  
-&nbsp;&nbsp;**1.** Small individual shortcomings lead to large collective failures.  
-&nbsp;&nbsp;**2.** Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
-&nbsp;&nbsp;**3.** Small individual "anti-biases" can address systemic biases.  
+&nbsp;&nbsp;&nbsp;&nbsp;**1.** Small individual shortcomings lead to large collective failures.  
+&nbsp;&nbsp;&nbsp;&nbsp;**2.** Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
+&nbsp;&nbsp;&nbsp;&nbsp;**3.** Small individual "anti-biases" can address systemic biases.  
 
 ##Write (15 min)
 ###Step 1: Choose Your Own Adventure
@@ -38,7 +38,9 @@ Approximately 20% of the students are responsible for 80% of the dishwashing we 
 ##Discussion (25 min)
 Split into groups based on the topic you picked. To help stoke a lively discussion, have the members identify where in the following spectrum their response to the last question falls: "What do you think is the most realistic, responsible response to the inundation of these ethical demands?" 
 
--> apathy/paralysis - - - - - - - - - "try where I can" - - - - - - - - - fix all the things <-
+<p align="center">
+  apathy/paralysis - - - - - - - - - "try where I can" - - - - - - - - - fix all the things
+</p>
 
 Now debate. Defend your argument and why you think it's the best blend of realistic and responsible. Keep in mind the following skills to exercise as you discuss: communicating a contrary opinion, facilitating controversial conversations, and contextualizing your position relative to others. 
 
