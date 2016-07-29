@@ -1,4 +1,5 @@
-#Tragedy of the Commons: Voting, Sustainability, Diversity, Cleaning Dishes
+#Tragedy of the Commons
+Voting, Sustainability, Diversity, Cleaning Dishes
 
 We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best take responsibility for our actions. 
 
@@ -8,7 +9,7 @@ Today, we will explore this quandary in more depth and use our discussions aroun
 * Contextualizing your position relative to others.
 
 ##Exploring (10 min)
-Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the dynamics they summarize at the end.  
+Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the conclusions summarized at the end.  
 &nbsp;&nbsp;&nbsp;&nbsp;**1.**&nbsp;&nbsp;Small individual shortcomings lead to large collective failures.  
 &nbsp;&nbsp;&nbsp;&nbsp;**2.**&nbsp;&nbsp;Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
 &nbsp;&nbsp;&nbsp;&nbsp;**3.**&nbsp;&nbsp;Small individual "anti-biases" can address systemic biases.  
