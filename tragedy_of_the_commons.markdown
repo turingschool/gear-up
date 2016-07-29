@@ -5,7 +5,7 @@ We are confronted on a daily basis by social challenges - ineffective public lea
 Today, we will explore this quandary in more depth and use our discussions around this topic as a forum for strengthening skills that can help us more meaningfully participate in our communities in the future. These skills include:
 * Effectively communicating a contrary opinion,
 * Facilitating and holding space for controversial conversations, and
-* Contextualizing your position relative to others.
+* Contextualizing positions relative to others.
 
 ##Exploring (10 min)
 Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the conclusions summarized at the end.  
