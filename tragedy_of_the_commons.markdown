@@ -39,7 +39,7 @@ Approximately 20% of the students are responsible for 80% of the dishwashing we 
 Split into groups based on the topic you picked. To help stoke a lively discussion, have the members identify where in the following spectrum their response to the last question falls: "What do you think is the most realistic, responsible response to the inundation of these ethical demands?" 
 
 <p align="center">
-  apathy/paralysis &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;"try where I can" &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;fix all the things
+  disengage &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;"try where I can" &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;fix all the things
 </p>
 
 Now debate. Defend your argument and why you think it's the best blend of realistic and responsible. Keep in mind the following skills to exercise as you discuss: communicating a contrary opinion, facilitating controversial conversations, and contextualizing your position relative to others. 
