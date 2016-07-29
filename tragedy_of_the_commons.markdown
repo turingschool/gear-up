@@ -44,4 +44,5 @@ Split into groups based on the topic you picked. To help stoke a lively discussi
 
 Now debate. Defend your argument and why you think it's the best blend of realistic and responsible. Keep in mind the following skills to exercise as you discuss: communicating a contrary opinion, facilitating controversial conversations, and contextualizing your position relative to others. 
 
-##Report Out (10 min)
+##Surveys (5 min)
+Please complete the following GearUp survey: https://goo.gl/forms/kh6xADIHtwOLOCJC3
