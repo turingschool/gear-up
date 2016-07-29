@@ -13,18 +13,20 @@ Read and interact with [Parable of the Polygons: A Playable Post on the Shape of
 ##Write (10 min)
 ###Step 1: Choose Your Own Adventure
 Pick one of the following topics as a lens for exploring these dynamics in your own life.
-Global Warming
-Gender Disparities in Tech 
-Voting in Local Elections
-Keeping the Dishes Clean at Turing
+
+####Global Warming
+
+####Gender Disparities in Tech 
+
+####Voting in Local Elections
+
+####Keeping the Dishes Clean at Turing
 
 ###Step 2: Reflect on the Following Questions
 * Describe the macro-problem in your own words
 * What individual actions, or lack thereof, contribute to the issue
 * What would taking individual responsibility for this issue look like?
-
-
-
+* While it may be reasonable to change your individual behavior to positively impact this issue, it becomes more complicated when you consider that there are dozens (if not hundreds) of similar causes vying for our attention. What do you think is the most realistic, responsible response to being inundated with these ethical demands?
 
 ##Discussion (30 min)
 Split into groups based on the topic you wrote about. Tackle the following questions as a group.
