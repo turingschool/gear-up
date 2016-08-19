@@ -21,3 +21,4 @@ As a group, discuss your answers to the questions above.
 What can and will you do to use these ideas to improve your experience as a learner here at Turing?
 
 ## Survey (5 min)
+Please complete [this survey](https://docs.google.com/a/casimircreative.com/forms/d/e/1FAIpQLSch3r9aqB0a6XYHGz5VKedR-hHjnudx7AjBWWJMm0b7--V80Q/viewform) about your takeaways from today's session.
