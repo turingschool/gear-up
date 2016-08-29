@@ -16,8 +16,7 @@ In your assigned group, pick one of the following questions and discuss for 10 m
 Reflect privately on these questions about the discussion you just had.
 * What was your first reaction to the question?
 * Before sharing, did you take into account how others might react to what you say? How did that make you feel and how did it affect your feelings toward the group?
-* Do you feel you had a candid conversation as a group? Would you have changed how you answered the question if you knew you'd never see your teammates again? Or if you were about to begin a long project together? Why?
-* Was there anything that bothered you about your dynamic as a group? How might _you_ have contributed to that dynamic? 
+* Was there anything that bothered you about your dynamic as a group? How might _you_ have contributed to that dynamic? How did _others_ contribute to that dynamic?
 
 ### Video (5 min)
 Dr. Brene Brown is a shame and vulnerability researcher whose work touches on key themes that may have surfaced during the beginning of this session. Together, we will watch her video, [Boundaries, Empathy, and Compassion](https://www.youtube.com/watch?v=ecb6ExBaW80) and experiment with incorporating some of her ideas into our further conversation. 
