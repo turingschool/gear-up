@@ -1,9 +1,9 @@
 ## The Human Team
 
 ### Introduction (5 min) 
-Working effectively on teams requires more than just making sure your own work gets done. It requires teammembers to be aware of and address their teammates' needs and the team's needs as a whole. 
+As a member of a team, it may often feel like you are the unwitting victim of team dynamics, but it's much more helpful to appreciate the role each individual member (including you) plays in creating and perpetuating team systems, rhythms, habits, norms, and expectations. 
 
-As a member of a team, it may often feel like you are the unwitting victim of these team dynamics, but it's much more helpful to appreciate the role each individual member (including you) plays in creating and perpetuating team systems, rhythms, habits, norms, and expectations. 
+Working effectively on teams requires more than just making sure your own work gets done. It requires teammembers to be aware of and address their teammates' needs and the team's needs as a whole. 
 
 Today we will construct two team discussions to help you reflect on team dynamics, your role in them, and frameworks for engaging teams effectively. 
 
