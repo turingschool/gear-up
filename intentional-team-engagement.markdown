@@ -1,4 +1,4 @@
-## The Human Team
+## Intentional Team Engagement
 
 ### Introduction (5 min) 
 As a member of a team, it may often feel like you are the unwitting victim of team dynamics, but it's much more helpful to appreciate the role each individual member (including you) plays in creating and perpetuating team systems, rhythms, habits, norms, and expectations. 
