@@ -20,7 +20,7 @@ Reflect privately on these questions about the discussion you just had.
 * Was there anything that bothered you about your dynamic as a group? How might _you_ have contributed to that dynamic? How did _others_ contribute to that dynamic?
 
 ### Video (5 min)
-Dr. Brene Brown is a shame and vulnerability researcher whose work touches on key themes that may have surfaced during the beginning of this session. Together, we will watch her video, [Boundaries, Empathy, and Compassion](https://www.youtube.com/watch?v=ecb6ExBaW80), and experiment with incorporating some of her ideas into our further conversation. 
+Dr. Brene Brown is a shame and vulnerability researcher whose work touches on key themes that may have surfaced during the beginning of this session. Together, we will watch her video, [Boundaries, Empathy, and Compassion](https://www.youtube.com/watch?v=ecb6ExBaW80), and incorporate some of her ideas into our further conversation. 
 
 A research professor at the University of Houston Graduate College of Social Work, Dr. Brown focuses on authentic leadership and what she describes as "wholeheartedness," the capacity to engage life and others with authenticity, courage, and compassion. Her TED Talk, [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) has received over 30 million views. 
 
