@@ -1,4 +1,4 @@
-## Intentional Team Engagement
+## There is an "I" in "Team"
 
 ### Introduction (5 min) 
 As a member of a team, it may often feel like you are the unwitting victim of team dynamics, but it's much more effective to appreciate the role each individual member (including you) plays in creating and perpetuating team systems, rhythms, habits, norms, and expectations. 
@@ -40,7 +40,7 @@ With those expectations redefined, tackle the following discussion topics as a g
 ### Survey (5 min)
 Please fill out the survey linked here. In addition to providing staff with feedback on your experience, we've also included some reflection questions to help you process the final round of discussions you had with your team.
 
-* What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns?
+* What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns? How could or would this skill benefit you in a team setting?
 * How was the dynamic of your first conversation different that the second conversation? What concerns or frustrations, if any, remained?
 
 [1] A research professor at the University of Houston Graduate College of Social Work, Dr. Brown focuses on authentic leadership and what she describes as "wholeheartedness," the capacity to engage life and others with authenticity, courage, and compassion. Her TED Talk, [The Power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) has received over 30 million views. 
