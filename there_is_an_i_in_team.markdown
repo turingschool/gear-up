@@ -5,7 +5,7 @@ As a member of a team, it may often feel like you are the unwitting victim of te
 
 Working effectively on teams requires more than just making sure your own work gets done. It requires teammembers to be aware of and address their teammates' needs and the team's needs as a whole. 
 
-Today we will construct two team discussions to help you reflect on team dynamics, your role in them, and frameworks for engaging teams effectively. 
+Today we will construct two team discussions to help you reflect on team dynamics, your role in them, and tactics for engaging teams effectively. 
 
 ### Discussion (10 min)
 In your assigned group, pick one of the following questions and discuss for 10 minutes. 
@@ -38,7 +38,7 @@ With those expectations redefined, tackle the following discussion topics as a g
 * In what ways can you contribute to these norms and expectations? 
 
 ### Survey (5 min)
-Please fill out the survey linked here. In addition to providing staff with feedback on your experience, we've also included some reflection questions to help you process the final round of discussions you had with your team.
+Please fill out the [survey linked here](https://goo.gl/forms/VTWUbuuSfKycRXrz1). We've also included some reflection questions to help you process the final round of discussions you had with your team.
 
 * What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns? How could or would this skill benefit you in a team setting?
 * How was the dynamic of your first conversation different that the second conversation? What concerns or frustrations, if any, remained?
