@@ -2,14 +2,14 @@
 
 ### Reflection (15 minutes)
 
-Write a response to the following two questions.
+Write a response to the following questions. This reflection is for you and no one else will be reading it.
 
 * In your opinion, why are there so few women in technology?
 * How have you experienced the underrepresentation of women in technology?
 
 ### Code: Debugging The Gender Gap (90 minutes)
 
-We'll watch a documentary called _Code: Debugging the Gender Gap_ in the Big Workspace.
+We'll watch a documentary called _Code: Debugging the Gender Gap_ in the Big Workspace. You can find the trailer [here](http://www.codedoc.co/about/).
 
 ### Break (10 minutes)
 
