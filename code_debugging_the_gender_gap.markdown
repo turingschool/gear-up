@@ -25,13 +25,10 @@ In order to debrief the movie, we're going to break into small groups. You'll ha
 
 The four groups we'd like you to choose from are the following:
 
-1) I want to be conscientious about gender issues. What can I do? 
-
-2) I’ve lived experiences like those referenced in the movie and want to share. 
-
-3) I disagree with the framing of the movie. Why are we even talking about this at a programming school?
-
-4) I want to take action on this at Turing. What can I do?
+  1) I want to be conscientious about gender issues. What can I do?   
+  2) I’ve lived experiences like those referenced in the movie and want to share.  
+  3) I disagree with the framing of the movie. Why are we even talking about this at a programming school?  
+  4) I want to take action on this at Turing. What can I do?  
 
 ### Reflection Writing (10 minutes)
 
