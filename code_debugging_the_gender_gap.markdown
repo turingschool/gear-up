@@ -44,6 +44,8 @@ Write about your reaction the movie. Possible questions to keep in mind (if you 
 
 ### Small Group Discussion (40 minutes)
 
+More to come.
+
 ### Wrap-Up (10 minutes)
 
 Each group shares key takeaways from small group discussion.
