@@ -66,3 +66,5 @@ Discuss the questions below for your group.
 ### Wrap-Up (10 minutes)
 
 Each group shares key takeaways from small group discussion.
+
+Please set aside time to complete this survey: https://goo.gl/forms/92vm7g3mjTqjYymx2.
