@@ -1,6 +1,6 @@
 ## Gear Up - The Gender Gap in Technology
 
-### Reflection (15 minutes)
+### Reflection (10 minutes)
 
 Write a response to the following questions. This reflection is for you and no one else will be reading it.
 
