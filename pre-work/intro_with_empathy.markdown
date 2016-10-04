@@ -12,13 +12,13 @@ _Our **mission** is to unlock human potential by training a diverse, inclusive s
 As you read these articles, reflect on the following questions: why are we talking about empathy at a software development school? how can you develop the "skill" of empathy? and why should you care?
 
 * ["Why is Empathy Important for Design"](http://www.bresslergroup.com/blog/why-empathic-design/)
-* ["The Surprising (Nontechnical) Skill You Need to Succeed in Tech"](https://www.themuse.com/advice/the-surprising-and-nontechnical-skill-you-need-to-succeed-in-tech)
-* ["Why Aren't We More Compassionate?", Daniel Goleman](http://www.ted.com/talks/daniel_goleman_on_compassion#t-39146)
-* ["Can you teach people to have empathy?" BBC (Jun 29, 2015)](http://www.bbc.com/news/magazine-33287727)
+* ["The Surprising (Nontechnical) Skill You Need to Succeed in Tech"](https://www.themuse.com/advice/the-surprising-and-nontechnical-skill-you-need-to-succeed-in-tech), _The Muse_
+* ["Why Aren't We More Compassionate?"](http://www.ted.com/talks/daniel_goleman_on_compassion#t-39146), TED Talk (Daniel Goleman)
+* ["Can you teach people to have empathy?"](http://www.bbc.com/news/magazine-33287727), BBC (Jun 29, 2015)
 
 ##### Additional Resources
-* ["Three Kinds of Empathy", Daniel Goleman](http://www.danielgoleman.info/three-kinds-of-empathy-cognitive-emotional-compassionate/)
-* ["The Importance of Empathy in Our Services-Centric, People-Oriented Economy"](http://blogs.wsj.com/cio/2015/10/09/the-importance-of-empathy-in-our-services-centric-people-oriented-economy/)
+* ["Three Kinds of Empathy"](http://www.danielgoleman.info/three-kinds-of-empathy-cognitive-emotional-compassionate/), Daniel Goleman
+* ["The Importance of Empathy in Our Services-Centric, People-Oriented Economy"](http://blogs.wsj.com/cio/2015/10/09/the-importance-of-empathy-in-our-services-centric-people-oriented-economy/), _Wall Street Journal Blog_ (Oct 9, 2015)
 
 #### Reflect
 After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
