@@ -20,7 +20,7 @@ Democracy makes sense in theory, but by some accounts its integrity in the US ha
 * ["US Voter Turnout Trails Most Developed Countries"](http://www.pewresearch.org/fact-tank/2016/08/02/u-s-voter-turnout-trails-most-developed-countries/), _Pew Research Center_ (August 2, 2016)
 * ["Is America an Oligarchy?"](http://www.newyorker.com/news/john-cassidy/is-america-an-oligarchy), _The New Yorker_ (April 18, 2014)
 
-##### Reflection and Discussion Questions
+##### Reflection Questions
 * What is your gut reaction to these summaries? Despair, anger, apathy?
 * Question 2
 * Question 3
@@ -33,7 +33,7 @@ Many Americans defer to trusted authorities (newspapers, organizations, politica
 * Reading 2
 * Reading 3
 
-##### Reflection and Discussion Questions
+##### Reflection Questions
 * Question 1
 * Question 2
 * Question 3
@@ -44,17 +44,17 @@ How will you decide how to vote? What criteria do you use.
 * Reading 2
 * Reading 3
 
-##### Reflection and Discussion Questions
+##### Reflection Questions
 * Question 1
 * Question 2
 * Question 3
 
 
-#### Writing (20 min, including transition to groups)
+#### Writing (20 min)
 Read and reflect on the material assigned to your topic.
 
 #### Discussion (25 min)
-Discuss the questions you wrote about with your group.
+Discuss the questions you wrote about with your group. (More detail to come)
 
 
 #### Survey (5 min)
