@@ -25,7 +25,7 @@ Read the articles and reflect on the questions within your topic.
 ### Discussion (18 min)
 Since your group will likely have a representative from every topic in it, spend approximately 6 minutes on each topic to share your reflections and articulate the positions you've refined. 
 
-### To Vote or Not to Vote
+### TOPIC 1: To Vote or Not to Vote
 Democracy makes sense in theory, but by some accounts its integrity in the US has disintegrated over the last 50 years.
 * ["US Voter Turnout Trails Most Developed Countries"](http://www.pewresearch.org/fact-tank/2016/08/02/u-s-voter-turnout-trails-most-developed-countries/), _Pew Research Center_ (August 2, 2016)
 * ["Is America an Oligarchy?"](http://www.newyorker.com/news/john-cassidy/is-america-an-oligarchy), _The New Yorker_ (April 18, 2014)
@@ -35,7 +35,7 @@ Democracy makes sense in theory, but by some accounts its integrity in the US ha
 * How is the idea of citizenship important to the sustainability of democracy? In your own experience, how might individuals' current attitudes toward voting threaten US democracy?
 * Compare what a citizen needs to do to support democracy against your current attitudes towards civic responsibility and your perception of mainstream attitudes towards voting. How do you reconcile these? What level of involvement is most consist with the values you hold?
 
-### Information Intermediaries: Who Can Help You Vote Smart
+### TOPIC 2: Information Intermediaries: Who Can Help You Vote Smart
 Few voters have the time to individually research the positions and backgrounds of all the elected officials on a ballot, and thus defer to trusted authorities to help them vet candidates. 
   * Political Parties 
   * Celebrity Endorsements ([Save the Day (pro-Hillary)](https://www.youtube.com/watch?v=nRp1CK_X_Yw ), [Celebrities Who Support Trump](http://www.cbsnews.com/pictures/celebrities-who-support-donald-trump/))
@@ -55,7 +55,7 @@ Review the three resources directly above and reflect on the questions below.
 * Step back and reflect on how your opinion of candidates are shaped. What are your primary sources for gathering an impression of candidates? Reflect on whether and how these sources help you pick candidates most aligned to your goals and values. 
 * If you dedicate 10 hours before every election to make an informed decision, what would be the best way to use it? For example: Watching the news, reading a voter guide, consulting endorsements from trusted organizations, seeing a candidate speak, etc.
 
-### Vetting Leaders
+### TOPIC 3: Vetting Leaders
 The most visible experience most of us have with US democracy is through media attention given to US presidential elections. Although of major importance, the US presidential election is not the only election that matters. Other (smaller) statewide and local offices can have a significant, direct impact on our lives (safety, infrastructure, education) and can be powerful voices in a national conversation about how to support healthy, connected communities. 
 
 Statewide and local races, due in part to less attention from the media, provide a less cluttered lens for us to tease apart what's important to you when vetting potential leaders. Browse through these few articles, then reflect on the questions below. 
