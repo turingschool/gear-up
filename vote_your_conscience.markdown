@@ -15,15 +15,11 @@ Read [this summary](https://www.uscis.gov/citizenship/learners/citizenship-right
 ### Write (5 min)
 Based on the content in this article and other exposure you've had on this topic, respond to the prompt: were you designing curriculum for a civics class (only [9 of 50 US states require civics for high school graduation](http://www.huffingtonpost.com/2012/10/12/circle-study-finds-most-s_n_1959522.html)), how would you describe the rights and responsibilities of a US citizen to their country and fellow citizens.
 
-
 ## Choose Your Own Adventure
 Pick one of the following three topics to explore in more depth.
 
-### Writing (20 min)
+### Reading & Writing (20 min)
 Read the articles and reflect on the questions within your topic.
-
-### Discussion (18 min)
-Since your group will likely have a representative from every topic in it, spend approximately 6 minutes on each topic to share your reflections and articulate the positions you've refined. 
 
 ### TOPIC 1: To Vote or Not to Vote
 Democracy makes sense in theory, but by some accounts its integrity in the US has disintegrated over the last 50 years.
@@ -63,11 +59,16 @@ Statewide and local races, due in part to less attention from the media, provide
 * [Choosing a Leader: 3 Things to Look For](http://www.forbes.com/sites/erikaandersen/2012/04/16/choosing-a-leader-3-things-to-look-for/#23f69567aec0), _Forbes_ (April 16, 2012)
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men), _Harvard Business Review_ (August 22, 2013)
 
-#### Reflection Questions (20 min)
+#### Reflection Questions
 * Consider one of your favorite leaders? What qualities do they have? What makes them successful? What makes them appealing to you?
 * When considering different candidates, what qualities do you look for? 
 * Do you feel there is a shortage of candidates you are excited about or want to vote for? Why do you think that is?
 * Would you ever consider running for office? Why or why not? Do you think some of your concerns (if any) also keep other promising candidates out of politics? How could you change your engagement with the electoral system to make it less hostile to otherwise quality leaders?
+
+### Discussion (18 min)
+Since your group will likely have a representative from every topic in it, spend approximately 6 minutes on each topic answering the following discussion question:
+
+Based on your reading and reflection, clearly articulate why someone who is working towards being a responsible citizen should take your position.
 
 ## Register to Vote (2 min)
 Register to vote if you haven't already.
