@@ -5,12 +5,11 @@ To advance our mission of "unlocking human potential by training a diverse, incl
 
 A successful Turing graduate is engaged, intentional, and well-informed when evaluating how to participate meaningfully in their communit(y/ies). Today, we will use the upcoming election as a opportunity to develop the awareness and skills we need to meet this aspiration.
 
-Sit with your groups in your assigned locations. Make sure to assign someone in your group the role of timekeeper, practice active listening, and collectively take responsibility for all members having a chance to share their perspectives and learn from others.
+Sit with your groups in your assigned locations. Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
 
 ## What is a Citizen?
 ### Read (5 min)
-Read [this summary](https://www.uscis.gov/citizenship/learners/citizenship-rights-and-responsibilities) by US Citizenship and Immigration Services and scan the article by Brett and Kate McKay, [A Citizen's Bill of Responsibilities](http://www.artofmanliness.com/2016/09/26/citizens-bill-responsibilities/) (September 26, 2016; note: in spite of its unconventional source, this article is one of the more entertaining, clear, and constructive treatments of the topic available online). You may also enjoy this _Washington Post_ article by Eugene Volokh, ["Is the United States of America a Republic or a Democracy?"](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/13/is-the-united-states-of-america-a-republic-or-a-democracy/?utm_term=.3df98233fecf) for a bit more background on what republic and democracy mean for the United States. 
-
+Read [this summary](https://www.uscis.gov/citizenship/learners/citizenship-rights-and-responsibilities) by US Citizenship and Immigration Services and scan the article by Brett and Kate McKay, [A Citizen's Bill of Responsibilities](http://www.artofmanliness.com/2016/09/26/citizens-bill-responsibilities/) (September 26, 2016; note: in spite of its unconventional source, this article is one of the more entertaining, clear, and constructive treatments of the topic available online. Focus on the spirit of the article). You may also enjoy this _Washington Post_ article by Eugene Volokh, ["Is the United States of America a Republic or a Democracy?"](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/13/is-the-united-states-of-america-a-republic-or-a-democracy/?utm_term=.3df98233fecf) for a bit more background on what republic and democracy mean for the United States. 
 
 ### Write (5 min)
 Based on the content in this article and other exposure you've had on this topic, respond to the prompt: were you designing curriculum for a civics class (only [9 of 50 US states require civics for high school graduation](http://www.huffingtonpost.com/2012/10/12/circle-study-finds-most-s_n_1959522.html)), how would you describe the rights and responsibilities of a US citizen to their country and fellow citizens.
@@ -70,14 +69,13 @@ Since your group will likely have a representative from every topic in it, spend
 
 Based on your reading and reflection, clearly articulate why someone who is working towards being a responsible citizen should take your position.
 
-## Register to Vote (2 min)
+## [Optional] Register to Vote (2 min)
 Register to vote if you haven't already.
 * [Register/Update Registration Information] (https://vote.gov/)
 * [Get an Absentee Ballot](https://www.vote.org/absentee-voting-rules/)
 
 ## Survey (5 min)
 Please complete this GearUp survey [here](https://goo.gl/forms/tBBtiiKmt83hJxmU2).
-
 
 ## Additional Resources 
 
