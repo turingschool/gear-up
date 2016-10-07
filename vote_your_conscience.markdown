@@ -54,7 +54,7 @@ Review the three resources directly above and reflect on the questions below.
 The most striking exposure most of us have with US democracy is through media attention given to US presidential elections. Although of major importance, the US presidential election is not the only election that matters. Other (smaller) statewide and local offices can have a significant, direct impact on our lives (safety, infrastructure, education) and can be powerful voices in a national conversation about how to support healthy, connected communities. 
 
 Statewide and local races, due in part to less attention from the media, provide a less cluttered lens for us to tease apart what's important to you when vetting potential leaders. Browse through these few articles, then reflect on the questions below. 
-* [America’s Mayors: Put Us in Charge—Now](http://www.politico.com/magazine/story/2016/08/cities-urban-policy-mayors-survey-revitalization-us-2141510), _Politico_ (August 8, 2016)
+* [America’s Mayors: Put Us in Charge—Now](http://www.politico.com/magazine/story/2016/08/cities-urban-policy-mayors-survey-revitalization-us-214151), _Politico_ (August 8, 2016)
 * [Choosing a Leader: 3 Things to Look For](http://www.forbes.com/sites/erikaandersen/2012/04/16/choosing-a-leader-3-things-to-look-for/#23f69567aec0), _Forbes_ (April 16, 2012)
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men), _Harvard Business Review_ (August 22, 2013)
 
