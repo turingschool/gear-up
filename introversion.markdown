@@ -11,16 +11,17 @@ Cain and Gino both suggest that the world is designed in a way that favors extro
 
 You already have opportunities to make your projects and Turing activities more hospitable to introverted personalities. Use the following questions to investigate these opportunities more deeply and identify strategies for reshaping them. Write your answers in a [new gist](https://gist.github.com/).
 
-* How could you shape your DTR conversations with new project partners to accommodate their styles from the beginning? Explain why your proposed approach would be more accommodating. 
-* When problems arise on projects, teammembers are often required to speak up and confront their partner or a larger group of teammembers. Describe a new team routine (ex: an evening survey or standup) that you could put in place that would allow these issues to surface without require teammembers to begin a heated, confrontational, in-person conversation. 
-* Do you think your default approach to teamwork is sufficiently accommodating to introverted personalities. How could you change your new dynamics to allow people to work more independently or quietly?
-* Creating more opportunities for people on your team to work independently is not without cost. Your work becomes more vulnerable to miscommunications and redundancies. Imagine a time (at Turing our before your time here) in which delegation of responsibilities was effectively managed. What about your team dynamic allowed the delegation to be successful?
+* Have you ever been in a team setting where the differences between introverted and extroverted working styles was clear. What was that like?
+* How do you think you’re perceived by the other personality type?
+* What advice do you have for people on the other end of the introverted/extroverted spectrum, in terms of making work routines productive for your style?
+* Do you think our default approaches to group activities at Turing are sufficiently accommodating to introverted personalities? Reflect on how we could reshape team and group activities (pairings, team retros, cohort retros) to create an environment in which introverts’ and extroverts strengths are equally supported.  
 
-## Share and Provide Feedback (10 min)
-Slack your partner the link to your gist (pairs posted in Slack). When you receive theirs, read it closely and carefully. Identify at least one of each type of feedback listed here and respond to them in Slack.
-* Identify one new strategy you found appealing and what you liked about it.
-* Suggest one modification to their suggestions and why you think it would advance their goals more effectively.
-* Compare your partner's example of effective delegation of responsibilities to your own example. How are they similar, how are the different?
+## Discuss (10 min)
+Convene with your most recent project pair or team and share your reactions to the questions above. If you’re in just a pair, join forces with another pair to create a group of 4. 
+
+Sit with your groups in your assigned locations. Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
+
+As you go through each question, do a **reaction round** where each person talks for 30 seconds on the topic. You should allocate approximately 2.5 minutes for each question. 
 
 ## Survey (5 min)
 Please complete this [survey](https://goo.gl/forms/EfRGH5uRSnvaGh6O2).
