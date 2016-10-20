@@ -1,4 +1,5 @@
 # Introversion and Extroversion on Teams
+After synthesizing feedback from our last Gear Up, we are going to provide more discussion and less reading time this week.  We also are going to spend time discussing in cohorts so that we can apply our learning to working within our current teams and cohorts.  
 
 ## Watch (20 min)
 Watch this TED talk by Susan Cain, author of [_Quiet: The Power of Introverts_] (https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en). If you'd like to watch it alone with headphones, feel free to relocate to another classroom to do so. 
@@ -9,7 +10,7 @@ SKIM this _Harvard Business Review_ article, ["Introverts, Extroverts, and the C
 ## Reflect (8 min)
 Cain and Gino both suggest that the world is designed in a way that favors extroverts. In spite of our field being more inviting to introverts than others, we still practice many habits around meeting, project, and professional development protocols that favor extroverted over introverted style. 
 
-You already have opportunities to make your projects and Turing activities more hospitable to introverted personalities. Use the following questions to investigate these opportunities more deeply and identify strategies for reshaping them. Write your answers in a [new gist](https://gist.github.com/).  
+You already have opportunities to make your projects and Turing activities more hospitable to introverted personalities. Use the following questions to investigate these opportunities more deeply and identify strategies for reshaping them. Write your answers in your notebook or in a [new gist](https://gist.github.com/).  
 
 1. Have you ever been in a team setting where the differences between introverted and extroverted working styles was clear. What were the benefits and challenges of the styles?
 2. How do you perceive the strengths and weaknesses of introverts?  How do you perceive the strengths and weaknesses of extroverts?
@@ -19,9 +20,9 @@ You already have opportunities to make your projects and Turing activities more 
 ## Discuss (20 min)
 Convene with your most recent project pair or team and share your reactions to the questions above. If you’re in just a pair, join forces with another pair to create a group of 4. 
 
-Sit with your groups in your assigned locations. Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
+Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
 
-Each person should share ONE response or reflection from questions 1-3.   After that, spend time in your group discussing question 4 and determine 1-2 key changes that we could make as an organization.
+Spend the first 10 minutes having each person share ONE response or reflection from questions 1-3.  Take the last 10 minutesdiscussing question 4 and determine 1-2 key changes that we could make within our cohorts or organization.
 
 ## Survey (5 min)
 Please complete this [survey](https://goo.gl/forms/EfRGH5uRSnvaGh6O2).
