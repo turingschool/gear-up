@@ -1,7 +1,7 @@
 # Introversion and Extroversion on Teams
 
 ## Watch (20 min)
-Watch this TED talk by Susan Cain, author of _Quiet: The Power of Introverts_. If you'd like to watch it alone with headphones, feel free to relocate to another classroom to do so. 
+Watch this TED talk by Susan Cain, author of _Quiet: The Power of Introverts_ (https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en). If you'd like to watch it alone with headphones, feel free to relocate to another classroom to do so. 
 
 ## Read (10 min)
 Read this _Harvard Business Review_ article, ["Introverts, Extroverts, and the Complexities of Team Dynamics."](https://hbr.org/2015/03/introverts-extroverts-and-the-complexities-of-team-dynamics) (Francesca Gino: March 16, 2015).
