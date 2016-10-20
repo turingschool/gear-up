@@ -13,7 +13,7 @@ You already have opportunities to make your projects and Turing activities more 
 
 1. Have you ever been in a team setting where the differences between introverted and extroverted working styles was clear. What were the benefits and challenges of the styles?
 2. How do you perceive the strengths and weaknesses of introverts?  How do you perceive the strengths and weaknesses of extroverts?
-3. What advice do you have for people on the other end of the introverted/extroverted spectrum, in terms of making work routines productive for your style?
+3. How can you leverage the strengths of introverts and extroverts in your future projects and future career?
 4. Do you think our current approaches to group activities at Turing are sufficiently accommodating to introverted personalities? Reflect on how we could reshape team and group activities (pairings, team retros, cohort retros) to create an environment in which introverts’ and extroverts strengths are equally supported.  
 
 ## Discuss (15 min)
