@@ -22,7 +22,7 @@ Convene with your most recent project pair or team and share your reactions to t
 
 Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
 
-Spend the first 10 minutes having each person share ONE response or reflection from questions 1-3.  Take the last 10 minutesdiscussing question 4 and determine 1-2 key changes that we could make within our cohorts or organization.
+Spend the first 10 minutes having each person share ONE response or reflection from questions 1-3.  Take the last 10 minutes discussing question 4 and determine 1-2 key changes that we could make within our cohorts or organization.
 
 ## Survey (5 min)
 Please complete this [survey](https://goo.gl/forms/EfRGH5uRSnvaGh6O2).
