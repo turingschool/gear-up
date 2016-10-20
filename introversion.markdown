@@ -18,7 +18,7 @@ You already have opportunities to make your projects and Turing activities more 
 4. Do you think our current approaches to group activities at Turing are sufficiently accommodating to introverted personalities? Reflect on how we could reshape team and group activities (pairings, team retros, cohort retros) to create an environment in which introverts’ and extroverts strengths are equally supported.  
 
 ## Discuss (20 min)
-Convene with your most recent project pair or team and share your reactions to the questions above. If you’re in just a pair, join forces with another pair to create a group of 4. 
+Find a group of 4 from your cohort. Groups should be no larger than 4.  
 
 Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
 
