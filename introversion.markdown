@@ -24,5 +24,5 @@ Make sure to assign someone in your group the role of timekeeper, facilitator, a
 
 Spend the first 10 minutes having each person share ONE response or reflection from questions 1-3.  Take the last 10 minutes discussing question 4 and determine 1-2 key changes that we could make within our cohorts or organization.
 
-## Survey (5 min) 2:10 pm
+## Survey (5 min) 2:10 
 Please complete this [survey](https://goo.gl/forms/EfRGH5uRSnvaGh6O2).
