@@ -1,7 +1,7 @@
 # Resilience
 
 #### Relationship to Turing Mission
-Turing's *mission* is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.
+*Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
 In order to advance this mission, it's important for Turing to help students develop resilience. We regularly hear from employers that they value employees that are hungry to learn new skills, communicate effectively, and work well on teams. This work is emotionally demanding and draining. In order to position our students to be successful during their time at Turing and in their career afterwards, they must have skills to weather the personal and professional stressors they'll encounter so they can sustain high levels of performance in these areas. Given Turing's commitment to advancing diversity in the field, resilience will also help students manage the stress and emotional work of advancing diversity and inclusion in difficult conversations and environments.
 
