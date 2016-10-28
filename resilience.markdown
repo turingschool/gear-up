@@ -9,13 +9,13 @@ Our *mission* is to unlock human potential by training a diverse, inclusive stud
 
 While stressors can affect individuals' quality of life, researchers now understand there are *protective* factors that have almost as much (if not more) influence on how challenging events shape peoples' lives. The *skill* of resilience is one of those factors.
 
-Having a high-fulfillment career in tech will require you to respond to life and job stressors with resilience, *a skill* you can nurture and grow.
+Having a high-fulfillment career in tech will require you to respond to life and job stressors with resilience, *a skill* you can nurture and develop.
 
 #### Targeted Skills and Mindsets
 <table>
   <tr>
-    <td>**Mindsets**</td>
-    <td>**Skills**</td>
+    <td><strong>Mindsets</strong></td>
+    <td><strong>Skills</strong></td>
   </tr>
   <tr>
     <td>Growth Mindset<br>Agency<br>Grit</td>
@@ -37,6 +37,7 @@ Read the *New Yorker* and *Inc* articles below. Pay attention to how the authors
 * ["The Profound Emptiness of Resilience"](http://www.nytimes.com/2015/12/06/magazine/the-profound-emptiness-of-resilience.html) (*The New York Times*, December 6, 2015, note: paywall)
 
 ## Write (10 min)
+Get your notebooks out and reflect on the following questions. 
 * When you first read the title of this GearUp, what were your initial reactions? What experiences have you had that shaped your attitude toward the topic?
 * What did you learn from reading the article? Did this change or affirm any attitudes and beliefs you hold?
 * What value do you put on personal resilience? Why?
