@@ -1,8 +1,9 @@
 # Resilience
 
-#### Turing Mission Statement
-Our *mission* is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.
+#### Relationship to Turing Mission
+Turing's *mission* is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.
 
+In order to advance this mission, it's important for Turing to help students develop resilience. We regularly hear from employers that they value employees that are hungry to learn new skills, communicate effectively, and work well on teams. This work is emotionally demanding and draining. In order to position our students to be successful during their time at Turing and in their career afterwards, they must have skills to weather the personal and professional stressors they'll encounter so they can sustain high levels of performance in these areas. Given Turing's commitment to advancing diversity in the field, resilience will also help students manage the stress and emotional work of advancing diversity and inclusion in difficult conversations and environments.
 
 ## Introduction
 *Psychological resilience* is the ability to experience potentially traumatic events and challenges and come through stronger, wiser, and more flexible. Research over the last 30 years has indicated individuals' ability to thrive  is less a matter of being spared challenges and personal difficulties; rather, it is shaped by how individuals respond to challenges -- whether they focus on how terrible the events are or view them as opportunities to grow.
