@@ -11,9 +11,6 @@ In order to advance Turing's mission, it's important to help students develop re
 
 Given Turing's commitment to advancing diversity in the field, resilience will also help students manage the stress and emotional demands of advancing diversity and inclusion in difficult conversations and environments.
 
-## Goal of Session
-Identify personal strategies for developing resilience and articulate ways we can support each other in this work at Turing. 
-
 ## Read (15 min)
 <a href="https://www.youtube.com/watch?v=wMMGhH_cR-8" target="_blank">![https://www.youtube.com/watch?v=wMMGhH_cR-8](./images/apollo_13.png)</a>
 
