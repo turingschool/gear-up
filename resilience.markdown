@@ -11,6 +11,9 @@ In order to advance Turing's mission, it's important to help students develop re
 
 Given Turing's commitment to advancing diversity in the field, resilience will also help students manage the stress and emotional demands of advancing diversity and inclusion in difficult conversations and environments.
 
+## Goal of Session
+Identify personal strategies for developing resilience and articulate ways we can support each other in this work at Turing. 
+
 ## Read (15 min)
 <a href="https://www.youtube.com/watch?v=wMMGhH_cR-8" target="_blank">![https://www.youtube.com/watch?v=wMMGhH_cR-8](./images/apollo_13.png)</a>
 
@@ -28,7 +31,6 @@ Get your notebooks out and reflect on the following questions.
 * When you first read the title of this GearUp, what were your initial reactions? What experiences have you had that shaped your attitude toward the topic?
 * What did you learn from reading the article? Did this change or affirm any attitudes and beliefs you hold?
 * What value do you put on personal resilience? Why?
-* How would you describe your resilience right now? Why?
 * Consider Josh Spodek's premise that knowing about resilience is different than becoming more resilient. Identify 3 mental practices and behaviors that constitute resilience skills.
 
 
@@ -41,9 +43,8 @@ Before you begin discussing this topic, ensure that the following roles are dele
 
 **Participant (all)**: Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.
 
-As a group, discuss the following questions:
+As a group, discuss the following questions. 
 * What level of value do you place on resilience? Why is this important to you (or not)?
-* As a Turing community, why is resilience something we would want to support and nurture in our students and staff? How does it support our mission
 * How will resilience affect your career as a programmer? Why would employers value employee resilience?
 * What can you do to practice resilience?
 * How can we support each other develop resilience at Turing?
