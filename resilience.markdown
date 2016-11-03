@@ -11,19 +11,6 @@ In order to advance Turing's mission, it's important to help students develop re
 
 Given Turing's commitment to advancing diversity in the field, resilience will also help students manage the stress and emotional demands of advancing diversity and inclusion in difficult conversations and environments.
 
-#### Targeted Skills and Mindsets
-<table>
-  <tr>
-    <td><strong>Mindsets</strong></td>
-    <td><strong>Skills</strong></td>
-  </tr>
-  <tr>
-    <td>Growth Mindset<br>Agency<br>Grit</td>
-    <td>Resilience<br>Self Awareness<br>Self Regulation<br>Stress Management</td>
-  <tr/>
-</table>
-
-
 ## Read (15 min)
 <a href="https://www.youtube.com/watch?v=wMMGhH_cR-8" target="_blank">![https://www.youtube.com/watch?v=wMMGhH_cR-8](./images/apollo_13.png)</a>
 
