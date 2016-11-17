@@ -1,4 +1,4 @@
-# Resilience
+# Microaggressions
 
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
