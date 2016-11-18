@@ -8,7 +8,7 @@ Being able to empathize with end users is a skill that leads to better software 
 Today we will be focused on a specific process that supports user-centered design: user journey mapping. User journey mapping provides a structure for organizing and driving change and user-experience improvements from user-centered interviews and focus groups.
 
 <a href="https://www.youtube.com/watch?v=wMMGhH_cR-8">![https://youtu.be/l_ErfXWckjI](./images/va.png)</a>
-<center><sup>(More details: [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d))</sup></center>
+<sup><center>(More details: [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d))</center></sup>
 
 
 ## Goal of Session
