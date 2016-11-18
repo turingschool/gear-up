@@ -33,7 +33,7 @@ Pick one of Chee's encounters from "A Month of Microaggressions" and reflect on 
 * How would you recover from the incident? Assuming the incident was somewhat upsetting, what process would you go through to get back to how you felt beforehand?
 
 
-## Discuss (20 min)
+## Discuss (25 min)
 Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
 
 | Role | Description |
@@ -43,9 +43,9 @@ Before you begin discussing this topic, ensure that the following roles are dele
 | **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others. |
 
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, pick _one_ of the following prompts to focus on for the rest of your time.
-* Lived Experiences: I've been a target of microaggressions. For example... This is the effect it had on me. Listening to others share is a valid form of participation for this topic.
-* Organizational Leadership: If you worked for a company or organization that valued inclusion and diversity, do you think it's appropriate to educate employees about microaggressions? _How_ would you do it in a way that doesn't come across as just asking everyone to be "politically correct"?
-* Action Steps: Okay, so microaggressions are a thing and they have a real impact on real people. What do you do? You have the intelligence/tools to answer this question for yourself. What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
+* **Lived Experiences:** I've been a target of microaggressions. For example... This is the effect it had on me. Listening to others share is a valid form of participation for this topic.
+* **Organizational Leadership:** If you worked for a company or organization that valued inclusion and diversity, do you think it's appropriate to educate employees about microaggressions? _How_ would you do it in a way that doesn't come across as just asking everyone to be "politically correct"?
+* **Action Steps:** Okay, so microaggressions are a thing and they have a real impact on real people. What do you do? You have the intelligence/tools to answer this question for yourself. What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
 
 ## Report Out (5 min)
 Each group has 30 sec to describe takeaways from their discussion.
