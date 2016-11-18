@@ -8,7 +8,7 @@ Being able to empathize with end users is a skill that leads to better software 
 Today we will be focused on a specific process that supports user-centered design: user journey mapping. User journey mapping provides a structure for organizing and driving change and user-experience improvements from user-centered interviews and focus groups.
 
 <a href="https://www.youtube.com/watch?v=wMMGhH_cR-8">![https://youtu.be/l_ErfXWckjI](./images/va.png)</a>
-<center>(For more details about the details of the user-centered redesign of va.gov, see: [Introducing a new digital application for health care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d))</center>
+<center><sup>(More details: [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d))</sup></center>
 
 
 ## Goal of Session
@@ -27,7 +27,7 @@ We will be using each other as "users" for today's workshop. Half of the groups 
 4. **Capture easy and painful points in process:** Engage your user to understand what _thoughts_ and _feelings_ arise through the process. What parts are joyful? What parts are frustrating?
 5. **Capture parallel staff experiences (OPTIONAL):** If there is a staff member in your group, engage them and inquire about their experience of the joy and pain points along your user's journey? Why do they do what they do at those intersections?
 
-By the end of the session, take a photo of your journey map and submit it here: https://docs.google.com/a/casimircreative.com/forms/d/e/1FAIpQLScIhuqFSXaVGEHKd2njlKuJnq2NrDwHAfMGQswu6jEjxYxs_Q/viewform.
+By the end of the session, take a photo of your journey map and submit it [here](https://docs.google.com/a/casimircreative.com/forms/d/e/1FAIpQLScIhuqFSXaVGEHKd2njlKuJnq2NrDwHAfMGQswu6jEjxYxs_Q/viewform).
 
 
 ## Resources and Inspiration
