@@ -1,6 +1,5 @@
-# Turing Citizenship #1: Public Narrative
+# Turing M1 Citizenship Curriculum Overview
 
-## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
 Many students describe Turing as one of the most challenging experiences of their lives. On top of new material and a heavy workload, Turing requires students to learn in new ways, get comfortable with the discomfort of not always knowing where to start, and fail repeatedly as part of the frustrating, utterly delightful process of learning.
@@ -17,35 +16,3 @@ Over four sessions, students will have an opportunity to connect and organize ar
   4. **Retrospective:** Reflect on what worked and what to build on
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  
-
-
-#### Goals
-Today's session will be focused on Public Narrative. Students will:
-
-* Articulate their public narrative: what led to the decision to come and what meaning does it hold?
-* Set intentions around how to face Turing's challenges
-* Share their stories in a way that helps build positive relationships with peers
-
-Public narrative is an important tool for building relationships at Turing and will also help students understand how to present yourself in the industry and with potential employers.
-
-
-## Panel Discussion (25 min)
-Turing alumni will speak about their experience before, during, and after Turing.
-
-
-## Break (5 min)
-Pomodoros aren't just for coding.
-
-
-## Develop Personal Stories (25 min)
-We will begin this session with 5 minutes of individual reflection using this [worksheet](turing.io).
-
-For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this [worksheet](turing.io)) to organize feedback.
-
-
-## Break (5 min)
-Ditto.
-
-
-## Sharing of Public Narratives (90 min)
-Join with instructors, staff, and classmates to learn more about each other and soak in the common goals you share.

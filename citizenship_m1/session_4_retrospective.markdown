@@ -1,4 +1,4 @@
-# Turing Citizenship #1: Public Narrative
+# Turing Citizenship #3: Cohort Vision
 
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
@@ -20,32 +20,42 @@ Together, these four sessions will help students create a culture of mutual supp
 
 
 #### Goals
-Today's session will be focused on Public Narrative. Students will:
+Today's session will take an agile approach to reflecting on and developing your cohort culture. Students will:
 
-* Articulate their public narrative: what led to the decision to come and what meaning does it hold?
-* Set intentions around how to face Turing's challenges
-* Share their stories in a way that helps build positive relationships with peers
+* Identify what worked well this past module and what should change
+* Work in small groups to troubleshoot opportunities to improve
+* Reflect on and share gratitudes towards each other
 
-Public narrative is an important tool for building relationships at Turing and will also help students understand how to present yourself in the industry and with potential employers.
+By the end of the session, students will have some clear priorities to focus on as a group moving into next inning. And there will be some celebrating of all the successes from the earlier six weeks.
 
+## +/Δ Individual Reflection (5 min)
+| Symbol | How the hell to say it | What it means|
+| ---- |----- | ------|
+| + | "plus" | worked well |
+| Δ | "delta" | should change |
 
-## Panel Discussion (25 min)
-Turing alumni will speak about their experience before, during, and after Turing.
-
-
-## Break (5 min)
-Pomodoros aren't just for coding.
-
-
-## Develop Personal Stories (25 min)
-We will begin this session with 5 minutes of individual reflection using this [worksheet](turing.io).
-
-For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this [worksheet](turing.io)) to organize feedback.
+Students will reflect together on the following questions: What helped them individually and collectively toward their goals? What would they like to change next module?
 
 
-## Break (5 min)
-Ditto.
+## +/Δ Pair Reflect (5 min)
+Students will discuss individual reflections with a partner.
 
 
-## Sharing of Public Narratives (90 min)
-Join with instructors, staff, and classmates to learn more about each other and soak in the common goals you share.
+## +/Δ Report Out (10 min)
+Capture all the insight from pair discussions on the whiteboard with a +/Δ chart.
+
+
+## Vote (5 min)
+The facilitator distills topics in the Δ column and holds a vote where students can prioritize topics for further discussion. Each student gets 3 votes, can put all votes on one topic or spread across 3.
+
+
+## Breakout Groups (25 min)
+Students self-select into one of the 4-5 topics deemed most urgent by the group. Each group is responsible for the following:
+
+* Clearly define challenge/opportunity
+* Identify strategy for tackling issue
+* Clarify next steps and delegate responsibilities
+
+
+## Report Out (5 min)
+Each group will report out to the cohort with their reflections on the three prompts.
