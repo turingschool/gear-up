@@ -38,9 +38,9 @@ Pomodoros aren't just for coding.
 
 
 ## Develop Personal Stories (25 min)
-We will begin this session with 5 minutes of individual reflection using this [worksheet](turing.io).
+We will begin this session with 5 minutes of individual reflection using this [worksheet](https://github.com/turingschool/gear-up/blob/master/handouts/personal_worksheet.pdf).
 
-For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this [worksheet](turing.io)) to organize feedback.
+For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this [worksheet](https://github.com/turingschool/gear-up/blob/master/handouts/reflections_worksheet.pdf)) to organize feedback.
 
 
 ## Break (5 min)
