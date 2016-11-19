@@ -28,11 +28,11 @@ Join us in S300 to hear from Turing alumni about their experience before, during
 ## Break (5 min)
 
 ## Develop Personal Stories (25 min)
-We will begin this session with 5 minutes of individual reflection using this worksheet [turing.io](link TBD).
+We will begin this session with 5 minutes of individual reflection using this worksheet [link tbd](turing.io).
 
-For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this worksheet ([turing.io](link TBD)) to organize feedback.
+For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this worksheet ([link tbd](turing.io)) to organize feedback.
 
 ## Break (5 min)
 
 ## Sharing (90 min)
-We will have snacks and drinks and share our stories. 
+We will have snacks and drinks and share our stories.
