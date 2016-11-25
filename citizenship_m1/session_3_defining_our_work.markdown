@@ -1,4 +1,4 @@
-# Turing Citizenship #1: Public Narrative
+# Turing Citizenship #3: Defining Our Work
 
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
@@ -18,31 +18,35 @@ Over four sessions, students will have an opportunity to connect and organize ar
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  
 
-
 #### Goals
-Today's session will be focused on Public Narrative. Students will:
+Today's session will be focused on operationalizing the cohort vision. Students will:
 
-* Articulate their public narrative: what led to the decision to come and what meaning does it hold?
-* Set intentions around how to face Turing's challenges
-* Share their stories in a way that helps build positive relationships with peers
+* Review vision statement
+* Identify group strategies for advancing the vision
+* Identify individual strategies for advancing the group vision
 
-Public narrative is an important tool for building relationships at Turing and will also help students understand how to present yourself in the industry and with potential employers.
-
-
-## Introduction (5 min)
-Turing leadership will discuss role of public narrative in success at Turing and in the tech industry.
+By the end of the session, students will have a clear idea of how to make their cohort vision a reality.
 
 
-## Individual Reflection (5 min)
-We will begin this session with 5 minutes of individual reflection using this [worksheet](https://github.com/turingschool/gear-up/blob/master/handouts/personal_worksheet.pdf).
+## Recap of Vision from Last Session (10 min)
+SAB representatives will share notes from last session.
 
 
-## Public Narrative Peer Workshop (20 min)
-For the second part of the session, students will work in groups of 4 to share their personal stories and receive feedback on how to more effectively communicate their experiences. Each person will share for 2 minutes, then the group will take 2 min to give feedback. Use this [worksheet](https://github.com/turingschool/gear-up/blob/master/handouts/reflections_worksheet.pdf)) to organize feedback.
+## Write about Strategies to Achieve Vision (5 min)
+In notebooks, students reflect on _how_ their cohort can achieve the culture envisioned. What activities, practices, and behavior will advance the cohort's goals?
 
 
-## Break (5 min)
+## Small Group Discussion (10 min)
+In groups of 3-4, students discuss ideas from their writing.
 
 
-## Sharing of Public Narratives (90 min)
-Join with instructors, staff, and classmates to learn more about what drew each of you to Turing and the common goals you share.
+## Report Out and Voting (10 min)
+Each group reports out the ideas they identified. Students will vote on the ideas they think will be most impactful.
+
+
+## Breakout Groups (20 min)
+Students divide into groups, with each group assigned one of the winning ideas. If your topic requires buy-in from outside individuals (instructors, staff, other cohorts), engage one of the facilitators to discuss tactics for generating buy-in.
+
+
+## Report Out (5 min)
+Each group reports out on their ideas and next steps.

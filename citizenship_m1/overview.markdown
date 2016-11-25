@@ -11,8 +11,8 @@ One of the most important features of our community is our culture of mutual sup
 Over four sessions, students will have an opportunity to connect and organize around the values and goals that brought them to Turing.
 
   1. **Public Narrative:** Tell a story to build positive professional relationships ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_1_personal_narrative.markdown))
-  2. **Identifying Strengths:** Articulate the cultural attributes and strengths valued by the cohort ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_2_identifying_strengths.markdown))
-  3. **Cohort Vision:** Envision what that culture looks, sounds, and feels like ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_3_cohort_vision.markdown))
+  2. **Identifying Strengths:** Articulate the cultural attributes and strengths valued by the cohort ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_2_cohort_vision.markdown))
+  3. **Cohort Vision:** Envision what that culture looks, sounds, and feels like ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_3_defining_our_work.markdown))
   4. **Retrospective:** Reflect on what worked and what to build on ([link](https://github.com/turingschool/gear-up/blob/master/citizenship_m1/session_4_retrospective.markdown))
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  

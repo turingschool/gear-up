@@ -12,8 +12,8 @@ One of the most important features of our community is our culture of mutual sup
 Over four sessions, students will have an opportunity to connect and organize around the values and goals that brought them to Turing.
 
   1. **Public Narrative:** Tell a story to build positive professional relationships
-  2. **Identifying Strengths:** Articulate the cultural attributes and strengths valued by the cohort
-  3. **Cohort Vision:** Envision what that culture looks, sounds, and feels like
+  2. **Cohort Vision:** Articulate the cultural attributes and strengths valued by the cohort
+  3. **Defining Our Work:** Envision what that culture looks, sounds, and feels like
   4. **Retrospective:** Reflect on what worked and what to build on
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  
