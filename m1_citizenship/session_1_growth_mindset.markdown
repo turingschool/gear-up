@@ -48,7 +48,7 @@ After individual sharing, the groups together should tackle the question: how ca
 Take notes and assign someone to report out for your group in cohort retro later today.
 
 ## Panel Discussion (20 min)
-Alumni, Turing leadership, instructors, and students will discuss why growth mindset is critical to success at Turing and how growth mindset connects to Turing's mission.
+Alumni, instructors, and students will discuss why growth mindset is critical to success at Turing and how growth mindset connects to Turing's mission.
 
 ## Report Out at Group Retro this afternoon
 Each small group will report out on what they discussed in small groups.
