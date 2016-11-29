@@ -18,6 +18,7 @@ Over four sessions, students will have an opportunity to connect and organize ar
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  
 
+Pre Reading "[What Having a Growth Mindset Actually Means](https://hbr.org/2016/01/what_having_a_growth_mindset_actually_means)"
 
 #### Goals
 Today's session will be focused on developing a vision for cohort culture. Students will:
@@ -28,29 +29,27 @@ Today's session will be focused on developing a vision for cohort culture. Stude
 
 By the end of the session, students will have a clear understanding of the individual choices and behavior that can help them develop/maintain a growth mindset in the midst of Turing's pressures.  
 
+## Intro (5 min)
+Faciliators review the Gear Up overview and goals for the session
 
 ## What is a Growth Mindset? (15 min)
 Together, we will watch growth-mindset expert Carol Dweck's TED Talk, "[The Power of Believing that You Can Improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)."
 
+## Individual Reflection (5 min)
+In notebooks, reflect on the following questions.
+  * How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
+  * What are your triggers, what's likely to move you to fixed mindset?
+  * What can you peers do to support you staying in the growth mindset?
+
+## Small Group Discussion (10 min)
+In groups of 3, identify a timekeeper, a faciliator, and a notetaker.  Each student should spend about 2 minutes sharing what surfaced during their writing.
+
+After individual sharing, the groups together should tackle the question: how can you support each other in creating a cohort culture that supports growth mindset. You might draw on Dweck's suggestions from the article you read.
+
+Take notes and assign someone to report out for your group in cohort retro later today.
 
 ## Panel Discussion (20 min)
 Alumni, Turing leadership, instructors, and students will discuss why growth mindset is critical to success at Turing and how growth mindset connects to Turing's mission.
 
-
-## Individual Reflection (10 min)
-In notebooks, reflect on the following questions.
-  * How do you think past experiences have encouraged growth or fixed mindsets?
-  * What are your triggers, what's likely to move you to fixed mindset?
-  * What can you peers do to support you staying in the growth mindset?
-
-
-## Small Group Discussion (10 min)
-In groups of 3, each student should spend about 2 minutes sharing what surfaced during their writing.
-
-After individual sharing, the groups together should tackle the question: how can you support each other in creating a cohort culture that supports growth mindset. Reflect on Dweck's suggestions from the article you read for homework.
-
-Take notes and assign someone to report out for your group in closing full-group share.
-
-
-## Report Out (5 min)
+## Report Out at Group Retro this afternoon
 Each small group will report out on what they discussed in small groups.
