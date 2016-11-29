@@ -18,8 +18,6 @@ Over four sessions, students will have an opportunity to connect and organize ar
 
 Together, these four sessions will help students create a culture of mutual support within their cohort and identify how to tackle challenges with empathy and agility.  
 
-Pre Reading "[What Having a Growth Mindset Actually Means](https://hbr.org/2016/01/what_having_a_growth_mindset_actually_means)"
-
 #### Goals
 Today's session will be focused on developing a vision for cohort culture. Students will:
 
@@ -29,6 +27,7 @@ Today's session will be focused on developing a vision for cohort culture. Stude
 
 By the end of the session, students will have a clear understanding of the individual choices and behavior that can help them develop/maintain a growth mindset in the midst of Turing's pressures.  
 
+Pre Reading "[What Having a Growth Mindset Actually Means](https://hbr.org/2016/01/what_having_a_growth_mindset_actually_means)"
 ## Intro (5 min)
 Faciliators review the Gear Up overview and goals for the session
 
