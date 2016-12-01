@@ -28,8 +28,9 @@ Pick one of Chee's encounters from "A Month of Microaggressions" and reflect on 
 * How would you feel, physically, immediately after this encounter?
 * How would you feel, emotionally, immediately after this encounter?
 * How do you feel about the person who directed that comment at you?
-* If the encounter happened in an establishment (acting class, coffee shop), does that change your attitudes toward the establishment?
+* How could you build empathy for that person?
 * How would you recover from the incident? Assuming the incident was somewhat upsetting, what process would you go through to get back to how you felt beforehand?
+* Are there any potential action steps you could take the next time you have an encounter like this? How could you help the commenter understand how to take accountability for their comment?
 
 
 ## Discuss (25 min)
@@ -42,7 +43,7 @@ Before you begin discussing this topic, ensure that the following roles are dele
 | **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others. |
 
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, use the following prompt to focus on for the rest of your time:
-* **Action Steps:** Okay, so microaggressions are a thing and they have a real impact on real people. What do you do? What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
+* **Action Steps:** Microaggressions are a thing, and they have a real impact on real people. What do you do? What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
 
 ## Report Out (5 min)
 Each group has 30 sec to describe takeaways from their discussion.
