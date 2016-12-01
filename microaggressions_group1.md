@@ -26,9 +26,9 @@ Reflect on the following from the first article that you read:
 
 The NY Times article cites a comment on the Buzzfeed article, which reads *“Make up your mind, do you want to be seen the same as everyone because you’re a human being, or do you want to be seen as a ‘colored’ girl, since not being seen as a ‘colored’ person is obviously offensive?”* 
 
-* What is the inherent conflict that this commenter might be sensing?
-* Why might it be difficult to treat someone equally while also recognizing their own identity?
-* 
+* What do you think this commenter is trying to say? 
+* Is it difficult to recognize someone's identity (such as, one's identity as a person of color) and treat them the exact same way you'd treat someone who has a similar identity to you? Why or why not?
+* What responsibility does the commenter have to the person they're addressing?
 
 ## Discuss (25 min)
 Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
