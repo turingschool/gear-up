@@ -12,7 +12,7 @@ Turing has a mission-critical responsibility to create a culture in which the me
 ## Goal of Session
 By the end of this session, students should be able to do the following:
 * Understand what "microaggressions" are and what they might look like
-* Build an understanding of our responsibilities when it comes to addressing microaggressions
+* Build an understanding of what type of action is aligned with your values when it comes to addressing microaggressions
 * Practice empathy for both targets of microaggressions and those who communicate microaggressions through conversation
 
 ## Read (15 min)
