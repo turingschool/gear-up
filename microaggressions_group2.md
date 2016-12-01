@@ -13,7 +13,6 @@ By the end of this session, students should be able to do the following.
 * Define "microaggressions" and identify them when they occur
 * Practice empathy for targets of microaggressions
 * Identify opportunities in personal conduct to reduce microaggressions and address their consequences
-* Contribute to an inclusive, socially-supportive culture at Turing
 
 
 ## Read (15 min)
