@@ -41,10 +41,10 @@ Before you begin discussing this topic, ensure that the following roles are dele
 
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, use the following prompt to focus on for the rest of your time.
 
-Pick one of Chee's encounters from "A Month of Microaggressions" and reflect on how that episode, in the context of regular similar incidents, would affect you if you were Chee. If helpful, you can use these questions to guide your reflection.
+**Building Understanding**: Pick one of Chee's encounters from "A Month of Microaggressions" and reflect on how that episode would affect you if you were Chee. Use these questions to guide your discussion:
 
-* How would you feel, physically, immediately after this encounter?
-* How would you feel, emotionally, immediately after this encounter?
+* What makes this encounter a microaggression? Why? 
+* How would you feel, physically and/or emotionally, immediately after this encounter?
 * How do you feel about the person who directed that comment at you? 
 * How could you build empathy for that person?
 * How would you recover from the incident? Assuming the incident was somewhat upsetting, what process would you go through to get back to how you felt beforehand?
