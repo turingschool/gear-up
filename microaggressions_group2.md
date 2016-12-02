@@ -20,7 +20,7 @@ By the end of this session, students should be able to do the following.
 * ["Stop Acting So Surprised: How Microaggressions Enforce Stereotypes in Tech"](https://modelviewculture.com/pieces/stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech)(Model View Culture: June 30, 2015)
 * ["Recognizing Microaggressions and the Messages They Send"](http://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf)
 * ["A Month of Microaggressions"](http://www.huffingtonpost.com/entry/a-month-of-microaggressions_us_57d31336e4b0eb9a57b7a827)(Huffington Post: September 9, 2016)
-
+* ["Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment"](http://link.springer.com/article/10.1007/s11109-016-9373-5)
 
 ## Write (10 min)
 Pick one of Chee's encounters from "A Month of Microaggressions" and reflect on how that episode, in the context of regular similar incidents, would affect you if you were Chee. If helpful, you can use these questions to guide your reflection.
@@ -43,7 +43,10 @@ Before you begin discussing this topic, ensure that the following roles are dele
 | **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others. |
 
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, use the following prompt to focus on for the rest of your time:
-* **Action Steps:** Microaggressions are a thing, and they have a real impact on real people. What do you do? What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
+
+* What options do you have, within your sphere of control, to address incidents you encounter? 
+* How can you affect a culture that says they're okay in a way that's consistent with your? 
+* How can you act in a way that's consistent with your values?
 
 ## Report Out (5 min)
 Each group has 30 sec to describe takeaways from their discussion.
