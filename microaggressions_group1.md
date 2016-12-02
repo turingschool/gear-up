@@ -22,13 +22,11 @@ By the end of this session, students should be able to do the following:
 * ["A Month of Microaggressions"](http://www.huffingtonpost.com/entry/a-month-of-microaggressions_us_57d31336e4b0eb9a57b7a827)(Huffington Post: September 9, 2016)
 
 ## Write (10 min)
-Reflect on the following from the first article that you read:
+Reflect on the articles from above:
 
-The NY Times article cites a comment on the Buzzfeed article, which reads *“Make up your mind, do you want to be seen the same as everyone because you’re a human being, or do you want to be seen as a ‘colored’ girl, since not being seen as a ‘colored’ person is obviously offensive?”* 
-
-* What do you think this commenter is trying to say? 
-* Is it difficult to recognize someone's identity (such as, one's identity as a person of color) and treat them the exact same way you'd treat someone who has a similar identity to you? Why or why not?
-* What responsibility does the commenter have to the person they're addressing?
+* What are some takeaways from the articles?
+* How does this information change or reinforce what you thought about the topic of microaggressions at the outset of this session?
+* What questions do you still have about this topic and how it relates to your life? 
 
 ## Discuss (25 min)
 Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
