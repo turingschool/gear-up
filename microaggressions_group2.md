@@ -45,8 +45,7 @@ Before you begin discussing this topic, ensure that the following roles are dele
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, use the following prompt to focus on for the rest of your time:
 
 * What options do you have, within your sphere of control, to address incidents you encounter? 
-* How can you affect a culture that says they're okay in a way that's consistent with your? 
-* How can you act in a way that's consistent with your values?
+* How can you affect a culture that says they're okay in a way that's consistent with your values? 
 
 ## Report Out (5 min)
 Each group has 30 sec to describe takeaways from their discussion.
