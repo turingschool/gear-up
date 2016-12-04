@@ -22,7 +22,7 @@ In your groups, discuss the following questions:
 * How do you expect you will you be affected by these norms and practices? Will you benefit or suffer from them? How?
 * Imagine these three scenarios and discuss what you would do in each situation. For each scenario, consider "Are _my values_ aligned with what's happening?" and "Do _my values demand action_? If so, what action would be consistent with my values?"
   * You are 25 and work at Facebook when Mark Zuckerberg makes the comment, "young people are just smarter."
-  * You are on an interview team that interviews a 45-year-old candidate whose qualified to do the job. In your team's interview debrief, your colleagues raise concerns that (you believe) have undertones of ageism ("culture fit" and "trouble adjusting to our environment" came up).
+  * You are on an interview team that interviews a 45-year-old candidate who is qualified to do the job. In your team's interview debrief, your colleagues raise concerns that (you believe) have undertones of ageism ("culture fit" and "trouble adjusting to our environment" came up).
   * You run a Ruby meetup hosted by a local tech company. It's an informal, casual group, with 8-9 regular attendees. Obscure lingo and inside jokes are par for the course. You've noticed that each meeting gets 2-3 new visitors, but they rarely return.
 
 ### Recap (5 min)
