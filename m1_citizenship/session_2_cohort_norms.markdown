@@ -27,4 +27,20 @@ Students will line up on a spectrum of extroversion and introversion. Facilitato
 
 ### Small Group Discussion # 1
 
+Students will discuss these questions:
+
+* What are your strengths in regards to this working style?
+* What challenges have you faced because you identify with this working style?
+* How do you think you're perceived by those who don't share this same working style?
+* What advice do you have for those who identify with a different working style?
+
 ### Small Group Discussion # 2
+
+The facilitator will mix groups based on working styles and discuss key takeaways from their first discussion and more specifically these questions:
+
+* How do you think you're perceived by those who don't share this same working style?
+* What advice do you have for those who identify with a different working style?
+
+## Cohort Norm Setting
+
+Students will work during their cohort retro to create a list of cohort norms.
