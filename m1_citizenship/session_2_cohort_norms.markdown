@@ -41,6 +41,6 @@ The facilitator will mix groups based on working styles and discuss key takeaway
 * How do you think you're perceived by those who don't share this same working style?
 * What advice do you have for those who identify with a different working style?
 
-## Cohort Norm Setting
+### Cohort Norm Setting
 
 Students will work during their cohort retro to create a list of cohort norms.
