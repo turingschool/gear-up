@@ -21,5 +21,3 @@ Students will get into groups of four (mixed programs) and discuss key takeaways
 
 * What are the ways that you could bring your unique values, perspective, skills into a team in order to make it even better?
 * What could be challenges (or what are challenges you have already faced) when entering a new team?
-
-^^ We'll have students discuss values/norms in their group retro and create a cohort list of norms?
