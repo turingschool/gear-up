@@ -25,21 +25,22 @@ By the end of this session, students should be able to do the following.
 
 
 ## Introduction
-What is a journey map? Review these two examples, both of which document users experience with tech services ([Broadband Provider Journey](https://www.smashingmagazine.com/wp-content/uploads/2014/12/1-broadband-provider-journey-large-opt.jpg), [Healthrageous Player Journey](http://uxmastery.com/wp-content/uploads/2014/09/hr_journey-high-res.jpg)). We will then watch this [video](https://www.youtube.com/watch?v=wMMGhH_cR-8) from the the United States Digital Service (USDS) that demonstrates a part of the user interview process. The full story of the USDS's redesign of the Veteran's Affairs (VA) health care web experience is outlined here, [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d)).
+What is a journey map? Review these two examples, both of which document users' experience with tech services ([Broadband Provider Journey](https://www.smashingmagazine.com/wp-content/uploads/2014/12/1-broadband-provider-journey-large-opt.jpg), [Healthrageous Player Journey](http://uxmastery.com/wp-content/uploads/2014/09/hr_journey-high-res.jpg)). We will then watch this [video](https://www.youtube.com/watch?v=wMMGhH_cR-8) from the the United States Digital Service (USDS) that demonstrates a part of the user interview process. The full story of the USDS's redesign of the Veteran's Affairs (VA) health care web experience is outlined here, [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d).
 
 
 ## Pair Up and Pick Topics (5 min)
 Students start in groups of 4 and will need to divide again into pairs (pair A/B and pair C/D). Each pair should decide on a user experience they can both attest to and have experienced personally.
 
 When picking a user experience for your pair, pick a journey that has a beginning and end, and a product or well-defined bounds that the user is interacting with. Examples include:
-	* Taking public transportation to work/school for the first time
-	* Getting a Colorado drivers license
-	* Filing an insurance claim after a car accident
-	* Completing your first programming project at Turing
-	* Finding a new job
+
+  * Taking public transportation to work/school for the first time
+  * Getting a Colorado drivers license
+  * Filing an insurance claim after a car accident
+  * Completing your first programming project at Turing
+  * Finding a new job
   * Buying items from Amazon Pantry
 
-While you may enjoy focusing on tech-related experiences, feel free to chose other topics. You can practice the targeted skills of this exercise -- asking questions, empathizing, and discovering the intimacies of another person's experience -- across a varied set of topics.
+While you may enjoy focusing on tech-related experiences, feel free to chose other topics. You can practice the targeted skills of this exercise (asking questions, empathizing, and discovering the intimacies of another person's experience) across a varied set of topics.
 
 
 ## Interview Round I (15 min)
@@ -62,10 +63,10 @@ Now that both pairs have some primary data from their interviews, start organizi
 1. **Clarify the scope of your map:** Where did the journey begin and when does it end?
 2. **Identify phases of the journey:** What logical groupings can you make around the series of steps your user took?
 3. **Capture user's steps to achieve goal:** What actions did your user take to achieve their goal ?
-4. **Thoughts and Feelings:** What parts are joyful? What parts are frustrating? What emotions and thoughts did your user experience over the course of their journey?
+4. **Thoughts and feelings:** What parts are joyful? What parts are frustrating? What emotions and thoughts did your user experience over the course of their journey?
 5. **Pain Points**: What moments and actions were most frustrating or difficult for your user.
 
-By the end of the session, take a photo of your journey map and submit it [here](https://docs.google.com/a/casimircreative.com/forms/d/e/1FAIpQLScIhuqFSXaVGEHKd2njlKuJnq2NrDwHAfMGQswu6jEjxYxs_Q/viewform).
+By the end of the session, take a photo of your groups journey maps and tweet with the hashtag `#turingjm`.
 
 
 ## Survey (5 min)
