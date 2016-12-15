@@ -58,6 +58,8 @@ The facilitator will mix groups based on working styles and discuss key takeaway
 * What actions do you want to take for yourself and your cohort to be successful at Turing?
 * How can you leverage your place on the spectrum of introversion/extroversion to impact your career in the future?
 
-### Closing (5 minutes)
+### Closing & Survey (5 minutes)
 
 Students will be asked to take their individual reflection to cohort retro where the cohort will brainstorm a set of norms going forward. 
+
+Spend a few minutes taking this [survey](https://goo.gl/forms/6VR0hjGNijnpSCzC3) to give us feedback on this session.
