@@ -27,7 +27,7 @@ By the end of this session, students should be able to do the following.
 ## Introduction
 What is a journey map? Review these two examples, both of which document users' experience with tech services ([Broadband Provider Journey](https://www.smashingmagazine.com/wp-content/uploads/2014/12/1-broadband-provider-journey-large-opt.jpg), [Healthrageous Player Journey](http://uxmastery.com/wp-content/uploads/2014/09/hr_journey-high-res.jpg)).
 
-We will then watch this [video](https://www.youtube.com/watch?v=wMMGhH_cR-8) from the United States Digital Service (USDS) that demonstrates a part of the user interview process. The full story of the USDS's redesign of the Veteran's Affairs (VA) health care web experience is outlined here, [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d).
+We will then watch this [video](https://www.youtube.com/watch?v=l_ErfXWckjI) from the United States Digital Service (USDS) that demonstrates a part of the user interview process. The full story of the USDS's redesign of the Veteran's Affairs (VA) health care web experience is outlined here, [Introducing a New Digital Application for Health Care at VA](https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78#.n5ee0di4d).
 
 
 ## Pair Up and Pick Topics (5 min)
@@ -38,9 +38,14 @@ When picking a user experience for your pair, pick a journey that has a beginnin
   * Taking public transportation to work/school for the first time
   * Getting a Colorado drivers license
   * Filing an insurance claim after a car accident
-  * Completing your first programming project at Turing
-  * Finding a new job
   * Buying items from Amazon Pantry
+  * Making the decision to attend Turing 
+  * Participating in first portfolio review 
+  * Participating in Improv on the second day of M1 
+  * Completing your first programming project at Turing
+  * Discovering programming for the first time 
+  * Pairing for the first time 
+  * Completing an assessment with an instructor
 
 While you may enjoy focusing on tech-related experiences, feel free to chose other topics. You can practice the targeted skills of this exercise (asking questions, empathizing, and discovering the intimacies of another person's experience) across a varied set of topics.
 
