@@ -18,7 +18,7 @@ By the end of this session, students should be able to do the following.
 Together, we will watch grit researcher Angela Duckworth's TEDTalk, ["Grit: The Power of Passion and Perseverance"](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance#t-85401).
 
 ## Read (8 min)
-Independently, we will read this *New York Magazine* article, ["Don’t Believe the Hype About Grit, Pleads the Scientist Behind the Concept"](http://nymag.com/scienceofus/2016/05/dont-believe-the-hype-about-grit-pleads-the-scientist-behind-the-concept.html) (May 9, 2016) about how grit has been misinterpreted.
+Independently, we will read this *New York Magazine* article, ["Don’t Believe the Hype About Grit, Pleads the Scientist Behind the Concept"](http://nymag.com/scienceofus/2016/05/dont-believe-the-hype-about-grit-pleads-the-scientist-behind-the-concept.html) (May 9, 2016), about how grit has been misinterpreted.
 
 ## Write
 ### Explore (10 min)
@@ -34,7 +34,7 @@ Review the three questions we’ll focus on for discussion.
 
 * What is grit? How do you gauge if someone has a lot of grit or not?
 * Has grit played a meaningful role in your life? How? If not, what qualities do you think have affected your success at Turing the most?
-* As a community at Turing, is it worthwhile to discuss grit? Why?
+* As a community at Turing, is it worthwhile to discuss grit? Why or why not? How should we otherwise spend our time to raise awareness of the emotional skills students need to succeed?
 
 Write some notes to summarize your response to the question and identify facts or arguments from the video, article, or your own personal experience to support your points.
 
