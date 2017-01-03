@@ -17,8 +17,10 @@ By the end of this session, students should be able to do the following.
 ## Watch (7 min)
 Together, we will watch grit researcher Angela Duckworth's TEDTalk, ["Grit: The Power of Passion and Perseverance"](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance#t-85401).
 
-## Read (8 min)
-Independently, we will read this *New York Magazine* article, ["Don’t Believe the Hype About Grit, Pleads the Scientist Behind the Concept"](http://nymag.com/scienceofus/2016/05/dont-believe-the-hype-about-grit-pleads-the-scientist-behind-the-concept.html) (May 9, 2016), about how grit has been misinterpreted.
+## Read (13 min)
+Independently, we will read these articles:
+* ["Don’t Believe the Hype About Grit, Pleads the Scientist Behind the Concept"](http://nymag.com/scienceofus/2016/05/dont-believe-the-hype-about-grit-pleads-the-scientist-behind-the-concept.html) (*New York Magazine*, May 9, 2016).
+* ["Four Signs You Have Grit](http://motto.time.com/4327035/4-signs-you-have-grit/) (*Motto*, May 12, 2016)
 
 ## Write
 ### Explore (10 min)
@@ -28,10 +30,6 @@ To begin to process the content of Duckworth's presentation and the *New York Ma
 * There can be a downside to grit. It can be an excuse to accept things as they are, whether the problems are systematic for more localized. How do you know the difference between when to speak up and when to grit it out?
 * In what ways has being a student at Turing tested your grit? What strategies have you found effective for owning your struggle?
 * Is this bullshit? Is thinking/talking about grit a worthwhile thing to do?
-
-### Prepare for Discussion (5 min)
-Review the three questions we’ll focus on for discussion.
-
 * What is grit? How do you gauge if someone has a lot of grit or not?
 * Has grit played a meaningful role in your life? How? If not, what qualities do you think have affected your success at Turing the most?
 * As a community at Turing, is it worthwhile to discuss grit? Why or why not? How should we otherwise spend our time to raise awareness of the emotional skills students need to succeed?
