@@ -50,7 +50,8 @@ As you head into the homestretch of your time at Turing and begin to look toward
 * Duckworth emphasizes the role of passion in grit. Perseverance alone isn't enough; passion keeps people connected with the motivations that drive them through the work. When's the last time at Turing you really loved the work you were doing?
 * When you think the future ahead of you in software development, what (if any) parts of the work can you imagine feeling passionate about?
  How will that apply to your job search ahead?
-* Sometimes, including during a job search, it's important to acknowledge when something isn't meant to be. On the other hand, per Duckworth's suggestion that people with grit are able to "view frustrations as a necessary part of the process," sometimes challenges are inevitable and worth pushing through. How will you tell the difference? What support system (people, practices, routine) can help you use good judgment when you're in the depths of your search?
+* Sometimes, including during a job search, it's important to acknowledge when something isn't meant to be. On the other hand, per Duckworth's suggestion that people with grit are able to "view frustrations as a necessary part of the process," sometimes challenges are inevitable and worth pushing through. How will you tell the difference? How can you use the challenges you face at Turing to prepare you for those you'll face in your job search and in the workplace?
+* What support system (people, practices, routine) can help you use good judgment when you're in the depths of your search?
 
 ## Group Work
 Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
