@@ -71,7 +71,7 @@ Before you begin discussing this topic, ensure that the following roles are dele
 3. Timekeeper: Announce when you have 2 minutes left in your discussion.  Facilitator:  Help your group come up with the 1-2 ideas you want to share whole group or a summary of what your group discussed. 
 
 ### Groups Report Out (10 min)
-Spokesperson from each group will report out the top 2-3 reflections that came from their writing and discussion.
+Spokesperson from each group will report out the top 1-2 reflections that came from their writing and discussion.
 
 ## Survey (5 min)
 Complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSfapmfkIwkDfeuFeNL6jcHcpoXb1Aa1dsQ_9CrhMbduVL9sIg/viewform) before you leave.
