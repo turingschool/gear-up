@@ -54,7 +54,7 @@ As you head into the homestretch of your time at Turing and begin to look toward
 * What support system (people, practices, routine) can help you use good judgment when you're in the depths of your search?
 
 ## Group Work
-Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
+Before you begin discussing this topic, count off into groups of three. Ensure that the following roles are delegated to members of your group.
 
 | Role | Description |
 |--------|-----------|
