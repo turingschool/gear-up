@@ -33,9 +33,10 @@ Think of a time at Turing when you've been tempted to give up.
 * Is it in any way problematic (emphasizing pushing through when you really need a break)?
 
 ### Module 1
-Growth mindset and grit have many similarities; both speak to one's ability to deal with the ego-stripping experience of failure and challenge that accompany learning and growth.
+Growth mindset is a necessary for grit.  Both growth mindset and the concept of grit speak to one's ability to deal with the ego-stripping experience of failure and challenge that accompany learning and growth.
 * How would you define the distinction between these two?
 * How can they work together?
+* How has your growth mindset impacted your grit in Module 1?
 
 ### Module 2
 Now that you're a bit acclimated to the challenges and routine of being a student at Turing, you probably can relate to both getting gritty and having your grit weaken. "[Looking] for ways to make your work more meaningful" is one of the elements Hilmantel focuses on in ["Four Signs You Have Grit"](http://motto.time.com/4327035/4-signs-you-have-grit/). Reread this section, and brainstorm 2-3 ways you can imbue your work over the next week and next inning to be more "filled with purpose."
@@ -63,19 +64,15 @@ Before you begin discussing this topic, ensure that the following roles are dele
 | **Spokesperson** | Keeps track of the topics discussed, and is prepared to represent the group when it's time for each group to report out the highlights of their conversation. |
 
 
-### Introductions (5 min)
-Take a moment to introduce yourself to others in your group and touch on your exposure, if any, to the concept of grit in the past. Examples include:
+### Discussion (15 min)
+1. Begin by sharing your current definition or exposure to grit. 
 * "I've read a lot about grit, particularly about how it can be really dangerous when applied in an educational context. It can be used to put pressure on students to suck it up and get through the work, instead of equipping them to tackle the sources of some of their difficulties"
 * "My dad always uses grit as a way to complement someone. It means being tough, sucking it up, not whining."
+2. Facilitator move your group into answering your module specific questions.  Be sure that everyone has an opportunity to share.
+3. Timekeeper: Announce when you have 2 minutes left in your discussion.  Facilitator:  Help your group come up with the 1-2 ideas you want to share whole group or a summary of what your group discussed. 
 
-### Discussion (15 min)
-1. The facilitator will lead the group in ranking the 2-3 most interesting questions from the prompts you wrote.
-2. Working with the timekeeper, the facilitator should allocate the 15 minutes across the topics you've decided to focus on.
-3. Jump into the first question.
-4. Etc.
-
-### Groups Report Out (5 min)
-Each group will report out the top 2-3 reflections that came from their writing and discussion.
+### Groups Report Out (10 min)
+Spokesperson from each group will report out the top 2-3 reflections that came from their writing and discussion.
 
 ## Survey (5 min)
 Complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSfapmfkIwkDfeuFeNL6jcHcpoXb1Aa1dsQ_9CrhMbduVL9sIg/viewform) before you leave.
