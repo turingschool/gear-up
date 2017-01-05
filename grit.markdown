@@ -66,8 +66,8 @@ Before you begin discussing this topic, ensure that the following roles are dele
 
 ### Discussion (15 min)
 1. Begin by sharing your current definition or exposure to grit. 
-* "I've read a lot about grit, particularly about how it can be really dangerous when applied in an educational context. It can be used to put pressure on students to suck it up and get through the work, instead of equipping them to tackle the sources of some of their difficulties"
-* "My dad always uses grit as a way to complement someone. It means being tough, sucking it up, not whining."
+ * "I've read a lot about grit, particularly about how it can be really dangerous when applied in an educational context. It can be used to put pressure on students to suck it up and get through the work, instead of equipping them to tackle the sources of some of their difficulties"
+ * "My dad always uses grit as a way to complement someone. It means being tough, sucking it up, not whining."
 2. Facilitator move your group into answering your module specific questions.  Be sure that everyone has an opportunity to share.
 3. Timekeeper: Announce when you have 2 minutes left in your discussion.  Facilitator:  Help your group come up with the 1-2 ideas you want to share whole group or a summary of what your group discussed. 
 
