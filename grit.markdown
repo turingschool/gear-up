@@ -10,10 +10,9 @@ For that reason, we've included grit as a key mindset for students at Turing, an
 Today's exercise is designed to develop students' awareness of grit and relate it to their personal lives. If grit is not a relevant concept for you, you will want to use this session to clarify why it is not, and reflect on how you will need to manage your attitude in the face of Turing's formidable challenges.
 
 ## Goals of Session
-* Define grit and examine the role of *passion* in cultivating grit.
-* Reflect on which aspects of student work at Turing activates passion.
-* Brainstorms ways to double-down on this passion in the coming inning.
-* [OTHER/REWRITE]
+* Students will be able to define grit and articulate the role that passion plays in sustaining grit
+* Students will be able to articulate how grit is a function of behaviors and attitudes, not a fixed quality
+* Students will be able to apply the concept of grit to module-specific professional challenges they'll face in the coming inning or in their job search.
 
 ## Watch (7 min)
 Together, we will watch grit researcher Angela Duckworth's TEDTalk, ["Grit: The Power of Passion and Perseverance."](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance#t-85401)
