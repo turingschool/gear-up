@@ -1,48 +1,47 @@
-#Tragedy of the Commons: Sustainability, Diversity, Voting, Cleaning Dishes
+#Tragedy of the Commons
 
-We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best take responsibility for our actions. 
+## Mission Alignment
 
-Today, we will explore this quandary in more depth and use our discussions around this topic as a forum for strengthening skills that can help us more meaningfully participate in our communities in the future. These skills include:
-* Effectively communicating a contrary opinion,
-* Facilitating and holding space for controversial conversations, and
-* Contextualizing positions relative to others.
+*Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
+
+We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best have an impact. Today, we will explore this quandary in more depth and brainstorm ways to deal with it.
+
+
+## Goals of Session
+
+Students should be able to do the following.
+
+*   Describe the types of actions that are required to reverse systems created with bias.
+*   Demonstrate commitment to community values by reviewing new material through the lens of its relevance in advancing larger community goals.
+*   Contribute meaningful to activities focused on how to advance community values.
+
+
 
 ##Exploring (10 min)
-Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you understand how the creators arrived at the conclusions summarized at the end.  
-&nbsp;&nbsp;&nbsp;&nbsp;**1.**&nbsp;&nbsp;Small individual shortcomings lead to large collective failures.  
-&nbsp;&nbsp;&nbsp;&nbsp;**2.**&nbsp;&nbsp;Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
-&nbsp;&nbsp;&nbsp;&nbsp;**3.**&nbsp;&nbsp;Small individual "anti-biases" can address systemic biases.  
+
+Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you read and have a solid understanding of how the creators arrived at these conclusions.  
+
+**1.** Small individual shortcomings lead to large collective failures.  
+**2.** Systemic issues from the past are unlikely to be remedied by neutral responses in the present.  
+**3.** Small individual "anti-biases" can address systemic biases.  
+
 
 ##Write (15 min)
-###Step 1: Choose Your Own Adventure
-Pick one of the following topics as a lens for exploring these dynamics in your own life.
 
-####Environmental Sustainability
-If we all consumed a little less, walked a little more (instead of driving), used the air conditioner a little less, we could significantly slow some of the environmental changes that have been created by human beings. The consequences of not changing our behavior are now widely accepted, but meaningful changes to our behavior have not followed.
+We'll explore the concepts from *Parable of the Polygons (PotP)*  within the context of diversity in tech.
 
-####Women and People of Color (PoC) in Tech
-Only 3% of technology jobs in Silicon Valley are occupied by Hispanics, only 2% are African-American, and women hold only approximately 15% of tech jobs in the industry. The dominant response to this problem is an attitude of "don't be an asshole, and things will improve," but research indicates this is not a sufficient remedy for the problem. 
+*   Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
+*   Diversity "quotas" are sometimes dismissed as counter-productive or missing the point of actually valuing diversity. *PotP* does demonstrate how they may add some value. What are your attitudes toward diversity quotas; does this game change your assumptions?
+*   Given the patterns illuminated by *PotP*, what other strategies may be effective in counteracting bias?
+*   *PotP* speaks to the power of group norms: a seemingly innocuous attitude, wanting to be surrounded by at least 1/3 of people who look like you, when embraced by a large group, can have huge implications on that community. Considering this reality, what knowledge and understandings should Turing impart to students to ensure they do not enter the field perpetuating ideas that are in conflict with our mission.
+*   *PotP* is a pretty sweet example of how technology can illustrate complex ideas. What are *PotP*'s goals, and how effective do you think the game is in advancing those goals?
 
-####Voting in Local Elections
-It's easy to make a case that local elections matter more than federal elections, despite the disproportionate media attention garnered by the latter. Local elections are more likely to effect your children's education, crime in your neighborhood, access to public services, and your general quality of life. Yet only 21% of eligible voters participate in local elections.
-
-####Keeping the Dishes Clean at Turing
-Approximately 20% of the students are responsible for 80% of the dishwashing we do at Turing (these numbers are completely fabricated, but seem reasonable). Dishes pile up, attracting bugs, sometimes stinking, and generally undermining the svelte aesthetic of our basement. Most people think they're doing their fair share, but they're wrong. 
-
-###Step 2: Reflect on the Following Questions
-* In your own words, what is the problem?
-* What individual actions, or lack thereof, collectively create the issue?
-* What would taking individual responsibility for this issue look like? Does it seem radical?
-* While it may be reasonable to change your individual behavior to positively impact this issue, it becomes more complicated when you consider that there are dozens (if not hundreds) of similar causes vying for our attention. What do you think is the most realistic, responsible response to the inundation of these ethical demands? 
 
 ##Discussion (25 min)
-Split into groups based on the topic you picked. To help stoke a lively discussion, have the members identify where in the following spectrum their response to the last question falls: "What do you think is the most realistic, responsible response to the inundation of these ethical demands?" 
 
-<p align="center">
-  disengage &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;"try where I can" &nbsp;&nbsp;- - - - - - - - - &nbsp;&nbsp;fix all the things
-</p>
+In groups of 3-4, discuss your answers to the questions above.
 
-Now debate. Defend your argument and why you think it's the best blend of realistic and responsible. Keep in mind the following skills to exercise as you discuss: communicating a contrary opinion, facilitating controversial conversations, and contextualizing your position relative to others. 
 
 ##Surveys (5 min)
-Please complete the following GearUp survey: https://goo.gl/forms/kh6xADIHtwOLOCJC3
+
+Please complete the following GearUp survey: <https://docs.google.com/forms/d/e/1FAIpQLSdloWoyOAG91GSMhPSvzXQfsT4wkGQaXrtfNaR4akK_tCDdXA/viewform>
