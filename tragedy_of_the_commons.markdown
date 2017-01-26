@@ -4,17 +4,17 @@
 
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
-We are confronted on a daily basis by social challenges - ineffective public leaders, global warming, a sink full of dirty dishes - for which we, as individuals, bear some small responsibility. It's often difficult for us to see the connection between small choices we make and large systemic issues. And when we are able to make the connection, it's not always obvious how we can best have an impact. Today, we will explore this quandary in more depth and brainstorm ways to deal with it.
+We are confronted on a daily basis by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. And when we are able to make the connection, it's not always obvious how we can best have an impact. Today, we will explore this quandary in more depth and brainstorm ways to deal with it.
 
 
 ## Goals of Session
 
 Students should be able to do the following.
 
+*   Draw connections between individual attitudes/actions and large-scale cultural issues.
 *   Describe the types of actions that are required to reverse systems created with bias.
 *   Demonstrate commitment to community values by reviewing new material through the lens of its relevance in advancing larger community goals.
 *   Contribute meaningful to activities focused on how to advance community values.
-
 
 
 ##Exploring (10 min)
