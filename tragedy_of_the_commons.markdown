@@ -40,8 +40,3 @@ We'll explore the concepts from *Parable of the Polygons (PotP)*  within the con
 ##Discussion (25 min)
 
 In groups of 3-4, discuss your answers to the questions above.
-
-
-##Surveys (5 min)
-
-Please complete the following GearUp [survey]( <https://docs.google.com/forms/d/e/1FAIpQLSdloWoyOAG91GSMhPSvzXQfsT4wkGQaXrtfNaR4akK_tCDdXA/viewform>).
