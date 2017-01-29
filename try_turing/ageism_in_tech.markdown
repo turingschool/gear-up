@@ -14,7 +14,7 @@ Read the following articles on ageism in tech.
   * [Steven Levy on Ageism in Tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
   * [Is Ageism in Tech an Under the Radar Diversity Issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue)
 
-### Discussion (15 min)
+### Discussion (12 min)
 
 In your groups, discuss the following questions:
 
@@ -25,7 +25,7 @@ In your groups, discuss the following questions:
   * You are on an interview team that interviews a 45-year-old candidate who is qualified to do the job. In your team's interview debrief, your colleagues raise concerns that (you believe) have undertones of ageism ("culture fit" and "trouble adjusting to our environment" came up).
   * You run a Ruby meetup hosted by a local tech company. It's an informal, casual group, with 8-9 regular attendees. Obscure lingo and inside jokes are par for the course. You've noticed that each meeting gets 2-3 new visitors, but they rarely return.
 
-### Recap (5 min)
+### Recap (3 min)
 
 * What are the key takeaways from your group?
 * Going forward, what will you be more aware of? What part will you play in tackling the ageism issue in tech? 
