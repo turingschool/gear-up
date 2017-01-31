@@ -1,0 +1,1 @@
+# Managing Stress & Coping Mechanisms
