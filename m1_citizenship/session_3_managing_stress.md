@@ -44,3 +44,12 @@ Small groups will list their "off-ramps" on a piece of chart paper and brainstor
 ## Action Planning (10 min)
 
 Students will take a lap around the room to see examples of other positive "off-ramps." Students will create an action plan to respond to stressful situations that might arise for the last half of the module. 
+
+## Cohort Retro Share Out
+
+In retro today, you'll get with a small group of others to share your action plan.
+
+## Survey Questions
+
+* What value would you assign to this session (from 1-5)?
+* What's your most important take away from this session?
