@@ -33,7 +33,7 @@ These are the extremes. We use "off-ramps" to help manage our stress before we g
 
 The more we actively practice these "off-ramps", the stronger the neurological connections in our brain become and it makes it easier for us to respond with these "off-ramps" rather than hitting the extreme.
 
-## Small Group Discussion (10 min)
+## Small Group Discussion (15 min)
 
 * What's your most common response to stress (using the framework above or not)?
 * What are some common "off-ramps" that you find helpful?
