@@ -15,7 +15,8 @@ Share with a group of three your responses to the reflection questions.
 
 ## Reflection - Stress Management (5 min)
 
-* How have you balanced stress in past experiences?
+You have balanced stress in the past. Given that we're all in a unique situation with this immersive environment, we want to take a deep look at how well you've been able to manage that stress. First, we want to reflect on what you've done in the past.
+
 * In the past, what has gone well for you when dealing with stressful situations?
 * In the past, what has not gone so well when dealing with stressful situations?
 
@@ -37,10 +38,9 @@ The more we actively practice these "off-ramps", the stronger the neurological c
 
 * What's your most common response to stress (using the framework above or not)?
 * What are some common "off-ramps" that you find helpful?
-* What are some "off-ramps" that maybe weren't as helpful?
 
-Small groups will list their "off-ramps" on a piece of chart paper. 
+Small groups will list their "off-ramps" on a piece of chart paper and brainstorm "off-ramps" they'd like to try. 
 
 ## Action Planning (10 min)
 
-Students will create an action plan for the last half of the module. Students will first walk around the room to look at other groups' list of "off-ramps" to get ideas.
+Students will take a lap around the room to see examples of other positive "off-ramps." Students will create an action plan to respond to stressful situations that might arise for the last half of the module. 
