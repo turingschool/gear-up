@@ -12,16 +12,15 @@ We are being explicit but not exclusive about talking about gender in tech given
 
 We'll watch a documentary called _Code: Debugging the Gender Gap_ in the Big Workspace. You can find the trailer [here](http://www.codedoc.co/about/).
 
-## Break (10 min)
+## Break (5 min)
 
 ## Written Reflection (10 min)
 
-Write about your reaction the movie. Possible questions to keep in mind (if you can't think of anything to write about):
+Write about your reaction the movie by reflecting on these questions:
 
-* What did you learn? 
-* What did you already know? 
-* What surprised you the most? 
-* What do you agree/disagree with?
+* How are your experiences here at Turing similar or different than those shared in the documentary?
+* What role do you play in creating a more inclusive environment in your cohort and the larger community at Turing?
+* Brainstorm a specific situation(s) you’ve either witnessed or heard of happening at Turing that might be similar to the stories shared in the movie. What could’ve someone witnessing the instance done differently to positively impact the outcome of situation?
 
 ## Small Group Discussion (15 min)
 
@@ -32,11 +31,7 @@ Before diving into small group discussion, we want everyone to keep in mind the 
 * Let's practice our Active Listening skills.
 * Keep the idea of "intent vs impact" in mind. We often judge ourselves by our intent and others by their impact (partly because we can't read their minds and know their true intent). If you say or do something that makes another person feel a certain way, you are responsible for the impact of your behavior regardless of what your intent was. 
 
-### Discussion Questions
-
-* Have you or anyone you’ve witnessed responded to sexism (subtle or not) in a way that was effective? If so, what was the response and why do you think it was effective?
-* Brainstorm a specific situation(s) you’ve either witnessed or heard of happening at Turing that might be similar to the stories shared in the movie. What could’ve someone witnessing the instance done differently to positively impact the outcome of situation?
-* What specific resources (workshops, readings, discussions, etc.) could we offer at Turing to create awareness of exclusive behavior and to empower every individual to respond in an effective way? 
+**In your small groups, discuss your reflection to the questions above.**
 
 ## Wrap Up (2 min)
 
