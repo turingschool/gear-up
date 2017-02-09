@@ -34,5 +34,4 @@ Discuss the following questions from individual reflection:
 ### (15 minutes) Whole Group Share
 
 Each groups's presenter shares their groups discussion of "How do you think these differences/similarites will impact your cohort?" 
-
-Revisit cohort norms. Is there anything the cohort wants to add to this list?
+* How can we operate as a cohort to build on our similarities and learn from our differences?
