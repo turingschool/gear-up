@@ -21,7 +21,7 @@ To kick off today's session, we are going to watch these two videos that include
 
 As you watch these videos, reflect and take notes on the following questions:
 
-*   On a scale of 1-10, how serious of an impact do you think automation will have on our economy from now until you retire?
+*   How serious an impact do you think automation will have on our economy from now until you retire?
 *   Where do you think you fall across the spectrum of people that will be affected by these changes?
 *   What do you think it means to be a responsible citizen around this issue?
 *   What role can Turing play in advancing civic responsibility in response to the challenges automation will bring?
