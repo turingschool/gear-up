@@ -9,10 +9,10 @@ As your technical careers progress, most of the work you will do is to automate 
 
 ## Read and Write (15/10 min)
 
-As you read through these article on universal basic income (UBI) as a response to job loss from automation, reflect on the following questions:
+As you read through theses article on universal basic income (UBI) as a response to job loss from automation, reflect on the following questions:
 
 *   How would you describe the "realities" of our future economy? What constraints and opportunities will we face as a nation?
-*   What's your reaction to hearing tech leaders like Elon Musk describe UBI as a "foregone conclusion."
+*   What's your reaction to hearing tech leaders like Elon Musk describe UBI as a "foregone conclusion"?
 *   Write a quick elevator pitch synthesizing what you've read from these articles: what is UBI, why is it entering policy debates, what do you think people should know about automation and its affect on our workforce?
 *   Do you think it's worthwhile to be educated about automation, its affect on our workforce, and policy solutions like UBI? What does it look like to be a responsible citizen in the face of such a large, inevitable transformation? Do you think you can really have an impact -- if not, why put energy into being informed?
 
