@@ -7,7 +7,7 @@
 As your technical careers progress, most of the work you will do is to automate processes that have been done manually. Our mission is to “unlock human potential.” The software we write enables it’s users to be more productive, and to direct energy toward solving increasingly difficult problems. However, some automation, especially of physical processes, can force some out of the jobs they’ve done for years. This has the potential to do more harm than good for inclusion in our society.
 
 
-## Read and Write (15/10 min)
+## Read and Write (15 min read/10 min write)
 
 As you read through theses article on universal basic income (UBI) as a response to job loss from automation, reflect on the following questions:
 
@@ -25,4 +25,9 @@ As you read through theses article on universal basic income (UBI) as a response
 
 
 ## Discuss (25 min)
+
 In groups of 3-4, discuss your answers to the questions above.
+
+## Report Out (10 min)
+
+Each group shares 1-2 highlights from their conversations.
