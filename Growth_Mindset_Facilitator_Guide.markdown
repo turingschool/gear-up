@@ -22,7 +22,7 @@ Send pre-reading out at least 24 hours before the session
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| Ensure that chairs are set up in small groups of 3-4. Have participants sit in mixed groups.    | Participants need notebooks, pens.  Ensure you have microphone for panel. | PPT LINK |
+| Ensure that chairs are set up in small groups of 3-4. Have participants sit in mixed groups.    | Participants need notebooks, pens.  Ensure you have microphone for panel. | "[PPT] (https://drive.google.com/drive/folders/0B51t9-cqjZR7ZVhtZFM3djcwY3c)" |
 | Set up 4-5 chairs for your panel in front of the room  | Arrange for panel participants at least 1 week ahead of time.  Send them the questions you will ask them ahead of time.  |  |
 | Survey Questions to send or add to academic survey  | 1) What value would you assign to this session (from 1-5)? <br> 2) What are you taking away from this session? <br> 3) How do you think this session will change your approach to your time at Turing and in the tech industry?  | LINK TO GOOGLE SURVEY |
 
