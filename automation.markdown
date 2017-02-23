@@ -36,3 +36,4 @@ In groups of 3-4, discuss your answers to the questions above.
 *   "The Rise of the Robots by Martin Ford / Humans Need Not Apply by Jerry Kaplan – review"
 https://www.theguardian.com/books/2015/oct/01/the-rise-of-robots-humans-need-not-apply-review (_The Guardian_: October 1, 2015)
 *   ["Jerry Kaplan: Humans Need Not Apply at Google"](https://www.youtube.com/watch?v=JiiP5ROnzw8) (Google: November 12, 2015)
+*   ["Four Futures" by Peter Frase](https://www.jacobinmag.com/2011/12/four-futures/)
