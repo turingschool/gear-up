@@ -23,6 +23,11 @@ As you read through theses article on universal basic income (UBI) as a response
 *   ["Could universal basic income start with local and state legislation?"](https://medium.com/economicsecproj/could-universal-basic-income-start-with-local-and-state-legislation-5a3b60abd914#.75gotsomm) (Economic Security Project: Dec 19, 2016)
 *   ["If manufacturing jobs can't come back, what happens next?""](http://www.marketplace.org/2017/01/19/elections/big-promise/future-erie-will-jobs-come-back) (Marketplace.org: January 19, 2017)
 
+### Related / Addendum Readings
+
+Interested in more? Check out the following:
+
+* [The One Thing Politicians Are Too Scared To Talk About](https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398#.7uibno4wd)
 
 ## Discuss (25 min)
 
