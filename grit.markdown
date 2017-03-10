@@ -7,7 +7,7 @@ Most students at Turing seem to share a high level of grit, defined as "persever
 
 For that reason, we've included grit as a key mindset for students at Turing, and our curriculum is designed to help students cultivate this attitude. However, while we can encourage students to develop passion and practice sticking with difficult material, deep grit depends on students' ownership of their struggle and their ability to adjust their attitude and remind themselves of their passions and motivations when they feel discouraged.
 
-Today's exercise is designed to develop students' awareness of grit and relate it to their personal lives. If grit is not a relevant concept for you, you will want to use this session to clarify why it is not, and reflect on how you will need to manage your attitude in the face of Turing's formidable challenges.
+Today's exercise is designed to develop students' awareness of grit and relate it to their experiene at Turing. If grit is not a relevant concept for you, you will want to use this session to clarify why it is not, and reflect on how you will need to manage your attitude in the face of Turing's formidable challenges.
 
 ## Goals of Session
 * Students will be able to define grit and articulate the role that passion plays in sustaining grit
@@ -27,18 +27,13 @@ Reflect independently in your notebook on these questions.
 
 ### Everyone
 Think of a time at Turing when you've been tempted to give up.
-* Is it possible to interpret that experience through the lens of grit, i.e. your grit to get through a difficult situation was under strain?
-* Is that lens helpful?
-* Is it in any way problematic (emphasizing pushing through when you really need a break)?
+* How did your grit come into play? 
+* Have you been able to strengthen your grit (or your grittiness) in your time at Turing?
+* Is it in any way problematic to think about challenges through the lens of grit (ex: emphasizing pushing through when you really need a break)?
 
-### Module 1
-Growth mindset is a necessary for grit.  Both growth mindset and the concept of grit speak to one's ability to deal with the ego-stripping experience of failure and challenge that accompany learning and growth.
-* How would you define the distinction between these two?
-* How can they work together?
-* How has your growth mindset impacted your grit in Module 1?
 
 ### Module 2
-Now that you're a bit acclimated to the challenges and routine of being a student at Turing, you probably can relate to both getting gritty and having your grit weaken. "[Looking] for ways to make your work more meaningful" is one of the elements Hilmantel focuses on in ["Four Signs You Have Grit"](http://motto.time.com/4327035/4-signs-you-have-grit/). Reread this section, and brainstorm 2-3 ways you can imbue your work over the next week and next inning to be more "filled with purpose."
+Now that you're a bit acclimated to the challenges and routine of being a student at Turing, you probably can relate to both getting gritty and having your grit weaken. "[Looking] for ways to make your work more meaningful" is one of the elements Hilmantel focuses on in ["Four Signs You Have Grit"](http://motto.time.com/4327035/4-signs-you-have-grit/). Reread this section, and brainstorm 2-3 ways you can imbue your work over the next week and next module to be more "filled with purpose."
 
 ### Module 3
 As you head into the homestretch of your time at Turing and begin to look toward your job search, it will be helpful to begin to articulate the things that, in Hilmantel's words, you can find "enduringly fascinating."
