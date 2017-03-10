@@ -1,5 +1,6 @@
 # Turing Career Development: Growth Mindset
 
+[PPT](https://drive.google.com/file/d/0B51t9-cqjZR7TGZaVnd2aUtyQVU/view)
 
 #SESSION OUTCOMES
 
