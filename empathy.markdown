@@ -1,4 +1,4 @@
-# Privilege and Empathy
+# Empathy
 
 ## Background
 
