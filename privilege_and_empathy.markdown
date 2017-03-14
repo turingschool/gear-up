@@ -68,52 +68,78 @@ The facilitator will kick of the session by reviewing the overview described abo
 
 Review the following list of statements that describe the different ways people in our society may experience privilege or marginalization. Put a check mark next to statements you agree with. When you finish the list, write on the questions listed below.
 
-### Privilege Statements
+### Experience Statements
 
-**(TO DO: Cull down this list and add new content)**
-
-*   ___ You are right-handed.
-*   ___ English is your first language.
-*   ___ One or both of your parents have a college degree.
-*   ___ You can find Band-Aids at mainstream stores designed to blend in with or match your skin tone.
+*   ___ Someone has made assumptions about you based on how you look.
+*   ___ You come from a single-parent household.
+*   ___ You can make mistakes and not have people attribute your behavior to flaws in your racial or gender group.
+*   ___ You have always assumed you’ll go to college.
+*   ___ You have an invisible illness or disability.
+*   ___ You have been a victim of sexual harassment.
 *   ___ You rely, or have relied, primarily on public transportation.
-*   ___ You have attended previous schools with people you felt were like yourself
-*   ___ You constantly feel unsafe walking alone at night.
-*   ___ Your household employs help as servants, gardeners, etc.
-*   ___ You are able to move through the world without fear of sexual assault.
 *   ___ You do your best work when you are in a quiet space.
 *   ___ You studied the culture of your ancestors in elementary school.
 *   ___ You often feel that your parents are too busy to spend time with you.
-*   ___ You were ever made fun of or bullied for something you could not change or was beyond your control.
-*   ___ Your family has ever left your homeland or entered another country not of your own free will.
 *   ___ You would never think twice about calling the police when trouble occurs.
+*   ___ English is your first language.
+*   ___ There was ever substance abuse in your household.
+*   ___ You've ever felt uncomfortable sharing your political attitudes because they would be held against you.
+*   ___ You constantly feel unsafe walking alone at night.
+*   ___ Someone in your household suffered or suffers from mental illness.
+*   ___ You were ever made fun of or bullied for something you could not change or was beyond your control.
+*   ___ You have ever been spoken over because you could not articulate your thoughts fast enough.
+*   ___ You can show affection for your romantic partner in public without fear of ridicule or violence."
+
+<!-- *   ___ You are right-handed.
+*   ___ You have a physically visible disability.
+*   ___ You have an invisible illness or disability.
+
+*   ___ English is your first language.
+
+*   ___ One or both of your parents have a college degree.
 *   ___ Your family owns a computer.
 *   ___ You have been able to play a significant role in a project or activity because of a talent you gained previously.
-*   ___ You can show affection for your romantic partner in public without fear of ridicule or violence.
 *   ___ You ever had to skip a meal or were hungry because there was not enough money to buy food.
-*   ___ You feel respected for your academic performance.
-*   ___ You have a physically visible disability.
-*   ___ You have difficulty learning without visuals.
-*   ___ You have an invisible illness or disability.
-*   ___ You were ever discouraged from an activity because of race, class, ethnicity, gender, disability, or sexual orientation.
-*   ___ You ever tried to change your appearance, mannerisms, or behavior to fit in more.
-*   ___ You have ever been profiled by someone else using stereotypes.
-*   ___ You feel good about how your identities are portrayed by the media.
 *   ___ You were ever accepted for something you applied to because of your association with a friend or family member.
 *   ___ Your family has health insurance.
-*   ___ You have ever been spoken over because you could not articulate your thoughts fast enough.
-*   ___ Someone has spoken for you when you did not want them to do so.
 *   ___ There was ever substance abuse in your household.
 *   ___ You come from a single-parent household.
-*   ___ You live in an area with crime and drug activity.
 *   ___ Someone in your household suffered or suffers from mental illness.
-*   ___ You have been a victim of sexual harassment.
-*   ___ You were uncomfortable about a joke related to your race, religion, ethnicity, gender, disability, or sexual orientation but felt unsafe to confront the situation.
-*   ___ You are never asked to speak on behalf of a group of people who share an identity with you.
-*   ___ You can make mistakes and not have people attribute your behavior to flaws in your racial or gender group.
 *   ___ You have always assumed you’ll go to college.
 *   ___ You have more than fifty books in your household.
 *   ___ Your parents have told you that you can be anything you want to be.
+
+*   ___ You feel good about how your identities are portrayed by the media.
+*   ___ You can find Band-Aids at mainstream stores designed to blend in with or match your skin tone.
+*   ___ You have attended previous schools with people you felt were like yourself
+*   ___ You studied the culture of your ancestors in elementary school.
+*   ___ You were ever made fun of or bullied for something you could not change or was beyond your control.
+*   ___ Your family has ever left your homeland or entered another country not of your own free will.
+*   ___ You would never think twice about calling the police when trouble occurs.
+*   ___ You were ever discouraged from an activity because of race, class, ethnicity, gender, disability, or sexual orientation.
+*   ___ You ever tried to change your appearance, mannerisms, or behavior to fit in more.
+*   ___ You have ever been profiled by someone else using stereotypes.
+*   ___ Someone has spoken for you when you did not want them to do so.
+*   ___ You were uncomfortable about a joke related to your race, religion, ethnicity, gender, disability, or sexual orientation but felt unsafe to confront the situation.
+*   ___ You are never asked to speak on behalf of a group of people who share an identity with you.
+*   ___ You can make mistakes and not have people attribute your behavior to flaws in your racial or gender group.
+
+*   ___ You rely, or have relied, primarily on public transportation.
+*   ___ You constantly feel unsafe walking alone at night.
+*   ___ You live in an area with crime and drug activity.
+*   ___ Your household employs help as servants, gardeners, etc.
+
+*   ___ You are able to move through the world without fear of sexual assault.
+*   ___ You can show affection for your romantic partner in public without fear of ridicule or violence.
+*   ___ You have been a victim of sexual harassment.
+
+*   ___ You have ever been spoken over because you could not articulate your thoughts fast enough.
+*   ___ You do your best work when you are in a quiet space.
+*   ___ You feel respected for your academic performance.
+*   ___ You have difficulty learning without visuals.
+
+*   ___ You often feel that your parents are too busy to spend time with you.
+ -->
 
 ### Reflection Questions
 
