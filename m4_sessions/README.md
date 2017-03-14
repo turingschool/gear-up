@@ -13,7 +13,7 @@ Skill Focus
 * Feedback analysis 
 * Research on key topics of tech inclusion
 * Facilitation of small groups 
-* Process improvementfeedback and making updates to a past session.   
+* Process improvement   
 
 ## Feedback Analysis 15 min
 Review the Automation Session Plan and think through your own experience while in the session. 
