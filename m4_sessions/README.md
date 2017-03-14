@@ -17,7 +17,7 @@ Skill Focus
 
 ## Feedback Analysis 15 min
 Review the Automation Session Plan and think through your own experience while in the session. 
-Review feedback from past session  (LINK)
+Review feedback from past session  ["FEEDBACK"](https://docs.google.com/document/d/117HOJXnGgSpc9DS1Yxr9So1ueaTKkAEE23mMgMsxrIc/edit)
 
 Potential Ways to Change Sessions:
 * Update the CONTENT: Videos, articles, etc
