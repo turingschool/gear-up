@@ -24,10 +24,10 @@ Inevitably, everyone will have some experiences that roughly fit in the category
 
 ##### Why
 
-Today's discussion will rely on taking the academic topic of privilege and relating it to our day-to-day lives. While the first exercise helps people connect personally to the topic, writing provides everyone some space to more fully process the affect of those experiences on our relationships with each other.
+Today's discussion will rely on taking the academic topic of privilege and relating it to our day-to-day lives. While the first exercise helps people connect personally to the topic, writing provides everyone some space to more fully process the effect of those experiences on our relationships with each other.
 
 
-#### 3. We'll meet in groups to discuss what came up during our writing
+#### 3. Meet in groups to discuss what came up during our writing
 
 We'll organize in groups of 4-5 to review the material we wrote on and work together to explore the topic with one another.
 
@@ -36,13 +36,13 @@ We'll organize in groups of 4-5 to review the material we wrote on and work toge
 Sharing and listening are both an important part of processing this material. We learn by figuring out how to articulate complicated experiences respectfully; by listening, we have a chance to learn from others and appreciate how our experiences connect us.
 
 
-#### 4. We'll discuss how these dynamics affected our ability to work together last inning.
+#### 4. Discuss how these dynamics affected our ability to work together last inning.
 
 We'll continue discussion in the same groups, but pivot to some new questions focused specifically on ways in which privilege and marginalization shape our experience at Turing.
 
 ##### Why
 
-Today's exercise is intended to help all the individuals in your class develop awareness and empathy around privilege so that you can make meaningfully changes to how you interact in your remaining 5 months together. Pivoting the discussion towards real life, right now helps us continue to direct this conversation from something cerebral to something that makes a difference in people's lives today.
+Today's exercise is intended to help all the individuals in your class develop awareness and empathy around privilege so that you can make meaningfully changes to how you interact in your remaining 5 months together. Pivoting the discussion towards real life, right now, helps us continue to direct this conversation from something cerebral to something that makes a difference in people's lives today.
 
 
 #### 5. We'll wrap with some private reflection.
@@ -133,7 +133,7 @@ Once finished reviewing the list, write in your notebook on these questions.
 
 We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
 
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, learning styles -- these are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they are inevitable?_
+When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_
 
 ## Final Reflection (5 min)
 
