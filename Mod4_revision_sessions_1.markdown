@@ -7,11 +7,11 @@
 
 ## Framing (5 min)
 
-In Mod 4, we want you to round out your Gear Up experience and continue to develop skills that could be beneficial to you in the future.  In this module, you are going to review a past Gear Up session and make improvements to it in order to ensure that we are continuing to build towards our mission.  In Gear Up Sessions on weeks 1 and 3, you will spend time reviewing feedback and making updates to a past session.   In week 5, we want to encourage you to faciliate a small group session or participate in the newly designed session to experience the improvements.  We will take you step by step through this process.
+In Mod 4, we want you to round out your Gear Up experience and continue to develop skills that could be beneficial to you in the future.  In this module, you are going to review a past Gear Up session and make improvements to it in order to ensure that we are continuing to build towards our mission.  In Gear Up Sessions on weeks 1 and 3, you will spend time reviewing feedback and making updates to a past session.   In week 5, you will faciliate a small group of mods 2 and 3 students.  This will fulfill your graduation requirement of community involvement, though you are welcome to We will take you step by step through this process.
 
 Skill Focus <br>
-	* Feedback analysis<br>
-	* Research<br>
+	* Feedback analysis <br>
+	* Research on key topics of tech inclusion<br>
 	* Facilitation of small groups <br>
 	* Process improvement 
 
