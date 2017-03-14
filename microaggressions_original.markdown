@@ -3,7 +3,7 @@
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
-["POWERPOINT WITH SCENARIOS"]("https://drive.google.com/drive/folders/0B51t9-cqjZR7ZVhtZFM3djcwY3c") 
+["POWERPOINT WITH SCENARIOS"](https://drive.google.com/drive/folders/0B51t9-cqjZR7ZVhtZFM3djcwY3c) 
 
 ## Introduction (5 min)
 
