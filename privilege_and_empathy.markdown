@@ -2,7 +2,7 @@
 
 ## Background
 
-Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other how we can navigate these dynamics to work better together.
+Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
 
 
 ## Session Overview
@@ -18,7 +18,7 @@ Everyone will interact with these statements differently because we all walk in 
 These statements help illustrate how varied our experiences of privilege/marginalization are, and will help every individual in the session connect with both sides of the power dynamic.
 
 
-#### 2. Write/reflect on how, as an individual, your unique experiences of privilege and marginalization have affected your sense of connection to those around us.
+#### 2. Write/reflect on how, as an individual, your unique experiences of privilege and marginalization have affected your sense of connection to those around you.
 
 Inevitably, everyone will have some experiences that roughly fit in the category of being marginalized, and everyone will have some experiences that roughly fit in the category of being privileged. One thing that these experiences share is they both seem to have a pretty profound effect on people's feeling of connection to those around them. We will set aside a period of time to write and reflect on both types of experiences.
 
@@ -42,7 +42,7 @@ We'll continue discussion in the same groups, but pivot to some new questions fo
 
 ##### Why
 
-Today's exercise is intended to help all the individuals in your class develop awareness and empathy around privilege so that you can make meaningfully changes to how you interact in your remaining 5 months together. Pivoting the discussion towards real life, right now, helps us continue to direct this conversation from something cerebral to something that makes a difference in people's lives today.
+Today's exercise is intended to help all the individuals in your class develop awareness and empathy around privilege so that you can make meaningful changes to how you interact in your remaining 5 months together. Pivoting the discussion towards real life, right now, helps us continue to direct this conversation from something cerebral to something that makes a difference in people's lives today.
 
 
 #### 5. We'll wrap with some private reflection.
@@ -51,7 +51,7 @@ We'll take a few minutes to tie all this back to what we can each do, as individ
 
 ##### Why
 
-Ultimately, today's conversation should lead to individuals' ability to connect with others in spite of experiencing privilege differently in the dynamics they share. Individuals need time to tie this really complex topic back to what can they do, today, to connect and do right by others who are affected by privilege and marginalization.
+Ultimately, today's conversation should lead to individuals' ability to connect with others in spite of experiencing privilege differently in the dynamics they share. Individuals need time to tie this really complex topic back to what they can do, today, to connect and do right by others who are affected by privilege and marginalization.
 
 
 ## Setup
@@ -61,7 +61,7 @@ Chairs and tables available for small group discussions. Students start out seat
 
 ## Introductions (10 min)
 
-The facilitator will kick of the session by reviewing the overview described above. After that overview, small groups will do whip around to each member: every individual should share briefly how they're feeling (concerns about the session, lunch coma, TGIF).
+The facilitator will kick off the session by reviewing the overview described above. After that overview, small groups will do whip around to each member: every individual should share briefly how they're feeling (concerns about the session, lunch coma, TGIF).
 
 
 ## Privilege Statements and Reflection (15 min)
@@ -79,7 +79,7 @@ Review the following list of statements that describe the different ways people 
 *   ___ You rely, or have relied, primarily on public transportation.
 *   ___ You do your best work when you are in a quiet space.
 *   ___ You studied the culture of your ancestors in elementary school.
-*   ___ You often feel that your parents are too busy to spend time with you.
+*   ___ You often feel/felt that your parents are/were too busy to spend time with you.
 *   ___ You would never think twice about calling the police when trouble occurs.
 *   ___ English is your first language.
 *   ___ There was ever substance abuse in your household.
@@ -88,7 +88,7 @@ Review the following list of statements that describe the different ways people 
 *   ___ Someone in your household suffered or suffers from mental illness.
 *   ___ You were ever made fun of or bullied for something you could not change or was beyond your control.
 *   ___ You have ever been spoken over because you could not articulate your thoughts fast enough.
-*   ___ You can show affection for your romantic partner in public without fear of ridicule or violence."
+*   ___ You can show affection for your romantic partner in public without fear of ridicule or violence.
 
 <!-- *   ___ You are right-handed.
 *   ___ You have a physically visible disability.
@@ -159,7 +159,7 @@ Once finished reviewing the list, write in your notebook on these questions.
 
 We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
 
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_
+When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_
 
 ## Final Reflection (5 min)
 
