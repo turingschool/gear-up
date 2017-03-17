@@ -39,7 +39,12 @@ In your notebook, reflect on the following questions.
 
 In groups of 3, identify a timekeeper, a faciliator, and a notetaker.  Each student should spend about 2 minutes sharing what surfaced during their writing.
 
-After individual sharing, the groups together should tackle the question: how can you support each other in creating a cohort culture that supports growth mindset. You might draw on Dweck's suggestions from the article you read.
+Then as a group discuss the prompts below. Take a few notes so you can share later:
+
+* What are some ways you've observed "mindset" at Turing this week?
+* What tips have you heard from students, mentors, or alumni about mindset?
+* How does the culture of the cohort influence the mindset of the individual?
+* What influence do the important people in your life (significant others, family, friends, etc) have on your mindset? Are there negative influences? Positive?
 
 Take notes and assign someone to report out for your group in cohort retro later today.
 
