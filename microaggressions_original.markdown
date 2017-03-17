@@ -3,11 +3,11 @@
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
-["POWERPOINT WITH SCENARIOS"](https://drive.google.com/drive/folders/0B51t9-cqjZR7ZVhtZFM3djcwY3c) 
+["POWERPOINT WITH SCENARIOS"](https://drive.google.com/drive/folders/0B51t9-cqjZR7ZVhtZFM3djcwY3c)
 
 ## Introduction (5 min)
 
-An female M1 Turing student attends a local networking event and is speaking with a company rep. She asks if they are hiring, and he says, "we’re mostly hiring developers, but we have a lot of other roles” and he goes on to list their sales and marketing positions. It's clear to the student that he assumed she didn't have technical skills. Though small and subtle, encounters like this carry an implicit message that women don't belong in tech roles.
+A female M1 Turing student attends a local networking event and is speaking with a company rep. She asks if they are hiring, and he says, "we’re mostly hiring developers, but we have a lot of other roles” and he goes on to list their sales and marketing positions. It's clear to the student that he assumed she didn't have technical skills. Though small and subtle, encounters like this carry an implicit message that women don't belong in tech roles.
 
 While we cannot always protect Turing students from these messages, Turing has a mission-critical responsibility to create a culture in which the messages behind microaggressions are consistently named and challenged. This culture has immediate consequences for students in our program who are more likely to be targets of microaggressions. There are long-term advantages as well; by cultivating student empathy for the effects of these subtle messages, this culture also helps all students practice and develop skills to be more effective advocates for underrepresented groups in tech after they graduate.
 
@@ -32,7 +32,7 @@ Reflect on the articles you just read and your own experiences with microagressi
 
 * How have you experienced microagressions in your time at Turing or in your life?
 * What ways have you been able to address microagressions that you have seen happen?
-* What role could you play in interupting microagressions for others? 
+* What role could you play in interupting microagressions for others?
 
 ## Discuss (15 min)
 Move into groups no larger than 3-4 people.  
@@ -42,7 +42,7 @@ Allow each person in your group 2 minutes to share their reactions to the writin
 * **Action Steps:** Okay, so microaggressions are a thing and they have a real impact on real people. What do you do? You have the intelligence/tools to answer this question for yourself. What is within your sphere of control to reduce microaggressions in our community and address their consequences when they do occur?
 
 ## Scenario Responses (30 min)
-As we start to understand how to identify microaggressions, we also need to practice how to respond and intervene when we see them.  For the next 20 minutes, we are going to show a scenario on the PPT and your group will have about 5 minutes to brainstorm some different responses.  We will then share out some potential responses after each scenario. Some of these may have happened to you, some of these examples may seem unlikely.  All of these are real examples that have been collected over the years, so as you respond, know that these are real and have happened.  Some of you may think, "I've done that before" or "I've said that before" and that is okay.  We all make mistakes and need to learn how to adjust our words and actions in order to create a more inclusive environment for everyone.  We have to be willing to listen first and we must be open to other people's perspective as we engage in this process. We want to avoid being skeptical or rationalizing the situations presented and instead focus on how to respond as an ally in this situation. 
+As we start to understand how to identify microaggressions, we also need to practice how to respond and intervene when we see them.  For the next 20 minutes, we are going to show a scenario on the PPT and your group will have about 5 minutes to brainstorm some different responses.  We will then share out some potential responses after each scenario. Some of these may have happened to you, some of these examples may seem unlikely.  All of these are real examples that have been collected over the years, so as you respond, know that these are real and have happened.  Some of you may think, "I've done that before" or "I've said that before" and that is okay.  We all make mistakes and need to learn how to adjust our words and actions in order to create a more inclusive environment for everyone.  We have to be willing to listen first and we must be open to other people's perspective as we engage in this process. We want to avoid being skeptical or rationalizing the situations presented and instead focus on how to respond as an ally in this situation.
 
 Pay attention to your group dynamics as you respond.  
 * Who is speaking?
@@ -55,4 +55,3 @@ Facilitator Note:  Select 4 of the situations from the PPT slide to show to the 
 In your notebooks, take 5 minutes to reflect back on the session today.  
 * What are you taking away from this session?
 * What more can we do to address microaggressions in our cohort?
-
