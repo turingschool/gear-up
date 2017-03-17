@@ -3,7 +3,7 @@
 ## Mission Alignment
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
-An female M1 Turing student attends a local networking event and is speaking with a company rep. She asks if they are hiring, and he says, "we’re mostly hiring developers, but we have a lot of other roles” and he goes on to list their sales and marketing positions. It's clear to the student that he assumed she didn't have technical skills. Though small and subtle, encounters like this carry an implicit message that women don't belong in tech roles.
+A female M1 Turing student attends a local networking event and is speaking with a company rep. She asks if they are hiring, and he says, "we’re mostly hiring developers, but we have a lot of other roles” and he goes on to list their sales and marketing positions. It's clear to the student that he assumed she didn't have technical skills. Though small and subtle, encounters like this carry an implicit message that women don't belong in tech roles.
 
 While we cannot always protect Turing students from these messages, Turing has a mission-critical responsibility to create a culture in which the messages behind microaggressions are consistently named and challenged. This culture has immediate consequences for students in our program who are more likely to be targets of microaggressions. There are long-term advantages as well; by cultivating student empathy for the effects of these subtle messages, this culture also helps all students practice and develop skills to be more effective advocates for underrepresented groups in tech after they graduate.
 
@@ -44,8 +44,8 @@ Before you begin discussing this topic, ensure that the following roles are dele
 
 Allow each person in your group 2 minutes to share their reactions to the writing prompt above. Then, use the following prompt to focus on for the rest of your time:
 
-* What options do you have, within your sphere of control, to address incidents you encounter? 
-* How can you affect a culture that says they're okay in a way that's consistent with your values? 
+* What options do you have, within your sphere of control, to address incidents you encounter?
+* How can you affect a culture that says they're okay in a way that's consistent with your values?
 
 ## Report Out (5 min)
 Each group has 30 sec to describe takeaways from their discussion.
