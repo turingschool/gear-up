@@ -14,6 +14,9 @@ Today's exercise is designed to develop students' awareness of grit and relate i
 * Students will be able to articulate how grit is a function of behaviors and attitudes, not a fixed quality
 * Students will be able to apply the concept of grit to module-specific professional challenges they'll face in the coming inning or in their job search.
 
+## Introductions (5 min)
+* Introduce yourself to the group (name, Module, program, your current favorite song)
+
 ## Watch (7 min)
 Together, we will watch grit researcher Angela Duckworth's TEDTalk, ["Grit: The Power of Passion and Perseverance."](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance#t-85401)
 
@@ -41,20 +44,15 @@ As you head into the homestretch of your time at Turing and begin to look toward
 * Brainstorm 4-5 descriptions of work that really engages you (algorithmically complex challenges, imagining user needs and creating something elegant and enjoyable to use, designing backend architecture to support open-ended specification).
 * How can you create opportunities to build around the work that engages you in your remaining time at Turing?
 
-### Module 4
-* Duckworth emphasizes the role of passion in grit. Perseverance alone isn't enough; passion keeps people connected with the motivations that drive them through the work. When's the last time at Turing you really loved the work you were doing?
-* When you think the future ahead of you in software development, what (if any) parts of the work can you imagine feeling passionate about?
- How will that apply to your job search ahead?
-* Sometimes, including during a job search, it's important to acknowledge when something isn't meant to be. On the other hand, per Duckworth's suggestion that people with grit are able to "view frustrations as a necessary part of the process," sometimes challenges are inevitable and worth pushing through. How will you tell the difference? How have your experiences at Turing clarified your understanding of when to grit it out and when to adjust your course?
-* What support system (people, practices, routine) can help you use good judgment when you're in the depths of your search?
 
 ## Group Work
-Before you begin discussing this topic, count off into groups of three. Ensure that the following roles are delegated to members of your group.
+ Ensure that the following roles are delegated to members of your group.
 
 | Role | Description |
 |--------|-----------|
-| **Timekeeper** | Ensure that the group has a chance to address all the discussion questions and time at the end to complete the survey.|
+| **Timekeeper** | Ensure that the group has a chance to address all the discussion questions|
 | **Facilitator** | Works with the timekeeper to move through the discussion questions. Solicits input from all members of the group and helps individuals be aware if they are dominating the conversation.|
+| **Notetaker** | Take the notes!|
 | **Spokesperson** | Keeps track of the topics discussed, and is prepared to represent the group when it's time for each group to report out the highlights of their conversation. |
 
 
@@ -68,5 +66,4 @@ Before you begin discussing this topic, count off into groups of three. Ensure t
 ### Groups Report Out (10 min)
 Spokesperson from each group will report out the top 1-2 reflections that came from their writing and discussion.
 
-## Survey (5 min)
-Complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSfapmfkIwkDfeuFeNL6jcHcpoXb1Aa1dsQ_9CrhMbduVL9sIg/viewform) before you leave.
+
