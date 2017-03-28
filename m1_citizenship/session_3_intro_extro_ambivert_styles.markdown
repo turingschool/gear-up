@@ -10,7 +10,7 @@ You have started to work together in meaningful ways--during class, in pairing s
 Learning Goals:
 
 * Continue the conversation about growth mindset
-* Build self-awareness 
+* Build self-awareness so that you can develop even more empathy with others
 * Understand how we can leverage our different working styles for success at Turing and beyond
 
 ### Individual Reflection - Growth Mindset (3 minutes)
@@ -20,7 +20,6 @@ Reflect on the following questions in your notebook.
 * Where have you been successful in maintaining a growth mindset?
 * Where have you been challenged in maintaining a growth mindset?
 * What new strategies have you identified to help you strengthen your growth mindset?
-* Who have you reached out to in the community to support you?
 
 ### Pair Share (3 minutes)
 
@@ -41,7 +40,7 @@ Before you begin discussing the questions below, ensure that the following roles
 |--------|-----------|
 | **Timekeeper** | Ensure that the group has a chance to address all the discussion questions and time at the end to complete the survey.|
 | **Facilitator** | Works with the timekeeper to move through the discussion questions. Solicits input from all members of the group and helps individuals be aware if they are dominating the conversation.|
-| **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others. |
+| **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.  Everyone should take notes in your notebook so that you can share in your second group. |
 
 Students will discuss these questions:
 
@@ -61,13 +60,16 @@ In your new groups, share these two questions with your group.  Everyone should 
 * How do you think you're perceived by those who don't share this same working style?
 * What do you need from other working styles to be at your best?
 
-### Individual Reflection (5 minutes)
+## Whole Group Share (5 min)
+* Ask for some reflections from a few different groups.  
+
+### Individual Reflection (3 minutes)
+In your notebook, please respond to these two questions.
 
 * What did you hear from people who were opposite ends of the spectrum from you?  What would it require for you to give someone else what they needed to be at their best? 
 * How can you leverage your place on the spectrum of introversion/extroversion to impact your career in the future?
 
-### Closing & Survey (5 minutes)
+### Closing (2 minutes)
 
-Students will be asked to take their individual reflection to cohort retro where the cohort will brainstorm a set of norms going forward. 
+Take your individual reflections to cohort retro and share the action steps or reflections you had today.   
 
-Spend a few minutes taking this [survey](https://goo.gl/forms/6VR0hjGNijnpSCzC3) to give us feedback on this session.
