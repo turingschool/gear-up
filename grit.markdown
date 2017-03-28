@@ -66,4 +66,6 @@ As you head into the homestretch of your time at Turing and begin to look toward
 ### Groups Report Out (10 min)
 Spokesperson from each group will report out the top 1-2 reflections that came from their writing and discussion.
 
+### Closing (1 min)
+Facilitator synthesize the reflections and connect back to learning goals for the session.  
 
