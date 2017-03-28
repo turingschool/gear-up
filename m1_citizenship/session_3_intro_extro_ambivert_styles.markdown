@@ -1,4 +1,4 @@
-# Cohort Norms
+#  Working Styles:  Intro, extro, ambiverts!
 
 ### Pre-Reading
 
