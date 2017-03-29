@@ -1,5 +1,5 @@
 ## Gear Up Session Revision
 
-Find session one [here](../../m4_sessions/session_one).
+Find session one [here](./session_one.md).
 
-Find session two [here](../../m4_sessions/session_two).
+Find session two [here](./session_two.md).
