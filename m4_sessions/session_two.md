@@ -1,7 +1,7 @@
 # Session 2
 
 ## Framing (5 min)
-This week is your last session to make improvements.  During your work time, walk through the session and determine facilitation roles.  We will go through some facilitator best practices before you decide on facilitation roles.  By the end of today's session, you need to have submitted a PR to this repository with your session.  I will review them and provide you feedback.  
+This week is your last session to make improvements.  During your work time, walk through the session and determine facilitation roles.  We will go through some facilitator best practices before you decide on facilitation roles.  By the end of today's session, you need to have submitted a PR to this repository with your session. 
 
 Skill Focus <br>
 	* Feedback analysis<br>
@@ -26,5 +26,7 @@ Continue working on updating the session with your identified changes
 * Make any final changes that you need to before submitting a PR
 
 ## Closing (5 min)
+
+Please submit a PR with your updated session and facilitator notes by updating your group's file found [here](https://github.com/turingschool/gear-up/tree/master/m4_sessions/automation/session_one). Casey will be giving feedback on your PR's. If you'd like to run through your session, practice facilitating, or have other questions, please send Casey a DM!
 
 Next week you will have a small group of 8-10 Mods 2 and 3 students to lead through your session.  We will have staff members floating in the rooms to support your group. 
