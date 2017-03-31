@@ -5,7 +5,7 @@
 Read the following [article](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) in preparation for this session.
 
 ### Introduction (2 minutes)
-You have started to work together in meaningful ways--during class, in pairing sessions, and in partner projects.  That means that we are 100% certain you are about to experience (or already have) a clash in working styles.  If we can discuss how we learn and work best, we can think about ways that we can better communicate our needs AND compromise in order to bring out the best in everyone.  Today we are going to start with a quick growth mindset reflection and then did into understanding the spectrum of workstyles we have in our cohorts. 
+You have started to work together in meaningful ways--during class, in pairing sessions, and in partner projects.  That means that we are 100% certain you are about to experience (or already have) a clash in working styles.  If we can discuss how we learn and work best, we can think about ways that we can better communicate our needs AND compromise in order to bring out the best in everyone.  Today we are going to start with a quick growth mindset reflection and then dig into understanding the spectrum of workstyles we have in our cohorts. 
 
 Learning Goals:
 
@@ -49,7 +49,7 @@ Students will discuss these questions:
 * How do you think you're perceived by those who don't share this same working style?
 * What do you need from other working styles to be at your best?
 
-* Facilitator: Give students a 5 minute warning and emsure that they have made it to the last question.
+* Facilitator: Give students a 5 minute warning and ensure that they have made it to the last question.
 
 ### Small Group Discussion # 2 (15 minutes)
 
