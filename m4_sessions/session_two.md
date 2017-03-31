@@ -29,4 +29,4 @@ Continue working on updating the session with your identified changes
 
 Please submit a PR with your updated session and facilitator notes by updating your group's file found [here](https://github.com/turingschool/gear-up/tree/master/m4_sessions/automation/session_one). Casey will be giving feedback on your PR's. If you'd like to run through your session, practice facilitating, or have other questions, please send Casey a DM!
 
-Next week you will have a small group of 8-10 Mods 2 and 3 students to lead through your session.  We will have staff members floating in the rooms to support your group. 
+During week 5, you will have a small group of 8-10 Mods 2 and 3 students to lead through your session.  We will have staff members floating in the rooms to support your group. 
