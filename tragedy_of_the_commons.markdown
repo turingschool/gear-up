@@ -2,7 +2,7 @@
 
 ## Mission Alignment
 
-* Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
+*Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
 We are confronted on a daily basis by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. And when we are able to make the connection, it's not always obvious how we can best have an impact. Today, we will explore this quandary in more depth and brainstorm ways to deal with it.
 
