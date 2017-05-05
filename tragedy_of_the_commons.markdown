@@ -2,7 +2,7 @@
 
 ## Mission Alignment
 
-*Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
+* Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
 
 We are confronted on a daily basis by social challenges that seem bigger than we are. It's often difficult for us to see the connection between small choices we make and these issues, but they are often connected. And when we are able to make the connection, it's not always obvious how we can best have an impact. Today, we will explore this quandary in more depth and brainstorm ways to deal with it.
 
@@ -17,7 +17,7 @@ Students should be able to do the following.
 *   Contribute meaningful to activities focused on how to advance community values.
 
 
-##Exploring (10 min)
+## Exploring (10 min)
 
 Read and interact with [Parable of the Polygons: A Playable Post on the Shape of Society](http://ncase.me/polygons/). Make sure you read and have a solid understanding of how the creators arrived at these conclusions.  
 
@@ -26,7 +26,7 @@ Read and interact with [Parable of the Polygons: A Playable Post on the Shape of
 **3.** Small individual "anti-biases" can address systemic biases.  
 
 
-##Write (15 min)
+## Write (15 min)
 
 We'll explore the concepts from *Parable of the Polygons (PotP)*  within the context of diversity in tech.
 
@@ -37,6 +37,6 @@ We'll explore the concepts from *Parable of the Polygons (PotP)*  within the con
 *   *PotP* is a pretty sweet example of how technology can illustrate complex ideas. What are *PotP*'s goals, and how effective do you think the game is in advancing those goals?
 
 
-##Discussion (25 min)
+## Discussion (25 min)
 
 In groups of 3-4, discuss your answers to the questions above.
