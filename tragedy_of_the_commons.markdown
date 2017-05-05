@@ -1,4 +1,4 @@
-#Tragedy of the Commons
+# Tragedy of the Commons
 
 ## Mission Alignment
 
