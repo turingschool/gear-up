@@ -8,13 +8,13 @@ Part of being successful in the programming world is being able to navigate the 
 
 In groups of 3-4, introduce yourself (name, background, why you wanted to attend Try Turing). Each group should pick a timekeeper to ensure they cover all the discussion questions.
 
-### Ageism Background (10 min)
+### Ageism Background (12 min)
 
 Read the following articles on ageism in tech.
   * [Steven Levy on Ageism in Tech](https://medium.com/backchannel/how-can-we-achieve-age-diversity-in-silicon-valley-11a847cb37b7#.68wfpepu4)
   * [Is Ageism in Tech an Under the Radar Diversity Issue?](http://www.fastcompany.com/3054204/the-future-of-work/is-ageism-in-tech-an-under-the-radar-diversity-issue)
 
-### Discussion (12 min)
+### Discussion (15 min)
 
 In your groups, discuss the following questions:
 
