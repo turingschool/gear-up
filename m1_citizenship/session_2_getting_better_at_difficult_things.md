@@ -11,9 +11,9 @@ We're going to read Ta-Nehisi Coates' article, ["Getting Better at Difficult Thi
 
 ## Write (8 min)
 In the context of these presenters' ideas, reflect on the following questions. 
-- What efforts do you make to manage your learning process? What challenges have you faced with this?
+- How are you currently managing your cognitive resources while at Turing?
 - How do Sierra's and Coate's material relate to your current process for learning?
-- What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
+- What role does your emotional state of mind play in your learning? 
 
 ## Group Discussion (20 min)
 As a group, discuss your answers to the questions above. 
