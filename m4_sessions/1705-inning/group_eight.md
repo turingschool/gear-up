@@ -15,7 +15,9 @@ Danger of a Single Story
 General Outline:
 - State objective for the session
 - Show video (not the whole thing) [TED](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
-- Small group discussions w/ questions
+- Potentially do this activity/show this clip (Second Clip)[https://www.youtube.com/watch?v=hD5f8GuNuGQ]
+- Small group discussions w/ questions (3-4 people, count off)
+
 
 Potential Discussion questions:
 -- Initial responses - did anything stand out to you?
