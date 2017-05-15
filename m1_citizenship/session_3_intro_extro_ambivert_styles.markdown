@@ -1,5 +1,7 @@
 #  Working Styles:  Intro, extro, ambiverts!
 
+### [Powerpoint](https://docs.google.com/presentation/d/1Dv3pkCbDjEGilq9tPq5ABHySQIQ3zBs489fetFvcZno/edit#slide=id.g1eee055cc6_1_92)
+
 ### Pre-Reading
 
 Read the following [article](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) in preparation for this session.
