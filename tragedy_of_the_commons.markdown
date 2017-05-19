@@ -14,7 +14,7 @@ Students should be able to do the following.
 *   Draw connections between individual attitudes/actions and large-scale cultural issues.
 *   Describe the types of actions that are required to reverse systems created with bias.
 *   Demonstrate commitment to community values by reviewing new material through the lens of its relevance in advancing larger community goals.
-*   Contribute meaningful to activities focused on how to advance community values.
+*   Contribute meaningfully to activities focused on how to advance community values.
 
 
 ## Exploring (10 min)
