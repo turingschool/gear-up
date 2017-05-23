@@ -10,5 +10,5 @@
 
 ### Outline: 
 
-<p>5 minute intro,  10 minutes going over reading,  10 minutes writing,  35 minute discussions</p>
+<p>10 minutes for answering questions. 15 minutes whiteboard process. 25 minutes group discussions. 10 minutes for conclusion. </p>
 
