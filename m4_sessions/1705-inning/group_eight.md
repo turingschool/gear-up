@@ -1,7 +1,7 @@
 # Group Eight
 
 ## List your group members here:
-Andrew Wooten, Kenia Farias, Pamela Lovett, Casey Macaulay 
+Andrew Wooten, Kenia Farias, Pamela Lovett, Casey Macaulay
 
 ## Topic
 Danger of a Single Story
@@ -9,14 +9,17 @@ Danger of a Single Story
 ## Session Outcomes
 - Identify the single stories/stereotypes in the tech industry
 - (Activity) Find facts and narratives that counter the single story
-- Encourage students to get to know eachother as people 
+- Encourage students to get to know eachother as people
 
 ## Session Outline
 General Outline:
-- State objective for the session
-- Show video (not the whole thing) [TED](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
-- Potentially do this activity/show this clip (Second Clip)[https://www.youtube.com/watch?v=hD5f8GuNuGQ]
-- Small group discussions w/ questions (3-4 people, count off)
+- Intro (5 min)
+- Show video (20 min) [TED](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)
+- Writing time (5 min)
+- Small Groups (10 min)
+- Line Exercise (10 min)
+- Final Question Closing (10 min)
+
 
 
 Potential Discussion questions:
