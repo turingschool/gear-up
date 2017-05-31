@@ -10,5 +10,13 @@
 
 ### Outline: 
 
-<p>10 minutes for answering questions. 15 minutes whiteboard process. 25 minutes group discussions. 10 minutes for conclusion. </p>
+  * Answer question on their own (10 minutes):
+     * What is knowledge?
+     
+  * Whiteboard (15 minutes)
+    * Symbolic logic exercise
+  
+  * Group discussions on their answer to question ( 25 minutes )
 
+  * Conclusion ( 10 minutes )
+    * [video](https://www.youtube.com/watch?v=kXhJ3hHK9hQ)
