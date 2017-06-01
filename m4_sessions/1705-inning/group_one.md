@@ -1,11 +1,12 @@
 # Group One
 
 ## List your group members here:
+- Franklin Cosby
+- Ashley Schauer
 - Valerie Trudell
 - Kyle Zucker
 - Tim Brandle
-- Franklin Cosby
-- Ashley Schauer
+
 
 ------------------------------------------------------------------------------------------
 ## Mission Alignment
