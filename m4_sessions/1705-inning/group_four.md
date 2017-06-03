@@ -22,6 +22,8 @@
 * What has been your personal experience with privledge?
 * How does that compare with your experience at Turing?
 * What's an actionable goal for you going forward to positively affect our community using your or others privledge?
+* What are you missing that is right in front of you?
+* Is privilege something you have or don't have?
 
 ## Group Conversations and Reflections and Closing 10:00
 
