@@ -146,7 +146,7 @@ Review the following list of statements that describe the different ways people 
 Once finished reviewing the list, write in your notebook on these questions.
 
 *   What were some factors that you have never thought of before?
-*   What question made you think most? If you could add a question, what would it be?
+*   What statement made you think most? If you could add a statement, what would it be?
 *   Select one of the statements that describes a seeming disadvantage that you would feel comfortable discussing.  
     *   What did that/those experience(s) feel like?
     *   If you were trying to describe that experience to someone else, what would that person need to do to help you continue to feel connected/trusting of them, even if they didn't share the experience?
