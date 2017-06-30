@@ -1,5 +1,9 @@
 # Group One
 
-## List your group members here:
+### Session Title:
 
-## Session Outline:
+### Session Outcomes: 
+
+### Session Outline:
+
+### Names of group members:
