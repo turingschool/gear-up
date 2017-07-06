@@ -36,9 +36,9 @@ The scenarios listed below have all been reported to have happened here at Turin
 
 ### Scenario 1
 
-You're pairing with two other teammates when another person from your cohort walks over and jokingly says hi to one of your teammates: "Hey, what's up my n****r?!?" Your friend responds by giving him a high-five.
+A group of Turing students are planning to walk in the Pride parade this summer and has opened the invitation to all students.  While working on your project, one of your team member says that they wish all the talk about gay pride would be over and that it is a distraction to what we are all trying to do here at Turing.  
 
-What, if anything, do you do? If you were a person who felt especially targeted by that word, how would you hope your classmates would respond in that situation? If you were the person who used that word and didn't think it was a big deal, how could someone approach you in a way that might make you think differently in the future?  
+How would you respond to your teammate?  If you are/were someone who identifies as LGBT, how do/would you feel? 
 
 ### Scenario 2
 
