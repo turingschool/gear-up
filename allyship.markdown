@@ -1,4 +1,4 @@
-# Allyship
+# Allyship Intro (5 min)
 
 In previous GearUps, we've explored the ways in which we can unwittingly participate in behavior that alienates or perpetuates inequality and injustice in our workplaces and communities. What opportunities, if any, do you have to address these issues when you encounter them? How can we use our relationships and daily interactions to effectively challenge cultural and systemic discrimination?
 
@@ -58,7 +58,8 @@ You're working in your first job after Turing. Aware of issues around diversity 
 
 What do you say next? You're just a junior newb on the team. Why should your opinion matter? Is making a big deal of it too risky? What if you offend your new team lead?
 
-## Discussion (~22 Minutes)
+## Discussion (~20 Minutes)
+Introduce yourself to your group by sharing your name, your cohort/program, and your hometown.  
 
 Within your group, consider these questions:
 
@@ -68,6 +69,6 @@ Within your group, consider these questions:
 * In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference? What are larger actions an ally can do?
 * Proponents of the allyship lens of social responsibility would argue that focusing on this scale is a viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
 
-## Debrief: (~5 Minutes)
+## Debrief: (~15 Minutes)
 
-Before we break for lunch, write your main takeaway on a post-it and put it on the whiteboard at the front of the main workspace.
+Before we break, write your main takeaway on a post-it and put it on the whiteboard at the front of the room.
