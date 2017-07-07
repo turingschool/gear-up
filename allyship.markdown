@@ -2,11 +2,21 @@
 
 In previous GearUps, we've explored the ways in which we can unwittingly participate in behavior that alienates or perpetuates inequality and injustice in our workplaces and communities. What opportunities, if any, do you have to address these issues when you encounter them? How can we use our relationships and daily interactions to effectively challenge cultural and systemic discrimination?
 
-"Allyship" is when a person of privilege seeks to operate in solidarity with and support a marginalized group of people. Today, we will discuss some essays on the topic of allyship.
+"Allyship" is when a person of privilege seeks to operate in solidarity with and support a marginalized group of people. Allyship is not a badge of honor that you wear or something that you achieve.  It is an ongoing process that you have to continually work to develop over time.  A foundational step in allyship is educating yourself first and then developing relationships with people in different identity groups.  It is not about going to a person of another group and asking them to educate you.  
+
+Today, we will discuss some essays on the topic of allyship.  In any conversation about identity, we recognize that people will have different experiences and responses to the topics based on how you personally identify.  Today we want to create a space where we set a few norms during discussions.
+
+Facilitator: please write norms on the board.  After reviewing norms, ask students if they would like to see any other norms added. 
+
+### Norms
+* Listen first before responding
+* Seek to understand others
+* Assume positive intent
+* Share the air
 
 ## Structure
 
-* You should already be in your assigned small group with your facilitator
+* You should already be in your assigned small group
 * You'll read independently for about 12 minutes
 * You'll then independently process through writing for another 12 minutes
 * Finally you'll come together as a small group to discuss
@@ -26,49 +36,40 @@ during this period you'll read at least two of these, but it can be any two.
 
 Next, process your thinking through writing.
 
-The scenarios listed below have all been reported to have happened here at Turing. As you read and write about each scenario, consider these general questions as well as those embedded in the scenario:
+The scenarios listed below have all been reported to have happened here at Turing. As you read and write about each scenario, consider these guestions:
 
-* What would you do in this situation?
-* Based on the readings, how would an ally respond?
-* Can you see yourself taking on the role of an ally in this situation?
-* What would it look like to overstep or make the situation worse?
+* How could you be an ally in this situation?
+* If you are a member of the targeted group, how would you want an ally to respond in this situation?
 * What effect would it have to ignore the situation?
+
 
 ### Scenario 1
 
 A group of Turing students are planning to walk in the Pride parade this summer and has opened the invitation to all students.  While working on your project, one of your team member says that they wish all the talk about gay pride would be over and that it is a distraction to what we are all trying to do here at Turing.  
 
-How would you respond to your teammate?  If you are/were someone who identifies as LGBT, how do/would you feel? 
-
 ### Scenario 2
 
 You know there are several people in your cohort who don't drink, but come Thursday, most of your friends want to go to a bar down the street. It's someone's birthday today, so your cohort's "social coordinator" invites everyone out, but you know there are several people who won't be comfortable being at a bar.
 
-What, if anything, do you do?  If you were a person who felt especially excluded, how would you hope your classmates would respond in that situation? If you were the "social coordinator," how could someone approach you about the issue? Is this an issue worth discussing?  
-
 ### Scenario 3
 
-One of your friends is talking about one of the Joan Clarke events for women students that they attended. A person passing by, who does not identify as a woman, says that it is unfair that such exclusive groups exist. They would like to be able to take part in those group's events.
-
-What, if anything, do you do? What would an ally to that group do? How do you feel about the existence of groups tailored to people of a certain identity?
+One of your friends is talking about one of the Joan Clarke events for women students that they attended. A student in your cohort, who does not identify as a woman, says that it is unfair that such exclusive groups exist. They would like to be able to take part in those group's events as well.
 
 ### Scenario 4
 
 You're working in your first job after Turing. Aware of issues around diversity in tech, you realize that all the developers on your team are white men like you. There's more diversity on the sales/operations team, but the dev team is a true monoculture. You ask your team lead "hey, have you thought about trying to build more diversity into the team?" and they reply "yeah, we'd love to have some women and maybe people of color, but we just haven't seen any with the right skills and we're not willing to lower our standards."
 
-What do you say next? You're just a junior newb on the team. Why should your opinion matter? Is making a big deal of it too risky? What if you offend your new team lead?
 
 ## Discussion (~20 Minutes)
 Introduce yourself to your group by sharing your name, your cohort/program, and your hometown.  
 
 Within your group, consider these questions:
 
-* Review the scenarios described above. How did each of you respond? What are the implications of different responses?
+* Go through each scenario above and share how you responded.  What are the implications of different responses?
 * What's one time you acted as an ally? What's one time someone acted as an ally for you?
-* Allyship, a social-responsibility buzzword, risks polarizing a community that includes people who are militantly politically correct and those who think being a good person is a matter of common sense. How would you describe your attitude toward these topics? What can you learn from people with a different perspective?
 * In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference? What are larger actions an ally can do?
 * Proponents of the allyship lens of social responsibility would argue that focusing on this scale is a viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
 
 ## Debrief: (~15 Minutes)
 
-Before we break, write your main takeaway on a post-it and put it on the whiteboard at the front of the room.
+As a whole group, come together to discuss a final question.  "What does it take to be an ally at Turing?" 
