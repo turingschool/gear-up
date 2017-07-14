@@ -1,4 +1,6 @@
-# Resilience
+# Bouncing Forward: Resilience at Turing
+Resilience is the ability to bounce back from adversity. It is a necessary skill for coping with life’s inevitable obstacles and one of the key ingredients to success. When we apply resilience through the positive psychology lens,
+the learning is not only to bounce back, but to bounce forward.
 
 ## Relationship to Turing Mission
 *Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.*
@@ -14,40 +16,39 @@ Given Turing's commitment to advancing diversity in the field, resilience will a
 ## Goal of Session
 Identify personal strategies for developing resilience and articulate ways we can support each other in this work at Turing. 
 
-## Read (15 min)
-<a href="https://www.youtube.com/watch?v=wMMGhH_cR-8" target="_blank">![https://www.youtube.com/watch?v=wMMGhH_cR-8](./images/apollo_13.png)</a>
-
-Read the *New Yorker* and *Inc* articles below. Pay attention to how the authors discuss 1) the connection between individuals' mindsets and resilience, and 2) how resilience is a *skill*.
-
-#### Required Reading
-* ["How People Learn to Become Resilient"](http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience) (*The New Yorker*, February 11, 2016)
-* ["What The New York Times, New Yorker and Most of Academia Got Wrong About Resilience"](http://www.inc.com/joshua-spodek/resilience-what-the-new-york-times-new-yorker-and-most-of-academia-got-wrong.html) (*Inc*, March 31, 2016)
-
-#### Additional Reading
-* ["The Profound Emptiness of Resilience"](http://www.nytimes.com/2015/12/06/magazine/the-profound-emptiness-of-resilience.html) (*The New York Times*, December 6, 2015, note: paywall)
+## Introductions (10 min)
+- 2 Truths and a Lie
 
 ## Write (10 min)
 Get your notebooks out and reflect on the following questions. 
 * When you first read the title of this GearUp, what were your initial reactions? What experiences have you had that shaped your attitude toward the topic?
-* What did you learn from reading the article? Did this change or affirm any attitudes and beliefs you hold?
 * What value do you put on personal resilience? Why?
-* Consider Josh Spodek's premise that knowing about resilience is different than becoming more resilient. Identify 3 mental practices and behaviors that constitute resilience skills.
+* Identify 3 mental practices and behaviors that help you be resilient.
 
+## Read and Watch (10 min)
 
-## Discuss (25 min)
-Before you begin discussing this topic, ensure that the following roles are delegated to members of your group.
+#### Required Reading and Video
+* ["Resilience Is About How You Recharge, Not How You Endure"](https://hbr.org/2016/06/resilience-is-about-how-you-recharge-not-how-you-endure) (*Harvard Business Review*, June 24, 2016)
+* ["Sheryl Sandberg Virginia Tech Commencement Speech Excerpt"](http://money.cnn.com/2017/05/12/technology/sheryl-sandberg-virginia-tech-graduation/index.html) (*CNN*, May 12, 2017)
 
-**Timekeeper**: Ensure that the group has a chance to address all the discussion questions and time at the end to complete the survey.  
+#### Additional Reading
+* ["What The New York Times, New Yorker and Most of Academia Got Wrong About Resilience"](http://www.inc.com/joshua-spodek/resilience-what-the-new-york-times-new-yorker-and-most-of-academia-got-wrong.html) (*Inc*, March 31, 2016)
+* ["The Profound Emptiness of Resilience"](http://www.nytimes.com/2015/12/06/magazine/the-profound-emptiness-of-resilience.html) (*The New York Times*, December 6, 2015, note: paywall)
+* ["How People Learn to Become Resilient"](http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience) (*The New Yorker*, February 11, 2016)
+* ["Full Commencement Speech"](http://time.com/4777077/sheryl-sandberg-virginia-tech-graduation-speech-facebook/) (*Time*, May 12, 2017)
 
-**Facilitator**: Works with the timekeeper to move through the discussion questions. Solicits input from all members of the group and helps individuals be aware if they are dominating the conversation.  
+## Discuss (15 min)
+1. Brainstorm an example of resiliency (That you've seen or experienced)
+1. Write it on board (we will need additional whiteboard markers)
+1. In small groups, discuss commonalities
+1. List traits and add them to the board
+At the end, we should have a white board filled with examples of resilience + resilience characteristics
 
-**Participant (all)**: Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.
-
-As a group, discuss the following questions. 
-* What level of value do you place on resilience? Why is this important to you (or not)?
-* How will resilience affect your career as a programmer? Why would employers value employee resilience?
-* What can you do to practice resilience?
-* How can we support each other develop resilience at Turing?
+## Strategies (25 min)
+1. Break into 7 groups
+1. Distribute one skill to each group
+1. Groups discuss how skill relates to resilience
+1. Groups present to class about their skill
 
 ## Survey (5 min)
 Please fill out this [survey](https://goo.gl/forms/XqqxV2f2fmpDEfS02).
