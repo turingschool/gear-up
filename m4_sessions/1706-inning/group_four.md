@@ -1,63 +1,77 @@
-# Group Four
+07/14/17
 
-### Session Title:
+## Gear-up title: Being a Newb in Tech (aka Don't be a Selfish Bastard)
 
-"Getting involved and giving back as a beginner"  
+### Tagline:
 
-### Session Outcomes: 
+_Do you think you're too new to make contributions to those around you? You're not, you can start tomorrow, and everyone (yourself included) will be better for it!_
 
-1. Doc to add to their portfolio
-2. Interest/list of OSS to make first PR
-3. Check list to work through for first PR (fulfills PD deliverables, including [blog post (all mods), PR (mod 4)])
-
-Feelings and thoughts:
-
-- people feel confident in their ability to contribute to the community
-- people have the knowledge of where to go to contribute
-- the knowledge of HOW to contribute (like OSS PR)
+#### Other possible titles:
+- Giving back, even (especially) when you think you can't
+- Helping others for fun and profit
+- How not to be a selfish bastard
+- leverage your inner newb for good
+- making contributions in an industry where that's rewarded
 
 
 
-
-Ideas:
-
-- videos
-- list of projects to contribute to
-- how to make an impact at Turing
-  - make PR on lessons
-  - make oss contributions
-  - PR checklist/template
-
-### Session Outline:
+# Session outline:
 
 
-- do we have a responsibility to "give back" to the community?
+### 1. Do we have a responsibility to "give back"?
 
-- what does "giving back" look like?
+### 2. Have attendees make list of all things they know AND all the ways they've been helped by folks in their current mod or mods ahead.  (put these questions on screen) (led by Valary)
 
-High level, how helpful this can be
+---- budgeting ten minutes to this point ----
 
-- ever been helped by a blog?
-- ever been helped by another student in your cohort or a cohort ahead?
-- helped by a teacher?
-- a mentor?
+### 3. watch [video](https://youtu.be/nXIIW8TusWw?t=9m58s) (8 min) (Sergey)
 
-We'll talk about how to do all that. 
+---- now 18 mins in ----
 
-- OSS contributions (a guide?)
-- Write down skills you already have to build confidence
-- Find list of places in turing repo where you could find, fix, submit PR w/fix.
+### 4. Brainstorm how they can get involved (turn and talk) (5 min) (Sergey)
 
-Walk through example of PR against Turing repo to fix problem
+### 5. collect their answers on white board (4 min), Discuss their answers (John B)
 
-Walk through example of "student interest group", pairing, be a mentor
 
-Go outside the bubble, volunteer in the community (try turing, etc)
+---- 27 min in ----
 
-### Names of group members:
 
+### 6. Now we can share some of our ideas
+  - Making PR in Turing repo (John)
+  - host lunch-time in-mod session
+
+  **To Discuss:**
+
+> 1. Talk about how to make a PR against a lesson (gist w/instructions?) (John B) ([demo against this repo](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/ideabox.md))
+> 2. In-person involvement (like TryTuring). You're most qualified to help at a try-turing event after _mod 1_. (Kelley M)
+> 3. lunch & learn, spikes. Jump into channels to answer questions (Josh)
+
+--- ~ 45 mins in ---
+
+### 7. Closing question: circle back to "do we have responsibility to give back?"
+  - who can giving back help the most?
+  - who do you want to make an impact on when you do give back? (consider yourself!)
+
+### 8. Give deliverables for PD session
+
+- Dates for upcoming Try Turing events
+- Valarie's PD template
+- Josh's PR practice (if you want)
+
+
+# Deliverables/resources
+
+They should join #metalearning (slack) to get all the details
+
+## Names of group members
+
+- Josh Thompson
 - Sergey L
 - Valery Trudell
 - Kelly Miller
 - John Binning
-- Josh Thompson
+
+
+
+we're "group 4" from:
+https://github.com/turingschool/gear-up/tree/master/m4_sessions/1706-inning
