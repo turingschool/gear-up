@@ -36,7 +36,7 @@ during this period you'll read at least two of these, but it can be any two.
 
 Next, process your thinking through writing.
 
-The scenarios listed below have all been reported to have happened here at Turing. As you read and write about each scenario, consider these guestions:
+The scenarios listed below have all been reported to have happened here at Turing. Read through each scenario and write your answers to these guestions:
 
 * How could you be an ally in this situation?
 * If you are a member of the targeted group, how would you want an ally to respond in this situation?
@@ -66,10 +66,10 @@ Introduce yourself to your group by sharing your name, your cohort/program, and 
 Within your group, consider these questions:
 
 * Go through each scenario above and share how you responded.  What are the implications of different responses?
-* What's one time you acted as an ally? What's one time someone acted as an ally for you?
-* In a previous GearUp, we discussed the concept of "microaggressions." Could you say that a small act of allyship is the opposite of a microaggression? Does action at this small level really make a difference? What are larger actions an ally can do?
-* Proponents of the allyship lens of social responsibility would argue that focusing on this scale is a viable way of changing large-scale systemic issues. Do you agree? What is your theory of change?
+* What's one time you acted as an ally here at Turing? What's one time someone acted as an ally for you here at Turing?
+* In a previous GearUp, we discussed the concept of "microaggressions" and understanding spaces where we have privilege. Is a small act of allyship is the opposite of a microaggression and/or is it using your privilege for good? Does action at this small level really make a difference? What are larger actions an ally can do?
+* Proponents of the allyship lens of social responsibility would argue that focusing on this scale is a viable way of changing large-scale systemic issues. Do you agree? 
 
 ## Debrief: (~15 Minutes)
 
-As a whole group, come together to discuss a final question.  "What does it take to be an ally at Turing?" 
+As a whole group, come together to discuss two final questions.  What does it take to be an ally at Turing?  What will it take for you to continue to being an ally in your software development career?
