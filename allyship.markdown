@@ -57,7 +57,7 @@ One of your friends is talking about one of the Joan Clarke events for women stu
 
 ### Scenario 4
 
-You're working in your first job after Turing. Aware of issues around diversity in tech, you realize that all the developers on your team are white men like you. There's more diversity on the sales/operations team, but the dev team is a true monoculture. You ask your team lead "hey, have you thought about trying to build more diversity into the team?" and they reply "yeah, we'd love to have some women and maybe people of color, but we just haven't seen any with the right skills and we're not willing to lower our standards."
+You're working in your first job after Turing. Aware of issues around diversity in tech, you realize that all the developers on your team all share the same background. There's more diversity on the sales/operations team, but the dev team is a true monoculture. You ask your team lead "hey, have you thought about trying to build more diversity into the team?" and they reply "yeah, we'd love to have some women and maybe people of color, but we just haven't seen any with the right skills and we're not willing to lower our standards."
 
 
 ## Discussion (~20 Minutes)
