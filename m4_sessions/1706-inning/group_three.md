@@ -36,6 +36,8 @@ http://www.npr.org/sections/alltechconsidered/2017/04/03/522503844/how-russian-t
 http://www.cbsnews.com/videos/60-minutes-tackles-fake-news/
 https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm
 https://www.ted.com/talks/markham_nolan_how_to_separate_fact_and_fiction_online
+http://gizmodo.com/insanely-accurate-lip-synching-tech-could-turn-fake-new-1796843610
+http://www.npr.org/sections/ed/2017/07/03/533676536/test-your-fake-news-judgement-play-this-game?
 
 
 ### Ideas:
