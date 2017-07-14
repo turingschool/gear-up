@@ -47,7 +47,7 @@ Before you begin discussing the questions below, ensure that the following roles
 Students will discuss these questions:
 
 * What are your strengths in regards to this working style?
-* What challenges have you faced because you identify with this working style?
+* What challenges have you faced because you identify with this working style? Think about challenges in pairing, in class, in community activities.
 * How do you think you're perceived by those who don't share this same working style?
 * What do you need from other working styles to be at your best?
 
