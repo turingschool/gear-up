@@ -4,16 +4,23 @@
 
 ### Session Outcomes: 
 + Be aware of what tech organizations are doing (facebook, news organizations)
-+ Be aware of motives behind fake news, profit vs. political sway
++ Identify motives behind fake news, profit vs. political sway
 + Be aware of traditional news fact checking and processes
 
 
 ### Session Outline:
-10 min: intro
-10 min: outside materials
-20 min: group discussion/ split into pro/con groups
-10 min: back together conclusions/ debate
-10 min: wiggle room/ reflections
+10 min: intro, name game, explain session outcomes - Colleen
+10 min: outside materials - Adam
++ Factitious quiz
++ Show fake Obama lip sync
++ 60 min. video about twitter bot if time.
+20 min: group discussion/ split into pro/con groups - Jack explain. participate in discussions
++ Pro censorship vs. anti intervention group
++ Each group has to come up with three best arguments 
+10 min: back together conclusions/ debate - All contribute
+10 min: wiggle room/ reflections - 
++ Reflection question, what would you do if you were at a company that was involved in fake news
++ What obligation do you think that tech companies have in mderating fake news.
 
 
 ### Names of group members:
