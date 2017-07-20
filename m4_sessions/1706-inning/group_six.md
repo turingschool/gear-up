@@ -1,41 +1,56 @@
 # Group Six
 
 ### Session Title: 
-#### Code Schools (working title: we'll create something saucier)
+#### Coding Schools or Coding Fools?
+
+### Session Description:
+Are we screwed? There's a lot of coding schools out there, and here we are at Turing. Why did we choose this place and how did we get here? Is Turing preparing us for an exciting, well compensated career, or are we headed towards a sparse job market where machine learning and AI will replace us in 20 years? Join us to reaffirm our good life decisions and review how we're all crushing it. 
 
 ### Session Outcomes: 
--Reaffirming that we're in the right place: Turing is hard and we all have disparate backgrounds, but we're on the right track for us
--Insight into the direction of coding/bootcamps: how did we get here and where is this trend going?
--Be able to identify efficiencies and defficiencies of coding school alums vs CS degree holders
+* Affirm that we're in the right place: Turing is hard and we all have disparate backgrounds, but we're on the right track for us
+* Provide insight into the direction of coding/bootcamps broadly: how did we get here and where is this trend going?
+* Identify efficiencies and deficiencies of coding school alums vs CS degree holders
 
-### Session Outline:
--give SHORT presentation
-  -topics: code school trend, benefits/downsides of code school, is code school the next blue collar economy? Is the junior dev market saturated, how are we better prepared than CS degree holders
--break into groups of 4 or 5, each gear-up leader will be in a group
--each group discuss the same topic for ~7 minutes at a time
--discuss severaldifferent topics, mixing up the groups
+### Session Outline
+* Present for 2 minutes on a topic
+* Break students into 6 groups
+* Groups discuss three prompts for the topic for 7 minutes total
+* After 7 minutes, 2 groups join (3 groups) and share interesting/controversial/exciting points that came up in their group discussion
+* Repeat for remaining 2 topics
+* After discussing all the topics, rejoin as one big group for the last 5 minutes to discuss most interesting/controversial topics 
 
-### Names of group members:
-Jack Bevis
-Devin Dixon
-Keji Amos
-Chris Brandrowsky
-Anders Wood
+##### TOPIC 1 (Jack, Devin): What was our process for arriving at Turing? (CS degree vs boot camp, 12 week course, online courses, advanced degrees)
+2 Minute Presentation Notes:
+* Jack: quick recap of the decision making process I made that led me to Turing
+* Dev: same personal style recap
 
-##### Notes
-benefits/downsides to coding at code school:
-benefits/downsides to cgetting coding in highschool/college?
+Prompts:
+* Why did you choose Turing? What influenced your decision?
+* Did you consider a CS degree, traditional higher ed, self teaching? (if you have a cs degree what brought you here)
+* Discuss the different viewpoints, perspectives, skills that people with these different backgrounds can bring to a team
 
--The rise of coding/bootcamp schools
-  -history of this trend
-  -profit vs nonprofit
-  -spectrum of involvement: weekends vs 7 months
-  -
--What is the dynamic of CS majors vs. code school alums
-  -how do curricula differ with these two approaches?
-  -how are students of these two schools prepared for jobs differently?
-  -why do we choose to come here?
-  -
--is junior dev hiring market saturate?
--is coding the next blue colar job?
--
+##### TOPIC 2 (Chris, Anders): What career has Turing prepared us for?
+2 Minute Presentation Notes:
+* Anders: Some are calling coding the next blue collar job. Technology has adversely affected many blue collar jobs over the last 50 years
+* Chris: There are A LOT of different boot camps out there, teaching different languages and providing different levels of depth 
+
+Prompts:
+* Is Turing producing qualified developers?
+* How do coding and manufacturing jobs similar? Different?
+* What are the biggest factors driving the saturation of the developer job market? Too many bootcamps? Low rate of new tech companies? 
+
+##### TOPIC 3 (Keji): Why are there so many coding bootcamps and why don't my parents know what that is?
+2 Minute Presentation Notes:
+* https://www.thinkful.com/bootcamps/infographic
+ 
+Prompts:
+* What do you think spurred the idea to create code schools/bootcamps? Inspiration?
+* What do you think the future of looks like as the number of schools/bootcamps increases?
+* What happens when the code school/bootcamp world is saturated with schools/bootcamps?
+
+### Group Members:
+* Jack Bevis
+* Devin Dixon
+* Keji Amos
+* Chris Brandrowsky
+* Anders Wood
