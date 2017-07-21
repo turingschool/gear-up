@@ -42,7 +42,8 @@ Get your notebooks out and reflect on the following questions.
 1. Write it on board (we will need additional whiteboard markers)
 1. In small groups, discuss commonalities
 1. List traits and add them to the board
-At the end, we should have a white board filled with examples of resilience + resilience characteristics
+
+At the end, we should have a white board filled with examples of resilience & resilience characteristics
 
 ## Strategies (25 min)
 1. Break into 7 groups
