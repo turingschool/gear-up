@@ -2,31 +2,33 @@
 
 # Session Title: How & When to Learn a New Programming Language
 
+### Group members: Devon Bull, Jenn Peavler, Victoria Vasys, Joseph Glass, Chris Jordan
+
 ## Blurb
 * No one wants to be a one-language-trick-pony! How do you become a bilingual pony? We've gotchya covered.
     
 ## Prework
 * Consider which language you'd like to learn next!
 * Add your github name to the channel!
+* [Repo](https://github.com/VictoriaVasys/learning-a-new-language) that the students will be added to
 
-### Session Outcomes:
+## Session Outcomes:
 - Create a repo of resources and tutorials for learning new languages and technologies that students can contribute to.
 - Provide outline of our process and experiences
 - Provide space for people to share their own challenges and solutions.
 
-### Session Outline:
+## Session Outline
 
-#### Whole Group discussion
+### 1. Whole Group Discussion
 
-##### 10 minute introduction,
-
-What's your name, cohort, where are you from?
+##### 10 min Intros
+  * What's your name, cohort, where are you from?
 What is the next language you'd like to learn?
 
-##### 15 min intro
+##### 15 min Background
 
 
-- Deliberate Practice (Joseph - 3 min)
+##### Deliberate Practice (Joseph - 3 min)
   - Process of learning
     - ID a specific subset
     - Focus on performance in that subset
@@ -43,22 +45,24 @@ What is the next language you'd like to learn?
    - Pitfalls
      - Don't read book cover to cover without coding along the way.
 
-- Where would you start with a new programming language?  /describe our experiences (Victoria - 2 min)
+##### When to start / resources (Victoria - 2 min)
   - Career Impact, Motivations, Depth vs. breadth
   - Docs (Environment Setup)
   - Books
   - Hello World
   - Stack Overflow
   - Practice!
-    * exercisms http://exercism.io/languages/
-    * codewars https://www.codewars.com/
-    * hackerrank https://www.hackerrank.com/dashboard
-    * Turing challenges https://github.com/turingschool/challenges
+    * [exercisms](http://exercism.io/languages/)
+    * [codewars](https://www.codewars.com/)
+    * [hackerrank](https://www.hackerrank.com/dashboard)
+    * [Turing challenges](https://github.com/turingschool/challenges)
   - Find Online communities
+    * [reddit](reddit.com/r/learnprogramming)
 
-- Video (Jenn - 5 mins)
+##### Video (Jenn - 5 mins)
+  * [Learn a language fast](https://simpleprogrammer.com/2017/06/15/learn-new-programming-language-fast/)
 
-- What learning actually looks like (Devon - 3 min):
+##### What learning actually looks like (Devon - 3 min):
   - Picked a technology: Mongodb
   - 1st Went to CodeSchool and watched Videos
   - Went to Mongo Docs and Created a Database on Cloud
@@ -70,7 +74,7 @@ What is the next language you'd like to learn?
   - Continue through trial and err
 
 
-##### 30 min dig in
+### 2. 30 min Small Group Discussion
 - Vote on languages we'd like to learn.
 - Break into 5 groups.
 - Walk through those steps
@@ -95,9 +99,7 @@ What is the next language you'd like to learn?
  ###### Share two of your findings on the whiteboard (5 mins)
  * Submit the resources and challenges you found on the repo!
 
-##### 15 min wrap up
+### 3. 15 min Wrap Up
 - Each group expands on their bullet points
 - Share the repo
 
-
-### Names of group members: Devon Bull, Jenn Peavler, Victoria Vasys, Joseph Glass, Chris Jordan
