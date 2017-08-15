@@ -1,4 +1,4 @@
- # Group Eight
+ # Group Four
 
 ### Session Title:
 
