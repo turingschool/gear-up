@@ -63,6 +63,8 @@ Chairs and tables available for small group discussions. Students start out seat
 
 The facilitator will kick off the session by reviewing the overview described above. After that overview, small groups will do whip around to each member: every individual should share briefly how they're feeling (concerns about the session, lunch coma, TGIF).
 
+## Session overview (5 min)
+Walk through the session overview (above) and what you will do today.
 
 ## Privilege Statements and Reflection (15 min)
 
@@ -155,12 +157,12 @@ Once finished reviewing the list, write in your notebook on these questions.
     *   If you were trying to describe that experience to someone else who hadn't shared that experience with you, how would that affect your trust with them? What could that person do to help you sustain trust? What could you do?
 
 
-## Discuss (30 min)
+## Discuss (35 min)
 
 We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
 
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_
+When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_  Take time to share out some examples from the group.
 
-## Final Reflection (5 min)
+## Final Reflection (10 min)
 
 We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  
