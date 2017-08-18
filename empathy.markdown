@@ -68,7 +68,7 @@ Walk through the session overview (above) and what you will do today.
 
 ## Privilege Statements and Reflection (15 min)
 
-Review the following list of statements that describe the different ways people in our society may experience privilege or marginalization. Put a check mark next to statements you agree with. When you finish the list, write on the questions listed below.
+Review the following list of statements that describe the different ways people in our society may experience privilege or marginalization. Put a check mark next to statements that are true for you. When you finish the list, write about the questions listed below.
 
 ### Experience Statements
 
