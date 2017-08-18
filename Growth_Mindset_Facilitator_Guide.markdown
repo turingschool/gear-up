@@ -2,13 +2,13 @@
 
 [PPT](https://drive.google.com/file/d/0B51t9-cqjZR7TGZaVnd2aUtyQVU/view)
 
-#SESSION OUTCOMES
+# SESSION OUTCOMES
 
 * Learn what a "growth mindset" is and how it will help them succeed at Turing and in the tech industry
 * Identify individual strategies to deal with stresses that trigger a "fixed mindset"
 * Identify group strategies for supporting each others' growth mindset
 
-#GROUPING
+# GROUPING
   
   * What should the group size be for discussions? (Recommend 3-4)
   * How should groups be set up? (Recommend some meaningful grouping)
