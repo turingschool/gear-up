@@ -44,7 +44,7 @@ Before you begin discussing the questions below, ensure that the following roles
 | **Facilitator** | Works with the timekeeper to move through the discussion questions. Solicits input from all members of the group and helps individuals be aware if they are dominating the conversation.|
 | **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.  Everyone should take notes in your notebook so that you can share in your second group. |
 
-Students will discuss these questions:
+Students will discuss these questions and create a chart on their paper of their strengths and challenges:
 
 * What are your strengths in regards to this working style?
 * What challenges have you faced because you identify with this working style? Think about challenges in pairing, in class, in community activities.
@@ -60,7 +60,9 @@ Students will discuss these questions:
 In your new groups, share these two questions with your group.  Everyone should have a chance to share without interruption.  
 
 * How do you think you're perceived by those who don't share this same working style?
-* What do you need from other working styles to be at your best?
+
+Create a chart outlining your needs:
+* What do you need from other working styles to be at your best? Think about in terms of starting a paired project, when you're in the middle of the project, when you're getting ready for evaluations, when you're preparing to give feedback, etc. 
 
 ## Whole Group Share (5 min)
 * Ask for some reflections from a few different groups.  
