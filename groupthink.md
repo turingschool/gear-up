@@ -5,7 +5,7 @@ Give groups a few minutes to do introductions of your choice!  (Suggestion:  Nam
 
 ## Opening (5 min)
 
-In order to create a diverse and inclusive work environment, we need to consider the barriers to inclusion.  One of those barriers can be Groupthink.   Groupthink is the tendency for members in a given group to gradually drift toward the same beliefs and styles of thinking.  It can be harmful to your team effectiveness, to your products, and ultimately to the individuals on  your team.  Today we are going to dive into understanding more about Groupthink and determining specific ways to challenge gro
+In order to create a diverse and inclusive work environment, we need to consider the barriers to inclusion.  One of those barriers can be Groupthink.   Groupthink is the tendency for members in a given group to gradually drift toward the same beliefs and styles of thinking.  It can be harmful to your team effectiveness, to your products, and ultimately to the individuals on  your team.  Today we are going to dive into understanding more about Groupthink and determining specific ways to challenge Groupthink when we experience it. 
 
 
 ## Where have you seen GroupThink before? (5 min)
@@ -16,9 +16,9 @@ Turn and talk for 2 minutes about where you have seen or experienced Groupthink 
 
 ## What is it? (15 min)
 
-Take 10 minutes to read the following [article](https://www.linkedin.com/pulse/romp-through-group-think-simon-ashworth)
+READ: Take 10 minutes to read the following [article](https://www.linkedin.com/pulse/romp-through-group-think-simon-ashworth)
 
-<b>After you are done with the article, review the list of situations on the board.  Answer these questions in your notebook: </b>
+<b> WRITE: After you are done with the article, review the list of situations on the board.  Answer these questions in your notebook: </b>
 
 
 	1. How could those Groupthink situations have been avoided?  
