@@ -1,5 +1,7 @@
 # Group Think
 
+## Group intros (5 min)
+Give groups a few minutes to do introductions of your choice!  (Suggestion:  Names, program, module, hometown)  
 
 ## Opening (5 min)
 
@@ -33,7 +35,7 @@ In your small groups, discuss:
 	
 *Come together as a whole group to have groups share some key ideas for the last 5 minutes*
 
-## What does this make you want to do?
+## What does this make you want to do? (15 min)
 
 In your small groups, discuss what you could specifically do to be aware of Groupthink in the following places: 
 
@@ -46,7 +48,11 @@ In your small groups, discuss what you could specifically do to be aware of Grou
 	Posses
 	In your future job
 	
+*With the last 5 minutes, have groups go around and share suggestions.  Each group can share a suggestion for a single category.  You may want to write group suggestions on the board.*
 
+## Closing (5 min)
+
+Groupthink is likely something that we all have been a part of without even knowing it.  Consider the suggestions you heard today and continue to educate yourself on additional ways to guard from Groupthink. What can you implement immediately in your next project, cohort retro, or posse? Linked below are some additional resources for you to continue to explore this concept.
 
 ### Additional Resources
 http://www.psysr.org/about/pubs_resources/groupthink%20overview.htm
