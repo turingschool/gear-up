@@ -2,6 +2,9 @@
 
 ### Session Title: The Robots are Coming: The future of AI
 
+### Description
+The robots are coming! Come to our session for an intro to computer vision and discuss the larger societal implications of artificial intelligence (and how they’ll take our jerbs!). And also we are going to watch cartoons.
+
 ### Session Outcomes: 
 - What does it mean to me as a programmer
 - Want people to consider how AI benefits or threatens their lives as devs
