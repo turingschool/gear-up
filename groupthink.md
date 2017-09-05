@@ -10,13 +10,13 @@ In order to create a diverse and inclusive work environment, we need to consider
 
 ## Where have you seen GroupThink before? (5 min)
 
-Turn and talk for 2 minutes about where you have seen or experienced Groupthink before. 
+Turn and talk for 2 minutes about where you have seen or experienced Groupthink before. Can Groupthink be positive?
 
 *Have students call out examples and create a list of examples that you can put on the whiteboard.*
 
 ## What is it? (15 min)
 
-READ: Take 10 minutes to read the following [article](https://www.linkedin.com/pulse/romp-through-group-think-simon-ashworth)
+READ: Take 15 minutes to read the following [article](https://www.linkedin.com/pulse/romp-through-group-think-simon-ashworth)  OR this [article](https://www.sesp.northwestern.edu/masters-learning-and-organizational-change/knowledge-lens/stories/2012/groupthink-the-role-of-leadership-in-enhancing-and-mitigating-the-pitfall-in-team-decision-making.html)
 
 <b> WRITE: After you are done with the article, review the list of situations on the board.  Answer these questions in your notebook: </b>
 
