@@ -12,40 +12,17 @@
 
 In previous session's we've spoken about our strengths, and our implicit biases. This session, we're going to discuss how privilege works in our lives, and how we can use our experiences with privilege when we interact with students and each other.
 
-If this is your first time discussing privilege, or if you haven't had much opportunity to think about it's role in your life, then the goal of this session is to introduce you to the idea of privilege so that you can start thinking about how it 
+How do we interact as a staff? How do we interact with students where we automatically have some degree of power? How can we use our previous experiences to better connect to one another and our students?
 
+### Goals:
 
+If this is a new concept to you or haven't had much opportunity to think about its role in your life:
 
-*EM*
-I think adding some framing about why we want to have this session...as staff we experience privilege in different ways. As we think about bias and the lenses we carry, we also want to consider places where we have privilege so that we can become better allies in those spaces.
-
-
-
-
-
-Talked about our strengths
-Talked about implicit bias
-
-Want to talk about power/privilege because our strengths and biases are connected to how we experience privilege.
-
-How do we interact as a staff. How do we interact with students where we automatically have power.
-
-In order to become a better ally to people who do not share that privilege or who have experienced a similar lack of privilege.
-
-
-All of us have thought about 
-
-
-Goals:
-
-If you've never thought about this before:
-
-* 
+* Introduce you to the idea of privilege and give space to start thinking about how it impacts your life and the lives of those around you.
 
 If you've reflected on this before:
 
-* creating space by being more vulnerable.
-
+* Provide an opportunity to think about how privilege plays out here at Turing specifically with staff and students and how we can use our previous experiences with privilege to make Turing an inclusive community.
 
 Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
 
@@ -103,23 +80,9 @@ Review the following list of statements that describe the different ways people 
 
 ## Discuss (20 minutes)
 
+Before you begin, select someone in your group to take notes and share out.
+
 Use 10 minutes to discuss and share your answers to the self-reflection questions above, and 10 minutes to share answers to the potential Turing facing actions.
-
-
-Pick someone to share/document.
-
-Tie to intro/purpose
-
-
-Meet with a small group of
-
-We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
-
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_  Take time to share out some examples from the group.
-
-*EM*
-How do you want to do groups? Maybe groups of 3 to keep conversations on track? I can do random groups if you'd like.
-
 
 ## Share (10 minutes)
 
