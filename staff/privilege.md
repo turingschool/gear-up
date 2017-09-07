@@ -10,6 +10,8 @@
 
 ## Background/Introduction (5 minutes)
 
+Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
+
 In previous session's we've spoken about our strengths, and our implicit biases. This session, we're going to discuss how privilege works in our lives, and how we can use our experiences with privilege when we interact with students and each other.
 
 How do we interact as a staff? How do we interact with students where we automatically have some degree of power? How can we use our previous experiences to better connect to one another and our students?
@@ -23,8 +25,6 @@ If this is a new concept to you or haven't had much opportunity to think about i
 If you've reflected on this before:
 
 * Provide an opportunity to think about how privilege plays out here at Turing specifically with staff and students and how we can use our previous experiences with privilege to make Turing an inclusive community.
-
-Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
 
 ### Norms
 
@@ -61,7 +61,7 @@ Review the following list of statements that describe the different ways people 
 * You can show affection for your romantic partner in public without fear of ridicule or violence.
 * You generally do not worry that your parents/a romantic partner's parents will approve of you/your relationship because of something you cannot change.
 
-## Reflect (10 minutes)
+## Reflect (5 minutes)
 
 ### Self-Reflection
 
