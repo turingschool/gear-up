@@ -25,3 +25,11 @@ Find a group of 4 from your cohort. Groups should be no larger than 4.
 Make sure to assign someone in your group the role of timekeeper, facilitator, and listening monitor to remind everyone to practice active listening. Take collective responsibility for all members having a chance to share their perspectives and learn from others.
 
 These topics can be very personal and difficult to talk about. Please respect other students privacy and their degree of willingness to share their story. Keep in mind that support, kindness, and a quiet mind will go a long way in understanding one another.
+
+## Closing (5 min)
+After listening to your peers' thoughts write down further reflections in your notebook or on your computer.
+
+1. After you have heard stories from other students what surprised you about the things they learned from their failures. What stood out to you about your own failures?
+2. What has changed your thoughts about failure? What has stayed the same?
+3. Moving forward how can you support someone you know who is going through a hard time?
+4. If you experience a failure in your future, what are some things you have learned from this session that would make it a bit easier?
