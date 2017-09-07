@@ -12,13 +12,20 @@ The robots are coming! Come to our session for an intro to computer vision and d
 - Understanding of what AI is (definitions and relevant vocabulary)
 
 ### Session Outline:
-- 10 to 15 min Intro (Icebreaker)
-- 20 min content video
-- Discuss the video
-- Break out in to small groups and discuss 
-  - AI in your lives and how it could affect you our those you know
-  - What kind of AI have you seen and what might you like to create or see create
-- Closing discussion on what the groups talked about and final thoughts from mod 4
+- 15 minutes: Introductions
+  - Tell us your name
+  - Your Cohort
+  - Something you think is cool that uses Artificial Intelligence or something you hope someone will make with Artificial Intelligence
 
+- 5 minutes: Introduction to AI with Computer Vision
+- Discuss the video
+- 12 minutes: Kurzgesagt on Automation
+- 25 minutes: Small group discussions
+  - Ideas to consider:
+    - Should there be AI regulation? If so, who should be doing the regulating?
+    - How could (or does) AI make society better off?
+    - How could (or does) AI make society worse off?
+    - What rad futuristic technologies do you think we will create in our lifetimes using AI?
+- 15 minutes: Bring it Back Together - Large Group Discussion
 
 ### Names of group members: Travis Gregory, Charlie Corrigan, Ben Ross, Padraic Oneil
