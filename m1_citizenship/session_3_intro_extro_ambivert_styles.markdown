@@ -64,10 +64,12 @@ Students walk around the room to read what's been written on the various charts.
 
 * Facilitator:  Ask students who feel like they are more extroverted to raise their hands.  With hands raised, ask two extroverts to find two introverts (people with their hands down) and form new groups.  Ambiverts should break into different groups so they are with people from across the spectrum.  
 
-In your new groups, share these two questions with your group.  Everyone should have a chance to share without interruption.  
+In your new groups, discuss these questions. Everyone should have a chance to share without interruption.  
 
-* How do you think you're perceived by those who don't share this same working style?
-* What do you need from other working styles to be at your best? Think about in terms of starting a paired project, when you're in the middle of the project, when you're getting ready for evaluations, when you're preparing to give feedback, etc. 
+* Share your dominant working style and what came up in your first discussion
+* What do you need from other working styles to be at your best?
+* What are some of the differences between working styles that cause conflict?
+* How could you address the differences in your work?
 
 ## Whole Group Share (5 min)
 * Ask for some reflections from a few different groups.  
