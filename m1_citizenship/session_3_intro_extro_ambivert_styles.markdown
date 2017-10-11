@@ -6,6 +6,8 @@
 
 Read the following [article](https://www.fastcompany.com/3016031/leadership-now/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career) in preparation for this session.
 
+**Note:** If the reading was sent to students beforehand, have them complete the growth mindset recap; if it wasn't, have them read the article in the session and skip the growth mindset recap. The reading takes about 10 minutes. 
+
 ### Introduction (2 minutes)
 You have started to work together in meaningful ways--during class, in pairing sessions, and in partner projects.  That means that we are 100% certain you are about to experience (or already have) a clash in working styles.  If we can discuss how we learn and work best, we can think about ways that we can better communicate our needs AND compromise in order to bring out the best in everyone.  Today we are going to start with a quick growth mindset reflection and then dig into understanding the spectrum of workstyles we have in our cohorts. 
 
@@ -42,6 +44,7 @@ Before you begin discussing the questions below, ensure that the following roles
 |--------|-----------|
 | **Timekeeper** | Ensure that the group has a chance to address all the discussion questions and time at the end to complete the survey.|
 | **Facilitator** | Works with the timekeeper to move through the discussion questions. Solicits input from all members of the group and helps individuals be aware if they are dominating the conversation.|
+| **Writer** | Writes down ideas from the group on the chart paper provided. Label the chart paper with what kind of group you identify as. |
 | **Participant (all)** | Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.  Everyone should take notes in your notebook so that you can share in your second group. |
 
 Students will discuss these questions and create a chart on their paper of their strengths and challenges:
@@ -53,15 +56,17 @@ Students will discuss these questions and create a chart on their paper of their
 
 * Facilitator: Give students a 5 minute warning and ensure that they have made it to the last question.
 
-### Small Group Discussion # 2 (15 minutes)
+### Gallery Walk (5 minutes)
 
-* Facilitator:  Ask extroverts to raise their hands.  With hands raised, ask two extroverts to find two introverts (people with their hands down) and form new groups.  Ambiverts should break into different groups so they are with people from across the spectrum.  
+Students walk around the room to read what's been written on the various charts. They should note any new ideas or perspectives they want to remember. 
+
+### Small Group Discussion # 2 (10 minutes)
+
+* Facilitator:  Ask students who feel like they are more extroverted to raise their hands.  With hands raised, ask two extroverts to find two introverts (people with their hands down) and form new groups.  Ambiverts should break into different groups so they are with people from across the spectrum.  
 
 In your new groups, share these two questions with your group.  Everyone should have a chance to share without interruption.  
 
 * How do you think you're perceived by those who don't share this same working style?
-
-Create a chart outlining your needs:
 * What do you need from other working styles to be at your best? Think about in terms of starting a paired project, when you're in the middle of the project, when you're getting ready for evaluations, when you're preparing to give feedback, etc. 
 
 ## Whole Group Share (5 min)
