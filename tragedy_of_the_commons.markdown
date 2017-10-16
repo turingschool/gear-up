@@ -16,6 +16,9 @@ Students should be able to do the following.
 *   Demonstrate commitment to community values by reviewing new material through the lens of its relevance in advancing larger community goals.
 *   Contribute meaningfully to activities focused on how to advance community values.
 
+## Introductions (10 min)
+
+Fun intro: Faciliators choice!
 
 ## Exploring (10 min)
 
@@ -39,4 +42,8 @@ We'll explore the concepts from *Parable of the Polygons (PotP)*  within the con
 
 ## Discussion (25 min)
 
-In groups of 3-4, discuss your answers to the questions above.
+In groups of 3-4, discuss your answers to the questions above and your suggestions on how we could make positive changes at Turing. 
+
+## Whole Group Discussion (15 min)
+
+Bring together your groups and share reflections to at least two of the questions.  
