@@ -10,6 +10,7 @@
 **Session Title: Our new role as developers in social movements**
 
 **Description:**
+
 In an incresingly technological world, there is an oppotunity for people with the ability to write in the language of technology to play a oversized role in the direction of the planet. In this session, participants will be exposed to a number of social movements and ways technology has played a role and then be given the opportunity to explore their own interests and ways they can make an impact.  
 
 **Session Outcomes:** What will students leave with or gain from this session?
