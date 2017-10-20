@@ -11,7 +11,7 @@
 
 **Description:**
 
-In an incresingly technological world, there is an oppotunity for people with the ability to write in the language of technology to play a oversized role in the direction of the planet. In this session, participants will be exposed to a number of social movements and ways technology has played a role and then be given the opportunity to explore their own interests and ways they can make an impact.  
+In an increasingly technological world, there is an opportunity for those of us with the ability to write in the language of technology to play an oversized role in the direction of humanity. In this session, participants will be exposed to a number of social movements and the ways technology has played a role and then be given the opportunity to explore their own interests and ways they can make an impact.  
 
 **Session Outcomes:** What will students leave with or gain from this session?
 - A personal mission statmement/committment to the role they will play as a developer in making their communities a better place
