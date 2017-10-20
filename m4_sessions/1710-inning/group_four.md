@@ -27,10 +27,13 @@ A personal mission statmement/committment to the role they will play as a develo
 **Session Outline:**
 
 **1. Intro** (5 minutes)
+
 Quick intros of presenters, participants, and the topic for the hour
 
 **2. Inform:** (20 minutes)
+
 Examples of social movements and the role of technology 
+
 _Present for ~5 minutes on each of the below social movements and how it helps inform our commitments to the greater good of our communities_
 
 - [Coders for Bernie](https://coders.forsanders.com/) (Daniel)
@@ -57,7 +60,9 @@ _Present for ~5 minutes on each of the below social movements and how it helps i
   - Quick go-around: what projects jumped out to you when looking through _Code For Social Good_
 
 **3. Activate:** (25 minutes)
+
 Individual Exercise within Groups 
+
 _We'll split the room into 5 groups and each of the presenters will sit with a group to push the conversation forward._
 
 - (10 minutes) Think about a movement you are passionate about and think about ways you can be involved as a developer - the distinction being that we are focused on how we can use our skills to further the development of technology that helps social movements for good (not use technology)
