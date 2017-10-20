@@ -27,9 +27,11 @@ Goal: Encourage participants to have an open conversation
 
 A: Open up with some ‘dig deeper’ questions
   - What are your concerns or worries about cold outreach?
-  - What do you think the value is of cold outreach?
+  - What do you think the value is of cold outreach?  
+  
 B: Encourage to think about how each participant may have already been successful in the past or when they failed and strategies to move past it 
-C: Follow up with positive reinforcement / cat/ dog pictures :) (e.g. it’s okay to be intimidated and can still do a good job at it)  
+
+C: Follow up with positive reinforcement / cat/ dog pictures :) (e.g. it’s okay to be intimidated and can still do a good job at it)  
 
 **3. Ellen** - General/different strategies/steps/expectations to use for upcoming small group workshop sessions ~ 5 mins  
 
@@ -50,7 +52,8 @@ Goal:  Each participant researches and finds a person, and sends a message today
 A: Good job everyone!  
 B: Surprises? What was comfortable/uncomfortable?  
  - How do you feel about cold outreach now?
- - What concerns do you still have?
+ - What concerns do you still have?  
+
 C: Take aways, can you do this again?  
 
 Slideshow: https://docs.google.com/presentation/d/1lYv1VyxR9kwjmzaEABE0LKz32GZm-INSoT7iWEpRD08/edit?usp=sharing
