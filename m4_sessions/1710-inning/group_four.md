@@ -1,6 +1,4 @@
-***Group Four***
-
-**Members**
+**Group Four Members**
 - David Becker
 - Jon Beckman
 - Sam Johnson
@@ -30,7 +28,7 @@ In an increasingly technological world, there is an opportunity for those of us 
 **1. Intro** (5 minutes)
 Quick intros of presenters, participants, and the topic for the hour
 
-***2. Inform:*** 
+**2. Inform:**
 Examples of social movements and the role of technology (20 minutes)
 _Present for ~5 minutes on each of the below social movements and how it helps inform our commitments to the greater good of our communities_
 
@@ -57,7 +55,7 @@ _Present for ~5 minutes on each of the below social movements and how it helps i
   - Example project that David wants to start working on after Turing
   - Quick go-around: what projects jumped out to you when looking through _Code For Social Good_
 
-***3. Activate:*** 
+**3. Activate:** 
 Individual Exercise within Groups (25 minutes)
 _We'll split the room into 5 groups and each of the presenters will sit with a group to push the conversation forward._
 
@@ -72,5 +70,5 @@ _We'll split the room into 5 groups and each of the presenters will sit with a g
 - (10 minutes) Small group share out & discussions (3-4 people max)
 
 
-***4. Share out:*** (10 minutes)
+**4. Share out:** (10 minutes)
 - What is your personal committment (post Turing) to benefit the greater good as a developer (i.e. with your new skills)? 
