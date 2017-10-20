@@ -35,8 +35,11 @@ _Present for ~5 minutes on each social movement and how it helps inform our comm
   - What is election tech and why is it important
   - Description of the politically related open source projects for Bernie Movement
   - Daniel's Capstone project
+  
 - [Maker Movement]() in Ed (Michael)
-  - TBD
+  - Transition from lecture style instruction to a more hands-on/participatory style of instruction
+  - Capstone project idea: tracking progress/school-based metric data reporting technology
+  
 - [North Korea]() (Jonathan)
   - Balloon drops w/ thumb drives of S. Korean and other media - opening the curtains to the world
   - Organization tracking container ships via saletite
@@ -44,6 +47,7 @@ _Present for ~5 minutes on each social movement and how it helps inform our comm
   - People in NK and taking pictures to raise awareness and make it real
   - LINK - Liberty In North Korea
   - Jonathan is still in the exploration phase and working on how he can be involved and make an impact
+  
 - [Code For Social Good](https://app.code4socialgood.org/) (David)
   - We don't all need to be working towards a specific movement in the way we help
   - Code For Good provides access to a list of projects that can add to the collective good
