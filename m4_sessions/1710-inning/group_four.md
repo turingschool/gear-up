@@ -1,4 +1,4 @@
-****Group Four****
+***Group Four***
 
 **Members**
 - David Becker
@@ -7,7 +7,7 @@
 - Michael Sagopolutele
 - Daniel Vogelsang
 
-**Session Title: Social Movements And The Role We Can Play**
+**Session Title: Social Movements And Technology**
 
 **Description:**
 
