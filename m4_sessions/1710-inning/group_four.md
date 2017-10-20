@@ -12,7 +12,8 @@
 In an increasingly technological world, there is an opportunity for those of us with the ability to write in the language of technology to play an oversized role in the direction of humanity. In this session, participants will be exposed to a number of social movements and the ways technology has played a role in them and then be given the opportunity to explore their own interests and ways they can make an impact. Participants will end the session with a tangible plan of action for their own personal involvement as developers after Turing.
 
 **Session Outcomes:** What will students leave with or gain from this session?
-- A personal mission statmement/committment to the role they will play as a developer in making their communities a better place
+
+A personal mission statmement/committment to the role they will play as a developer in making their communities a better place
 
 **Pre-Work/Communication**
 - Ask people to sign-up for [Code For Social Good](https://app.code4socialgood.org/) 
