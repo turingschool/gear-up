@@ -8,9 +8,11 @@
 **Session Title: Social Movements And Technology**
 
 **Description:**
+
 In an increasingly technological world, there is an opportunity for those of us with the ability to write in the language of technology to play an oversized role in the direction of humanity. In this session, participants will be exposed to a number of social movements and the ways technology has played a role in them and then be given the opportunity to explore their own interests and ways they can make an impact. Participants will end the session with a tangible plan of action for their own personal involvement as developers after Turing.
 
 **Session Outcomes:** What will students leave with or gain from this session?
+
 A personal mission statmement/committment to the role they will play as a developer in making their communities a better place
 
 **Pre-Work/Communication**
@@ -22,13 +24,13 @@ A personal mission statmement/committment to the role they will play as a develo
 - Pre-session message w/ link to Code For Social Good (Daniel)
 - Worksheet for "Active" discussion (Sam)
 
-**Session Outline:**  Include the flow of the session and the time for each section
+**Session Outline:**
 
 **1. Intro** (5 minutes)
 Quick intros of presenters, participants, and the topic for the hour
 
-**2. Inform:**
-Examples of social movements and the role of technology (20 minutes)
+**2. Inform:** (20 minutes)
+Examples of social movements and the role of technology 
 _Present for ~5 minutes on each of the below social movements and how it helps inform our commitments to the greater good of our communities_
 
 - [Coders for Bernie](https://coders.forsanders.com/) (Daniel)
@@ -54,8 +56,8 @@ _Present for ~5 minutes on each of the below social movements and how it helps i
   - Example project that David wants to start working on after Turing
   - Quick go-around: what projects jumped out to you when looking through _Code For Social Good_
 
-**3. Activate:** 
-Individual Exercise within Groups (25 minutes)
+**3. Activate:** (25 minutes)
+Individual Exercise within Groups 
 _We'll split the room into 5 groups and each of the presenters will sit with a group to push the conversation forward._
 
 - (10 minutes) Think about a movement you are passionate about and think about ways you can be involved as a developer - the distinction being that we are focused on how we can use our skills to further the development of technology that helps social movements for good (not use technology)
