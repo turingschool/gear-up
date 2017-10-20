@@ -10,8 +10,6 @@
 Session Title: Our new role as developers in social movements
 Description: Why should students come to this session?
 
-TO DO
-
 
 **Session Outcomes:** What will students leave with or gain from this session?
 - A personal mission statmement/committment to the role they will play as a developer in making their communities a better place
@@ -43,7 +41,7 @@ _Present for ~5 minutes on each social movement and how it helps inform our comm
   - Balloon drops w/ thumb drives of S. Korean and other media - opening the curtains to the world
   - Organization tracking container ships via saletite
   - Impact of radio on helping people make the decision to defect
-  - Jonathan's friends in NK and taking pictures to raise awareness and make it real
+  - People in NK and taking pictures to raise awareness and make it real
   - LINK - Liberty In North Korea
   - Jonathan is still in the exploration phase and working on how he can be involved and make an impact
 - [Code For Social Good](https://app.code4socialgood.org/) (David)
