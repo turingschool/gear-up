@@ -7,7 +7,7 @@
 - Michael Sagopolutele
 - Daniel Vogelsang
 
-**Session Title: Our new role as developers in social movements**
+**Session Title: Social Movements And The Role We Can Play**
 
 **Description:**
 
@@ -19,9 +19,10 @@ In an increasingly technological world, there is an opportunity for those of us 
 **Pre-Work/Communication**
 - Ask people to sign-up for [Code For Social Good](https://app.code4socialgood.org/) 
 - Ask for people to poke around on the site and pick out a project they are interested in
+- We will also include the other links from below for people to review as option 
 
 **Deliverables**
-- Pre-session message w/ link to Code For Social Good (owner)
+- Pre-session message w/ link to Code For Social Good (Daniel)
 - Worksheet for "Active" discussion (Sam)
 
 **Session Outline:**  Include the flow of the session and the time for each section
@@ -31,8 +32,7 @@ Quick intros of presenters, participants, and the topic for the hour
 
 ***2. Inform:*** 
 Examples of social movements and the role of technology (20 minutes)
-
-_Present for ~5 minutes on each social movement and how it helps inform our commitments to the greater good of our communities_
+_Present for ~5 minutes on each of the below social movements and how it helps inform our commitments to the greater good of our communities_
 
 - [Coders for Bernie](https://coders.forsanders.com/) (Daniel)
   - What is election tech and why is it important
@@ -59,8 +59,7 @@ _Present for ~5 minutes on each social movement and how it helps inform our comm
 
 ***3. Activate:*** 
 Individual Exercise within Groups (25 minutes)
-
-_We'll group the room into 5 and each of the presenters will sit with a group to push the conversation forward._
+_We'll split the room into 5 groups and each of the presenters will sit with a group to push the conversation forward._
 
 - (10 minutes) Think about a movement you are passionate about and think about ways you can be involved as a developer - the distinction being that we are focused on how we can use our skills to further the development of technology that helps social movements for good (not use technology)
   - ****Worksheet****
@@ -71,6 +70,7 @@ _We'll group the room into 5 and each of the presenters will sit with a group to
 - (5 minutes) Write down some committments you want to make to being an active voice in/contributor to the movement/s you care about
 
 - (10 minutes) Small group share out & discussions (3-4 people max)
+
 
 ***4. Share out:*** (10 minutes)
 - What is your personal committment (post Turing) to benefit the greater good as a developer (i.e. with your new skills)? 
