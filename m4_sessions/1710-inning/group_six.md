@@ -1,18 +1,26 @@
 Group Six
 
-Session Title: "Learning another language"
+Session Title: "Learning a new programming language"
 
-Session Title:Description: Why should students come to this session?
+Session Title:Description: Here at Turing, we all learn how to be awesome developers in Javascript and/or Ruby on Rails. Once you ascend from the basement and enter the real world, your company will probably work in a language/framework you have never used before. That can be pretty intimidating. Come learn about new languages we are excited about, and see how jumping into a new one isn't as scary as it looks.
 
-Students will need to be comfortable learning another language by the time they leave Turing if they want to market themselves as more than just Rails- or JavaScript- developers.
-Session Outcomes: What will students leave with or gain from this session?
+### Session layout:
+* 10 min: "Would you rather?" Icebreaker/Introduction (Everyone)
+* 5 min: Intro with StackOverflow survey statistics (most common languages, average number of languages devs know, charts) (JF)
+* 5 min: Explain Object-oriented vs Functional Programming, and Statically- vs dynamically-typed langs. (Mike)
+* 15 min: Code-along. Students will navigate while JF and Jack drive code for mythical creatures in Ruby on one screen and    JavaScript on the other. (JF & Jack)
+* 20 min: Elm
+  * 5 min Hello World example (Jack)
+  * 5 min presentation (Tyler)
+  * Group discussion
+* 20 min: Golang
+  * 5 min Hello World example (Mike)
+  * 5 min presentation (Wil)
+  * Group discussion
 
-Students will be better able to start thinking about other languages they may want to learn after Turing (or for their capstones). They will leave with some resources for tutorials, etc. if they want to delve more into a particular language.
-Session Outline: Include the flow of the session and the time for each section.
+* Repo we will share to the class with resources (online playground in each language, interesting blog posts)
+  * https://github.com/tylerjhevia/Programming-languages-gearup
 
-Preface with the fact that many of us will not be working in one language for all of our careers. The ability to learn another language is paramount to demonstrating marketable skills. -Overview of learning any new language
-What's feasible to learn at Turing vs outside here, transferrable skills, etc.
-JS frameworks (which cat is your framework website) -Tyler: Elm presentation -JF/Mike: GoLang presentation -Showcasing error codes, "Hello, world" examples in different languages
 Names of group members
 
 Jack Mallahan
