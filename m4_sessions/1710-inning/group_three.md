@@ -2,22 +2,29 @@
 
 ### Session Title:
 
-Global Decentralization (work-in-progress)
+Blockchains, Cryptocurrencies, Decentralization, oh my!
 
 ### Description: Why should students come to this session?
 
-We feel that this is something that will be impacting more and more people as time goes on, and is a really untapped market for development opportunities. Also great for us to be aware of it as developers. 
+Blockchains, Cryptocurrencies, and decentralization are affecting and will continue to affect society as time goes on. It is also a cutting-edge, emerging market for development opportunities. Students will have a chance to discuss the ways in which blockchain technology may influence society, and the possible effects on politics, healthcare, and finance.
 
 ### Session Outcomes: What will students leave with or gain from this session?
 
-Students will leave with a better understanding of decentralization, how quickly and dramatically our world will change as a whole.  Students will have knowledge of different industry sectors.
+Students will leave with a better understanding of blockchains. Students will have better knowledge of the potential effects on different industry sectors and on society as a whole.
 
 ### Session Outline:  Include the flow of the session and the time for each section.
 
-Introduce the overarching topic, how to introduce this topic in the best way (?)
-Pick different products in different industries - have small group research sessions, and share outcomes with the rest of the class. Leaders spend time facilitate these small group discussions (15-20 minutes)
-Cover different sectors of the decentralization movement of our world. Large group discussion of pros and cons of outcomes from this movement. (10 minutes)
-Possible wrap-up at end of session, summary of everything we discussed in gear-up session (5-7 minutes).
+- Icebreaker / Introductions. Question for participants: do you have any particular interest in these topics? (10 min)
+- Introduce the topics with a TED talk video: https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript (10 min)
+- Introduce a list of topics for small group discussion, and open the list for participant input (5 min)
+  - Blockchain 101
+  - Why do some people hate blockchain and/or Bitcoin?
+  - Effect on Politics
+  - Effect on Healthcare
+  - Effect on Finance
+- Break out into small groups for discussion (15-20 min)
+- Small groups share with the larger group (15 mins)
+- Finish the session with open discussion (15 mins)
 
 ### Names of group members:
 
