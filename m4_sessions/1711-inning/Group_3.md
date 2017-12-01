@@ -15,4 +15,4 @@ Session Outline: Include the flow of the session and the time for each section.
 10 mins the future of open source
 10 mins closing and call to action
 
-Names of group members: Eddie Rose, Aaron Hursh, Ash Vaidashi
+Names of group members: Eddie Rose, Aaron Hursh, Ash Vaidashi, Aram Anderson
