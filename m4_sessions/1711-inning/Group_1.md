@@ -1,4 +1,4 @@
-Group Eight
+Group One
 
 Session Title: Net Neutrality
 
