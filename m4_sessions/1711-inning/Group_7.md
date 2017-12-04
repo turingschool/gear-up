@@ -22,7 +22,22 @@ Turing and life are hard enough. If you are a minority, introverted, or just ine
 ### Session Outline: 
 
 #### Include the flow of the session and the time for each section.
-- we will be updating this early next week
+Lola will intro video and facilitate icebreaker
+1. College Humor Video? - 4min
+2. Intro w/ icebreaker - 15 min
+  What is a common misconception about you? || Tell us about how you can relate to the video.
+  Read article https://www.psychologytoday.com/blog/happiness-purpose/201307/speak-yourself
+3.  Amy’s story- Amy gives the synopsis of her experience with the need to speak up for herself at Turing- 5 min
+
+Luke will intro video (if we use) and explain directions for #5
+4. Hook Video Clip- 10min if it’s past 1:25pm, skip video (last 7 minutes of Adam Galinsky vid)
+5. Scenarios and discussion- 30min
+	We’ll have four stations w/ a scenario for each and collect ideas on each scenario to share at the end of the exercise 
+(one station per facilitator)
+
+Hector will facilitate journaling and final reflection (we’ll all come up with journal prompts and have a synopsis of what to tell them to share for final reflection)
+6. Journaling- 5 min
+7. Final reflection- optional individuals shares takeaways - 10min
 
 #### Names of group members:
 - Amy Holt
