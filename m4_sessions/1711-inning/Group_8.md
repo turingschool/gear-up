@@ -25,7 +25,9 @@ Session Outline: Include the flow of the session and the time for each section.
 
 Names of group members: Samuel Nayrouz, Francy Lang, Rufus Walsh, Ricky Amparo
 
+
 Additional Ideas
   - Have students experience a technical challenge.
   - Discuss Cognitive Behavioral Therapy.
   - How to not compare yourself to others.
+
