@@ -34,7 +34,7 @@ Turn to a pair and share how you've been successful this week in maintaining a g
 * Facilitator: Set up a space in the room where students can line up.  The two ends are introversion and extroversion.  Ambiverts would line up in the middle.  
 We are going to line up based on a scale of introversion to extroversion while we are here at Turing. Many times you can say that your intro/extro/ambiversion might depend on the situation.  In this case, we want you to select the place on the spectrum that you are most often in while you are at Turing.  Think about your reactions in class, how you respond to pairing, how you work in group projects.  
 * Facilitator:  Model where you would go on the spectrum based on your own experiences.  
-Based on where students are standing, find a group of 3-4 (no more than 4) people who are standing close to where you identified on the spectrum.  Find your group and move to a section of the room where you can be comfortable.  
+Based on where students are standing, find a group of 3-4 (no more than 4) people who are standing close to where you identified on the spectrum.  Find your group and move to a section of the room where you can be comfortable. Instruct students to take a piece of chart paper and marker with them to record their group's answers. 
 
 ### Small Group Discussion # 1 (15 minutes)
 
