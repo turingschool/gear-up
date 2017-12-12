@@ -1,12 +1,13 @@
 
  
 ## Session Title: 15 THINGS ABOUT THE ATTENTION ECONOMY (YOU WON’T BELIEVE NUMBER 3)
- 
+
 ## Session Description: 
 Inspired by Tristan Harris’s research in the “arms race for human attention, the ethics of persuasion, the consequences of having an ad-based economy”, we explore how the attention economy affects us as both users and future developers. 
 
-## Session Outcomes: 
- 
+[Slides](https://docs.google.com/presentation/d/1eK48HXMCytfk_gRk5odN8Befqzl9Tn2CGIKZm0bYD0M/edit#slide=id.g1c033f9cd5_0_119)
+
+## Session Outcomes:  
 Students should be able to do the following:
  
 * Describe the “Attention Economy”
