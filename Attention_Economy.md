@@ -47,7 +47,7 @@ As you go into your small group discussion, please have someone take notes and h
   * If it’s up to the company, what are some strategies they could employ to ensure that their users are spending their time well while using their applications, while also maintaining revenue? 
   * If the responsibility is us on as humans to avoid clicking and using, what could we do to spend our time wisely, while also not exhibiting too much “FOMO”? 
 
-### Whole Group Discussion (25 mins)
+### Whole Group Discussion (20 mins)
  * Have each group present some of their findings (2 mins each)
  
  Scenario:
@@ -55,7 +55,7 @@ As you go into your small group discussion, please have someone take notes and h
    * As a junior, what do you do? 
    * As a more senior “technologist” (senior dev, or founder / CTO)
    
-### Closing
+### Closing (5 min)
 Either in a turn and talk or small group discussion
 
 * How will you manage your attention resources while you are here at Turing?  How will you use the "Attention Economy" in your future?
