@@ -1,4 +1,4 @@
-# Group Two
+
  
 ## Session Title: 15 THINGS ABOUT THE ATTENTION ECONOMY (YOU WON’T BELIEVE NUMBER 3)
  
