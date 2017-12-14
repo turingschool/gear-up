@@ -20,7 +20,7 @@ Students should be able to do the following:
 ### Introductions (10 mins)
  * Have everyone say their name, pronouns, mod, and something fun
  
-### Introduce the Attention Economy (15 mins)
+### Introduce the Attention Economy (20 mins)
 
   * Briefly define “Attention Economy”, as the current state of the scarce resource of “Attention” in a world of nearly infinite information.
   * Pose a scenario to the group:
@@ -40,7 +40,7 @@ Please take 5 minutes to write your response to this question:
    * If your attention is a scarce resource, how are you spending it?
   
 
-### Small Group Discussion Time (15 mins)
+### Small Group Discussion Time (20 mins)
 As you go into your small group discussion, please have someone take notes and have someone be ready to share the points of your discussion.  
   * What are some other examples of how you’re susceptible to the ‘attention economy’ that you’ve noticed?  
   * Are there any benefits to the “Attention Economy”?
