@@ -1,6 +1,6 @@
 
  
-## Session Title: 15 THINGS ABOUT THE ATTENTION ECONOMY (YOU WON’T BELIEVE NUMBER 3)
+## Session Title: 15 MIND BLOWING FACTS YOU DIDN'T KNOW ABOUT THE ATTENTION ECONOMY (YOU WON’T BELIEVE NUMBER 3)
 
 ## Session Description: 
 Inspired by Tristan Harris’s research in the “arms race for human attention, the ethics of persuasion, the consequences of having an ad-based economy”, we explore how the attention economy affects us as both users and future developers. 
@@ -18,7 +18,7 @@ Students should be able to do the following:
 ## Session Outline:
 
 ### Introductions (10 mins)
- * Have everyone say their name and mod and something fun
+ * Have everyone say their name, pronouns, mod, and something fun
  
 ### Introduce the Attention Economy (15 mins)
 
@@ -29,7 +29,7 @@ Students should be able to do the following:
 
  * Watch clip from Youtube: https://www.youtube.com/watch?v=50R21mblLb0 (clip is 10 min)
 
-    * The reason these technologies are so successful:
+     * The reason these technologies are so successful:
      * Take advantage of our psychology 
      * Machine learning identifies what we like (even if it’s things that create outrage, actually especially outrage) 
      * Tristian Harris - technology ethicist (inspiration of this gear up) took a class in “Persuasive Technology” during his time at Stanford
