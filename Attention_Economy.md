@@ -12,7 +12,7 @@ Students should be able to do the following:
  
 * Describe the “Attention Economy”
 * Identify the tools used by companies and technologies to capture user attention and how that generates revenue
-* As a user, be able to use technology with and understanding of how they’re being subjected to the “attention economy”
+* As a user, be able to use technology with an understanding of how they’re being subjected to the “attention economy”
 * As a developer, understand your role in developing technologies that contribute to, or take away from, creating tools that pull in users
  
 ## Session Outline:
