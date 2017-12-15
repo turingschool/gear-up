@@ -12,18 +12,18 @@ How to act and what to do fix it?
 
 Session Outline: Include the flow of the session and the time for each section.
 
-0 - 15 minutes: Everyone introduction
+#### 0 - 15 minutes: Everyone introduction
 * We each introduce ourselves
 * We have everyone go around and say what their favorite thing to do on the internet is
-15-25: video & article
+#### 15-25: video & article
 * 7 minutes of this video by John Oliver https://www.youtube.com/watch?v=92vuuZt7wak
 * https://www.inverse.com/article/39338-net-neutrality-startups-innovation-fcc 
-25-35: large group discussion
+#### 25-35: large group discussion
 * The history of telecom regulation - Ben lead
 * Does everyone understand net neutrality? - Team facilitate this discussion as a whole
 * Anyone have questions?
 * Everyone install net neutrality chrome extension and see how it affects users? - Johanan Lead  https://chrome.google.com/webstore/detail/removal-of-net-neutrality/macmdnlopncdoehmjhfenfblflnohoen?hl=en-US
-35-50: Small group discussion to answer questions - Put questions on board. Number off to 4.
+#### 35-50: Small group discussion to answer questions - Put questions on board. Number off to 4.
 * Show 3 bullet points of Net Neutrality on the board 
   - BLOCKING Internet service providers could not discriminate against any lawful content by blocking websites or apps.
   - THROTTLING Service providers could not slow the transmission of data based on the nature of the content, as long as it is legal.
@@ -43,8 +43,8 @@ Session Outline: Include the flow of the session and the time for each section.
 * Who else will this affect?
 * Show this image on the 
 * Who does this benefit? Yohanan hit on why certain people want this.
-50-60: Discuss group answers.  Show this image on the tv https://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg:large
-60-75: Talk about the future and actions we can do 
+#### 50-60: Discuss group answers.  Show this image on the tv https://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg:large
+#### 60-75: Talk about the future and actions we can do 
 * When will we start seeing the affects of this?
 * Congressional Review Act - Robbie lead
 * ACLU, States and others filing lawsuits against FCC - Ben lead
