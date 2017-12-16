@@ -4,7 +4,7 @@
 
 ### Description: Why should students come to this session?
 
-With terms like 'Russian hacking', 'bitcoin', 'net neutrality', 'fake news', and 'tweets' dominating the news cycle, what can we as developers do to help aid in understanding what these buzzwords actually mean. 
+With terms like 'Russian hacking', 'bitcoin', 'net neutrality', and 'fake news' dominating the news cycle, what can we as developers do to help aid in understanding what these buzzwords actually mean. 
 
 ### Session Outcomes: What will students leave with or gain from this session?
 
