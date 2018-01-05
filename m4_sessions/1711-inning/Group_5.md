@@ -18,9 +18,22 @@ Have students introduce themselves, brainstorm technological topics in the news 
 #### Fake news quiz: 5 minutes (John Michael)
 We'll present two different resources on the same topic. One will be legitimate, and one will be regarded as 'fake news'. Students will discuss which is which and why they think so. We can discuss thinking critically when consuming media and the ways in which tech has made 'fake news' more prevalent. How have media presenters changed with the advent of organizations like WikiLeaks and Snopes and the prevalence of bots? How can we discern what's real?
 
-#### Present Resources (articles, video, podcasts): 10 minutes
+#### Present Resources (articles, video): 10 minutes
 Students will read articles/watch videos/listen to podcasts and then journal for 5 minutes.
-(_insert journalling prompt questions relevant to resources here_)
+1. Net Neutrality - 
+  1. How will net neutrality affect general public vs tech industry? 
+  2. What are some examples of tech companies being affected by the repeal of net neutrality?
+  3. What can we do as developers to influence this issue?
+2. Fake News - 
+  1. How did you do on the quiz?
+  2. Were your results surprising? Why? Why not?
+  3. Have you been affected by bots, 'disguised' sponsored content, and fake news?
+  4. How can we educate ourselves and others in order to discern real news from fake news?
+3. Social Media - 
+  1. How have social media networks changed the way you consume media?
+  2. What social media networks do you use? How do you use them (news, social interactions, other media like music)?
+  3. How often do you use these networks? How do you feel if you don't use them as often as you'd like?
+  4. How do you manage sponsored content?
 
 #### Pairs: 10 minutes
 Get in pairs and discuss resources/journalling
@@ -29,7 +42,7 @@ Get in pairs and discuss resources/journalling
 Explain how we feel about some of these buzzword issues, and share our thoughts on how to explain the concepts to a 5 year old. 
 
 ##### Topics/Facilitators
-- Sam - Do we have a responsibility as tech experts to educate and empower the general public? If so, what is our level of responsibility? What good is our industry knowledge if we don't share it? Can we make tech 'less scary,' and more approachable to the layperson?
+- Sam - Do we have a responsibility as tech experts to educate and empower the general public? Why, or why not? If so, what is our level of responsibility? What good is our industry knowledge if we don't share it? Can we make tech 'less scary,' and more approachable to the layperson?
 - Jen - How has tech changed our media consumption? How frequently do we access media? What platforms do we use? What platforms don't exist any more? What about the rise of blogs/vlogs, podcasts, sponsored content, podcasts, etc?
 - Nick - The FCC just voted to dismantle net neutrality rules. How does that affect the future of tech, especially the internet? How will the ways in which we consume media change? Will we return to more physical media? How does this affect us professionally?
 
