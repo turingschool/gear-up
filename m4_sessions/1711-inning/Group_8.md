@@ -19,7 +19,7 @@ Group Eight
 
  ALL 10 minutes - Introductions/Why we decided to provide this Gearup. Share why we think we need this GearUp, what in our own personal journey has caused us to experience. 
  
-Sam 15 Minutes - Students will be provided a difficult coding challenge to see how they respond to it. After the really difficult challenge, we will spend 5 minutes identifying aspects of fixed mindset that they experienced during the code challenge. The idea here is not to "catch" people who are experiencing fixed mindsets, but rather allow everyone to have a shared experience of fixed mindsets and recognize how they behave when they feel challenged.
+Sam 20 Minutes - Students will be provided a difficult coding challenge to see how they respond to it. After the really difficult challenge, we will spend 5 minutes identifying aspects of fixed mindset that they experienced during the code challenge. The idea here is not to "catch" people who are experiencing fixed mindsets, but rather allow everyone to have a shared experience of fixed mindsets and recognize how they behave when they feel challenged.
     -- "What were you feeling during the challenge?"
     -- "What were some behaviors that you experienced during the challenge?"
     -- Having student journal their internal narrative during this code challenge. 
@@ -29,7 +29,7 @@ Francy 10 minutes - Students will identify an area that they are in a fixed mind
     
 Ricky 4 minutes - Modeling the infographic exercise. 
 
-Ricky 16 minutes - Students will pair up with another person and work through the infographic, using the fixed experience that they came up with during the previous activity. Students will take note of what they could have done differently or what techniques they could have employed.
+Ricky 10 minutes - Students will pair up with another person and work through the infographic, using the fixed experience that they came up with during the previous activity. Students will take note of what they could have done differently or what techniques they could have employed.
  
 Francy 8 minutes - Angelela DuckWorth Grit: The Power of Perseverence and Passion.
 
