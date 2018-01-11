@@ -1,7 +1,7 @@
 ## Gear Up Pre-Work
 ### Turing Culture: Developing Empathetic Programmers
 
-**Directions:** Submit your Gear Up Pre-Work reflections in the same gist as the rest of your pre-work. 
+**Directions:** Submit your Gear Up Pre-Work reflections on the pre-work google doc. 
 
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
