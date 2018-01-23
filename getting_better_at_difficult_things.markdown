@@ -22,3 +22,7 @@ What can and will you do to use these ideas to improve your experience as a lear
 
 ## Survey (5 min)
 Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeeCstoM3u-YKiDsLn214zxZX1VbrTw7EDSeugnLFhN-3m4qg/viewform) about your takeaways from today's session.
+
+
+## Additional Resources:
+https://www.greaterthancode.com/podcast/episode-038-category-theory-for-normal-humans-with-eugenia-cheng/
