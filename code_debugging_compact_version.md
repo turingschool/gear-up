@@ -50,7 +50,7 @@ Discussion: (8 min)
 
 
 ## Part 2
-Clip:15:26-32:25 (8 min)
+Clip:15:26-32:25 (17 min)
 
 Discussion (10 min)
 
