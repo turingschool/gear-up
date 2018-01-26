@@ -15,3 +15,5 @@ Finding The Right Fit
 - Emily Wise
 - Erica 
 - Samuel Singer
+
+@emhickmann
