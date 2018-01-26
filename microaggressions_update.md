@@ -250,7 +250,7 @@ Share in small groups or in whole group
 
 1) What are you taking away from this session?
 
-2) What are the lenses that you need to become more aware of in order to interrupt microagressions? 
+2) What are the lenses that you need to become more aware of in order to interrupt microaggressions? 
 
 
 ## Resources
