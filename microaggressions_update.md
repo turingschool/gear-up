@@ -1,4 +1,4 @@
-# Microagressions 
+# Microaggressions 
 
 ### (Updated 1hr and 15 min)
 
@@ -9,7 +9,7 @@ Print Full Role Play List for students prior to the session [Full Role Play List
 
 ## Intro (8 min)
 
-We are going to spend today discussing microagressions and specifically discussing how we can build our skill at being able to interrupt microaggressions.  We began discussing this in Mod 1 when we watched Code: Debugging the Gender Gap.  In that movie, we heard the phrase from Megan Smith, "Death by 1,000 cuts."  At Turing, we see microagressions happen daily.  Today we will look at a set of scenarios that have happened on our campus with our well intentioned students and staff that care about inclusion.  We all commit microagressions, yet we have never been taught the skills of how to discuss or interrupt them.
+We are going to spend today discussing microaggressions and specifically discussing how we can build our skill at being able to interrupt microaggressions.  We began discussing this in Mod 1 when we watched Code: Debugging the Gender Gap.  In that movie, we heard the phrase from Megan Smith, "Death by 1,000 cuts."  At Turing, we see microaggressions happen daily.  Today we will look at a set of scenarios that have happened on our campus with our well intentioned students and staff that care about inclusion.  We all commit microaggressions, yet we have never been taught the skills of how to discuss or interrupt them.
 
 
 
@@ -38,17 +38,17 @@ We are going to agree to a set of norms for this conversation so that we can get
 
 Key Points:
 
-    * In our society, white people often were taught not to talk about race or to be color blind, where as people of color have to talk about race on a daily basis.
+    * In our society, white people often were taught not to talk about race or to be color blind, whereas people of color have to talk about race on a daily basis.
     
     * How our parents or family talk about difference impacts how we talk about difference.
     
-    * No where in our education system do we help all people build skill to navigate difference.  It's pretty hard to be good at something that you never practice.  Therefore we continually avoid the things we are not good at, which only makes it harder to discuss.
+    * Nowhere in our education system do we help all people build skill to navigate difference.  It's pretty hard to be good at something that you never practice.  Therefore we continually avoid the things we are not good at, which only makes it harder to discuss.
     
 
 
 ## Microaggression (5 min)
 
-A microagression is a brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative slights and insults towards marginalized groups.
+A microaggression is a brief and commonplace daily verbal, behavioral, or environmental indignity, whether intentional or unintentional, that communicates hostile, derogatory, or negative slights and insults towards marginalized groups.
 
 Pair Share: 
 
@@ -57,9 +57,9 @@ Pair Share:
 * Why are these harmful?  
 
 
-## Every Day Microagressions (4 min)
+## Every Day Microaggressions (4 min)
 
-Here are a few comments that would considered microagressions.  
+Here are a few comments that would considered microaggressions.  
 
 * "Diversity is important, but we won't lower the bar."
 
@@ -70,11 +70,11 @@ Here are a few comments that would considered microagressions.
 What is harmful about these statements?  
 
 
-*Generally speaking, when identifying microaggressions Sue considers it best to believe the one who perceives the bias. “Almost all of the studies indicate that the people who are most disempowered have the most accurate perception of a situation of bias because people who have power don’t need to understand the situation in order to do well,” he says.
+*Generally speaking, when identifying microaggressions Dr. Derald Sue considers it best to believe the one who perceives the bias. “Almost all of the studies indicate that the people who are most disempowered have the most accurate perception of a situation of bias because people who have power don’t need to understand the situation in order to do well,” he says.
 
 Read more at: http://www.nationalreview.com/article/370078/microaggression-alec-torres
 
-## Where do microagressions come from? (3 min)
+## Where do microaggressions come from? (3 min)
 
 | Structural/Laws        | Social          
 | ------------- |:-------------:| 
@@ -85,7 +85,7 @@ Read more at: http://www.nationalreview.com/article/370078/microaggression-alec-
 | Immigration   | biases      |  
 
 
-<i> Historically, we have a the United States was created with laws that systematically oppressed certain groups of people.  Though we might not all have grown up here, we ALL are a part of today's society that has been formed from that history.  We ALL have a part to change things that we do not feel are providing an equal opportunity for everyone.  If we do not interupt this cycle, we are more likely to stay in segregated communities or social circles that continue to deepen the biases that we have developed.  </i>
+<i> Historically, the United States was created with laws that systematically oppressed certain groups of people.  Though we might not all have grown up here, we ALL are a part of today's society that has been formed from that history.  We ALL have a part to change things that we do not feel are providing an equal opportunity for everyone.  If we do not interrupt this cycle, we are more likely to stay in segregated communities or social circles that continue to deepen the biases that we have developed.  </i>
 
 We also know that there are different types of experiences that will increase our dependence on bias and stereotypes.  
 
@@ -93,7 +93,7 @@ We also know that there are different types of experiences that will increase ou
 
 Stressed
 
-Financial strained
+Financially strained
 
 Sleep deprived
 
@@ -105,13 +105,13 @@ Lonely
 
 * Does this sound like Turing? *
 
-## Interruping Microagressions (5 min)
+## Interruping Microaggressions (5 min)
 
 Pair Share: 
 
-* What is challenging about interrupting microagressions? 
+* What is challenging about interrupting microaggressions? 
 
-Challenges to interrupting microagressions (in addition to the ones the group discusses):
+Challenges to interrupting microaggressions (in addition to the ones the group discusses):
 
 	Lack of power or privilege
 	
@@ -129,7 +129,7 @@ Challenges to interrupting microagressions (in addition to the ones the group di
 	
 	
 	
-It can be important to think about how to interrupt a microagression from two different perspectives. As a TARGET and as an ALLY.  Often times it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the sitaution with the target before stepping in as an ally.
+It can be important to think about how to interrupt a microaggression from two different perspectives. As a TARGET and as an ALLY.  Oftentimes it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the sitaution with the target before stepping in as an ally.
 
 
 <b> Consider Context:  Should you address the person in the immediate group/situation or ask them to a 1:1 conversation? </b>
@@ -138,7 +138,7 @@ It can be important to think about how to interrupt a microagression from two di
 	
 		I noticed you said X...
 		
-		Though it probably wasn't your impact, that made me feel... 
+		Though it probably wasn't your intent, but that made me feel... 
 			OR If I were a ______ that would might make me feel..
 		
 		Can you tell me more about why you said that?  
@@ -151,7 +151,7 @@ It can be important to think about how to interrupt a microagression from two di
 
 ##  Accepting feedback (2 min)
 
-We all commit microagressions because it is part of how we are socialized, how we were brought up, how our country was formed.  As you become more aware, you will commit less microagressions and be able to interrupt the cycle more consistently.  If you do get feedback that you committed a microagression, remember:
+We all commit microaggressions because it is part of how we are socialized, how we were brought up, how our country was formed.  As you become more aware, you will commit fewer microaggressions and be able to interrupt the cycle more consistently.  If you do get feedback that you committed a microaggression, remember:
 
 	Accept it. 
 	
@@ -165,7 +165,7 @@ We all commit microagressions because it is part of how we are socialized, how w
 
 ## Role Play (10 min)
 
-Form groups of 3 or 4.  For each role play, allow the ally to interrupt the microagression first.  Then role play again and allow the target to interrupt the microagression.  Reflect on the process once you have both responded. 
+Form groups of 3 or 4.  For each role play, allow the ally to interrupt the microaggression first.  Then role play again and allow the target to interrupt the microaggression.  Reflect on the process once you have both responded. 
 
 
 <b> Scenario 1  </b>
