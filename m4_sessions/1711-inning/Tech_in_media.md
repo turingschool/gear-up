@@ -20,7 +20,21 @@ We'll present two different resources on the same topic. One will be legitimate,
 
 #### Present Resources (articles, video, podcasts): 10 minutes
 Students will read articles/watch videos/listen to podcasts and then journal for 5 minutes.
-(_insert journalling prompt questions relevant to resources here_)
+
++1. Net Neutrality - 
+ +  1. How will net neutrality affect general public vs tech industry? 
+ +  2. What are some examples of tech companies being affected by the repeal of net neutrality?
+ +  3. What can we do as developers to influence this issue?
+ +2. Fake News - 
+ +  1. How did you do on the quiz?
+ +  2. Were your results surprising? Why? Why not?
+ +  3. Have you been affected by bots, 'disguised' sponsored content, and fake news?
+ +  4. How can we educate ourselves and others in order to discern real news from fake news?
+ +3. Social Media - 
+ +  1. How have social media networks changed the way you consume media?
+ +  2. What social media networks do you use? How do you use them (news, social interactions, other media like music)?
+ +  3. How often do you use these networks? How do you feel if you don't use them as often as you'd like?
+ +  4. How do you manage sponsored content?
 
 #### Pairs: 10 minutes
 Get in pairs and discuss resources/journalling
