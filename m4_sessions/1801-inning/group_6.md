@@ -1,13 +1,19 @@
-Group 6
+# Group Six
 
+### Session Title: 
+Finding The Right Fit
 
-Group Members:
+### Session Outcomes:
+- Speaking about the differences of a start-up, mid-size, large company
+- Strategies how you can develop an idea of cultural fit
 
-Name of Session:
+### Session Outline:
+- Brainstorming various ideas for cultural fit 
 
-Session Description (Why should students come to this session):
+### Names of group members: 
+- Aurora Zioborowski
+- Emily Wise
+- Erica 
+- Samuel Singer
 
-Session Outcomes (What will students learn/leave with?):
-
-Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
-
+@emhickmann
