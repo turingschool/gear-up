@@ -29,7 +29,8 @@ Read and interact with [Parable of the Polygons: A Playable Post on the Shape of
 **3.** Small individual "anti-biases" can address systemic biases.  
 
 
-## Write (15 min)
+## Write (10 min)  
+### Facilitator, please write at least two of these questions on the board that you'd like the group to discuss
 
 We'll explore the concepts from *Parable of the Polygons (PotP)*  within the context of diversity in tech.
 
