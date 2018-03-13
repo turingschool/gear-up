@@ -56,7 +56,7 @@ Ultimately, today's conversation should lead to individuals' ability to connect 
 
 ## Setup
 
-Chairs and tables available for small group discussions. Students start out seated in their groups.  Print the statements and reflection questions for students.  
+Chairs and tables available for small group discussions. Students start out seated in their groups.  Print the statements and reflection questions for students. [Print](https://docs.google.com/document/d/13rXmM8pduOoASfqxxg9n_JEvwfnDWG4YHlOUUxpH71U/edit?usp=sharing)
 
 
 ## Introductions (10 min)
