@@ -56,7 +56,7 @@ Ultimately, today's conversation should lead to individuals' ability to connect 
 
 ## Setup
 
-Chairs and tables available for small group discussions. Students start out seated in their groups.
+Chairs and tables available for small group discussions. Students start out seated in their groups.  Print the statements and reflection questions for students.  
 
 
 ## Introductions (10 min)
@@ -64,7 +64,13 @@ Chairs and tables available for small group discussions. Students start out seat
 The facilitator will kick off the session by reviewing the overview described above. After that overview, small groups will do whip around to each member: every individual should share briefly how they're feeling (concerns about the session, lunch coma, TGIF).
 
 ## Session overview (5 min)
-Walk through the session overview (above) and what you will do today.
+Walk through the session overview (above) and what you will do today. Before we begin, we want to make sure that we have some norms for the conversation.  Everyone has different experiences and different perspectives.  As we start to engage, we should agree to a few things:
+
+  * Believe first (Believe someone's story.  Instead of saying, "I'm sure they didn't mean that..." you can say, "I'm sorry that happened.  Would you be comfortable sharing more?")
+  * Use I statements (These are your experiences)
+  * Assume the positive of others
+  * Ask follow up questions
+  * Confidential (Your conversations stay in this room)
 
 ## Privilege Statements and Reflection (15 min)
 
@@ -140,7 +146,6 @@ Review the following list of statements that describe the different ways people 
 *   ___ You feel respected for your academic performance.
 *   ___ You have difficulty learning without visuals.
 
-*   ___ You often feel that your parents are too busy to spend time with you.
  -->
 
 ### Reflection Questions
@@ -165,4 +170,9 @@ When there are about 10 minutes left, the facilitator will announce the final pr
 
 ## Final Reflection (10 min)
 
-We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  
+We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  As we close out, take a few minutes to write in your notebook and respond to these prompts:
+ 
+  * What are you taking away from this session?
+  * What perspectives did you hear today that make you think differently or challenged you?
+ 
+ Facilitator:  Close with a few final thoughts to summarize the group discussion
