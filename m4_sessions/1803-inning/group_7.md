@@ -15,15 +15,25 @@ Unseen common ground
 
 Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
 1:15
-10m - Short Introduction (why this is important)
-5m (15) - Explain Bingo
-10m (25) - Bingo card of things you've done, find your matches
-5m (30) - Explain Observation Connection
-10m (40) - Observation Connection (someone you know or don't know)
-5m (45) - Explain Finding New Common Ground
-10m (55) - Find someone you know and find new common ground
-5m (60) - Cultivating Common Ground
 
+10m - Short Introduction (why this is important) - Gabe
+
+10m (20) - 2.times {find.obscure_connection(person_1, person_2)} - Max
+
+5m (25) - Explain Observation Connection - Tyler
+
+10m (35) - Observation Connection (someone you know or don't know)
+
+4m - (39) Be Charming when talking about ourselves: 
+Video (https://www.youtube.com/watch?v=ldmPgQZ52Ec)
+
+10m - (49) Discussion about video, where do you draw the lines?
+
+5m (54) - Explain Finding New Common Ground - Lauren
+
+10m (65) - Find someone you know and find new common ground
+
+5m (70) - Cultivating Common Ground Summary
 
 Submit by the end of Gear Up on Friday and tag @emhickmann
 
