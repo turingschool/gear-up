@@ -24,12 +24,14 @@ Session Outcomes (What will students learn/leave with?):
 
 Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
 
-Intro/Icebreaker (10 min)
-Play fake news game? (10 min)
-What is fake news? video/discuss (10 min)
-How it impacts our society? discuss/examine (15 min)
-Spotting fake news. exercise/discussion (15 min)
-Future of fake news/wrapup. discussion (15 min)
+*Intro/Icebreaker (10 min) - All Group
+*What harm/good does fake news do? video/discuss (15 min) All Group
+*Spotting fake news. exercise/discussion (15 min) - Nico
+*Play fake news game? (15 min) - Bruce
+*Discussion of our role in combatting fake news (10 min) - Group
+*Future of fake news/wrapup. discussion (10 min) - Alex
+
+[Link to Powerpoint](https://docs.google.com/presentation/d/1DdmnINc6Ga-jb0jH86S4xIOwQyy2_Rppkf-puqNrTec/edit)
 
 
 Submit by the end of Gear Up on Friday and tag @emhickmann
