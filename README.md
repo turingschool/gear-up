@@ -5,73 +5,58 @@ Turing's mission is to unlock human potential by training a diverse, inclusive s
 
 In order to advance this mission and vision, our curriculum transcends technical training. We also present students with opportunities to grow as individuals, members of a team, and members of a community. 
 
-Gear Up provides a forum for students to develop self-awareness and interpersonal skills. 
+Gear Up provides a forum for students to develop self-awareness, interpersonal skills, and gain awareness of the issues preventing tech from being an inclusive space. 
+
 * Curriculum spans 4 modules
-* Each module includes 3 Gear Up sessions, one each on personal growth, team dynamics, and social responsibility
-* Sessions are targeted at developing specific student competencies in each area
+* Each module includes 3 Gear Up sessions
+* Sessions are targeted at developing personal awareness in Mod 1.  Mod 2 and 3 are focused on the interpersonal relationships and how to navigate personal privlege and power. Mod 4 provides students the opportunity to create sessions on issues that they personally care about.  Mod 4 students brainstorm, create, and facilitate gear ups for the entire school community. 
+
 
 <table>
   <tr>
-    <th>Theme</th>
-    <th>Competencies</th>
-    <th>Session Names</th>
+    <th>Module</th>
+    <th>Sessions</th>
   </tr>
   <tr>
-    <td>Individual</td>
+    <td>Mod 1</td>
     <td>
       <ul>
-        <li>Self-awareness</li>
-        <li>Strategies for managing stress</li>
-        <li>Comfort with being uncomfortable</li>
-        <li>Self-efficacy</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Strengths Assessment</li>
-        <li>Learning Difficult Things</li>
-        <li>Resilience</li>
-        <li>Vulnerability</li>
+        <li>Week 1: Mental Health 101</li>
+        <li>Week 2: Working Styles</li>
+        <li>Week 3: Code Debugging The Gender Gap</li>
+        <li>Week 5: Choice Session, Mod 4 facilitated</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>Teamwork</td>
+    <td>Mod 2</td>
     <td>
       <ul>
-        <li>Work with diverse set of personality and communication styles</li>
-        <li>Developing empathy for people who are different</li>
-        <li>Developing tactics to deal with conflict</li>
-        <li>Developing courage to use tactics to deal with conflict</li>
-        <li>Managing and participating in team continuous improvement</li>
+        <li>Week 1: Empathy</li>
+        <li>Week 3: Rotation session, combined with Mod 3</li>
+        <li>Week 5: Choice Session, Mod 4 facilitated</li>
       </ul> 
-    </td>
+  </tr>
+  <tr>
+    <td>Mod 3</td>
     <td>
       <ul>
-        <li>Feedback and Difficult Conversations</li>
-        <li>Communication (identifying different styles, gender and micro-aggression subtext)</li>
-        <li>Effective retrospectives</li>
-        <li>Agile team management (Agile and Kanban)</li>
+        <li>Week 1: Microagressions</li>
+        <li>Week 3: Rotation session, combined with Mod 3</li>
+        <li>Week 5: Choice Session, Mod 4 facilitated</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>Community</td>
+    <td>Mod 4</td>
     <td>
       <ul>
-        <li>Communicating a contrary opinion</li>
-        <li>Holding space for controversial conversations</li>
-        <li>Applying self-awareness and adapting to community needs</li>
-        <li>Demonstrating leadership in your ability to facilitate difficult conversations</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Gender and Affirmative Action</li>
-        <li>Income Inequality</li>
-        <li>Tragedy of the Commons: Voting, Sustainability, Cleaning</li>
-        <li>GearUp and Social Justice Agenda</li>
+        <li>Week 1: Create your own gear up</li>
+        <li>Week 3: Createa your own gear up</li>
+        <li>Week 5: Facilitate gear up session</li>
       </ul>
     </td>
   </tr>
 </table>
+
+Rotation sessions:  Group Think, Attention Economy, Tragedy of the Commons, Getting Better at Difficult Things
