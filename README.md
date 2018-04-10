@@ -42,7 +42,7 @@ Gear Up provides a forum for students to develop self-awareness, interpersonal s
     <td>
       <ul>
         <li>Week 1: Microagressions</li>
-        <li>Week 3: Rotation session, combined with Mod 3</li>
+        <li>Week 3: Rotation session, combined with Mod 2</li>
         <li>Week 5: Choice Session, Mod 4 facilitated</li>
       </ul>
     </td>
