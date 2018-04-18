@@ -22,7 +22,6 @@ Gear Up provides a forum for students to develop self-awareness, interpersonal s
     <td>
       <ul>
         <li>Week 1: Mental Health 101</li>
-        <li>Week 2: Working Styles</li>
         <li>Week 3: Code Debugging The Gender Gap</li>
         <li>Week 5: Choice Session, Mod 4 facilitated</li>
       </ul>
