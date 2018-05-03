@@ -166,7 +166,9 @@ Once finished reviewing the list, write in your notebook on these questions.
 
 We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
 
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. As a group, identify 4-5 scenarios in which you've observed students in your class experiencing similar types of disparities. How well do you think you've done as individuals and as a group to mitigate these disparities when possible or stay connected when they occur?_  Take time to share out some examples from the group.
+When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continute to be aware of these as we work together to crewate a more inclusive environment?
+
+Take time to share out some reflections from the group and share any reflections you have from the conversations.
 
 ## Final Reflection (10 min)
 
