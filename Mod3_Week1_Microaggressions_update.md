@@ -25,6 +25,8 @@ We are going to agree to a set of norms for this conversation so that we can get
 	Speak from your own experience
 	
 	Ask questions instead of assuming
+	
+	Take this seriously...jokes are not funny in this space
 
 
 ## Small Group Discussion (8 min)
