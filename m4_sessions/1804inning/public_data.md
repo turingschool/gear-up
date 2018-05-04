@@ -26,9 +26,10 @@ TBD
 * What classifies data as "public"
 * What is an API? 
 
-**Questions**(5 minutes)
+**Open Questions**(5 minutes)
  
 **Breakout** (7 minutes)
+(4 small groups: each group discusses one of the following questions)
 * What kind of problems could you solve with civic tech?
 * Where can you find public data?
 * What barriers are there to access for the public data?
@@ -37,12 +38,14 @@ TBD
 **Whole Group Share**(10 minutes)
 
 **Breakout**(10 minutes)
+(4 small groups)
  * Think of a problem that could be solved with public data
  * How you might attack the problem?
 
 **Whole Group Share**(10 minutes)
   
 **Breakout**(10 minutes)
+(4 small groups: each group is given a civic tech project to research)
  * Civic tech projects (TBD)
  * What problem were they trying to solve?
  * Who does it help and how?
