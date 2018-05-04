@@ -1,18 +1,16 @@
 # Health and Wellness
 
-### [PPT](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit)
+### [Slides for the session](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit)
 
 ## Opening
 
 As adults, we have all been in stressful situations before.  Most of us have not done an immersive program in a basement with no windows before.  We know that this type of enviornment can push you to your stress limits.  Even if you have managed stress well in the past, it is important to reflect on what has been working and what you might need to improve while you are here.
-
 
 ## Turn and Talk  (5 min)
 
 When did you last feel stressed?
 
 What happens to you when you are stressed?
-
 
 ## What is Stress? (2 min)
 
@@ -30,15 +28,16 @@ What happens when we stress ourselves?
 * Tire popped
 * Glass overflowed
 
-These are not generally positive metaphors
+These are not generally positive metaphors. 1 in 5 people annually experience a mental health crisis (49 million adults, 15 million children) NAMI; CDC. *It’s okay to have limits.* 
+
 
 ##  Types of stress (2 min)
 
 * Eustress: moderate or normal psychological stress interpreted as being beneficial for the experiencer
 * Distress: extreme anxiety, sorrow, or pain
 * Acute Stress:  in response to a terrifying or traumatic event, or witnessing a traumatic event that induces a strong emotional response within the individual
-* Eposodic Acute Stress: the stress which affects those who suffer from acute stress more frequently. People that tend suffer from this always seem to be in a rush, They take too much on and tend not to be able to organise themselves to deal with demands and pressures
-* Chronic Stress: response to emotional pressure suffered for a prolonged period of time in which an individual perceives he or she has little or no control. It involves an endocrine system response in which corticosteroids are released.
+* Eposodic Acute Stress: the stress which affects those who suffer from acute stress more frequently. People that tend suffer from this always seem to be in a rush. They take too much on and tend not to be able to organize themselves to deal with demands and pressures.
+* Chronic Stress: response to emotional pressure suffered for a prolonged period of time in which an individual perceives they have little or no control. It involves an endocrine system response in which corticosteroids are released.
 * Traumatic Stress: reactive anxiety and depression
 
 Albrecht's Four Types
@@ -79,12 +78,12 @@ Quick Tips:
 	Listen to your body.
 	Breathe.
 	Implement resiliency mindsets.
+	
+Demo: What options do we have when we're under pressure?
+* What freedom/strength can you draw from?
+* Connect to hypo vs. hyper-arousal. What will this look like depending on the state you might be in at a given time? When do you feel stuck? If I brace against this force, am I able to move? 
 
-## Turn and Talk (5 min)
-
-How would you rate your own stress resilience?
-
-How have you been able to manage stress at Turing?
+Your brain influences your body on a constant feedback loop, and in return, your body is able to influence your brain too.
 
 ## Stress and the Brain (3 min)
 
@@ -153,7 +152,16 @@ Let's create our own self-care kits now. Take a gallery walk around the room to 
 * What works for you?
 * What can you create at Turing?
 
-## Research on Mindfulness (3 min)
+## Reflection (5 min)
+
+* What ways can you improve your self care?
+* What is ONE thing you will commit to doing/improving next week in regards to your self care?
+* How will you help your buddy? How can they help you?
+
+Turn & Talk with your buddy to share your thoughts. 
+
+## Closing: Relating Back to Why
+### Research on Mindfulness (3 min)
 Being intentional in taking care of your wellness is practicing mindfulness
 
 	Impact of Dr.’s who practice mindfulness
@@ -166,10 +174,4 @@ Being intentional in taking care of your wellness is practicing mindfulness
 	“Neural Self-Hacking”
 	“Search Inside Yourself” training
 
-## Reflection (5 min)
 
-What would need to happen for you to be able to implement stress management techniques?
-
-What ways can you improve your self care?
-
-What is ONE thing you will commit to doing/improving next week?
