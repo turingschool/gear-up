@@ -2,17 +2,17 @@
 
 ### [Slides for the session](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit)
 
-## Opening
+### Opening
 
 As adults, we have all been in stressful situations before.  Most of us have not done an immersive program in a basement with no windows before.  We know that this type of enviornment can push you to your stress limits.  Even if you have managed stress well in the past, it is important to reflect on what has been working and what you might need to improve while you are here.
 
-## Turn and Talk  (5 min)
+### Turn and Talk  (5 min)
 
 When did you last feel stressed?
 
 What happens to you when you are stressed?
 
-## What is Stress? (2 min)
+### What is Stress? (2 min)
 
 Webster Definition:
 	
@@ -20,9 +20,9 @@ Webster Definition:
 	
 	A physical, chemical, or emotional factor that causes bodily or mental tension and may be a factor in disease causation…
 
-## Metaphors for Stress (2 min)
+### Metaphors for Stress (2 min)
 
-What happens when we stress ourselves?
+What happens when we stress ourselves? What kinds of metaphors are these:
 
 * Our balloon has popped
 * Tire popped
@@ -30,8 +30,7 @@ What happens when we stress ourselves?
 
 These are not generally positive metaphors. 1 in 5 people annually experience a mental health crisis (49 million adults, 15 million children) NAMI; CDC. *It’s okay to have limits.* 
 
-
-##  Types of stress (2 min)
+###  Types of stress (2 min)
 
 * Eustress: moderate or normal psychological stress interpreted as being beneficial for the experiencer
 * Distress: extreme anxiety, sorrow, or pain
@@ -45,8 +44,18 @@ Albrecht's Four Types
 	Anticipatory Stress
 	Situational Stress
 	Encounter stress
+
+### Stress and the Triune Brain (3 min)
+
+Stress starts in our lower spine and moves up our spinal cord:
+
+* Hind Brain/Survival Brain: Flight, fight, or freeze instincts live here. For someone who develops PTSD, the reaction stems from a feeling that the initial stimulus is still present.
+* Mid Brain/Emotional Brain: Where you are able to process emotion and can engage in your senses. If a negative emotion comes up, we might still revert to our survival brain.
+* Frontal Cortex: This is our thinking brain, where we're able to plan and organize a response to stimuli. However, when we feel less safe, our blood can recede back to the hind brain.
+
+If we don't manage our stress, we can't move into the mid brain or frontal cortext.
 	
-## Measuring Stress (2 min)
+### Measuring Stress (2 min)
 
 What happens to your body when you get stressed out?
 
@@ -57,41 +66,11 @@ Physiology
 	Blood Pressure
 	Cortisol levels
 	
-Stress Inventory
+These inventories can help you understand your stress over time:
+* [The Holmes-Rahe Stress Inventory](https://www.stress.org/holmes-rahe-stress-inventory/)
+* [Ace Inventory](https://www.ncjfcj.org/sites/default/files/Finding%20Your%20ACE%20Score.pdf)
 
-Ace Inventory
-
-## Stress Resilience (2 min)
-
-Protective Factors
-
-	Nature Exposure
-	Positive Relationships
-	Centering Practices
-	Time for Rest and Recovery
-
-## Stress Management (2 min)
-
-Quick Tips:
-
-	Recognize stress for what it is.
-	Listen to your body.
-	Breathe.
-	Implement resiliency mindsets.
-	
-Demo: What options do we have when we're under pressure?
-* What freedom/strength can you draw from?
-* Connect to hypo vs. hyper-arousal. What will this look like depending on the state you might be in at a given time? When do you feel stuck? If I brace against this force, am I able to move? 
-
-Your brain influences your body on a constant feedback loop, and in return, your body is able to influence your brain too.
-
-## Stress and the Brain (3 min)
-
-Stress starts in our lower spine and moves up our spinal cord
-
-Gets stopped in the survival brain.  If we don't manage our stress, we can't move into the mid brain or frontol cortext. 
-
-## Window of Tolerance - Monitor your levels (3 min)
+### Window of Tolerance - Monitor your levels (3 min)
 Using the hand-outs, get a sense of how the window of tolerance operates for you.
 
 	Food & Nutrition
@@ -107,26 +86,53 @@ Using the hand-outs, get a sense of how the window of tolerance operates for you
 	
 	HALT: Hungry, Angry, Lonely, Tired
 	
-## Regulation Interventions (1 min)
+### Regulation Interventions (1 min)
 
 	Play
 	Nature
 	Mindfulness
 	Relationships
+
+### Stress Resilience (2 min)
+
+Protective Factors
+
+	Nature Exposure
+	Positive Relationships
+	Centering Practices
+	Time for Rest and Recovery
+
+### Stress Management (2 min)
+What is in your **locus of control**?
+
+Quick Tips:
+
+	Recognize stress for what it is.
+	Listen to your body.
+	Breathe.
+	Implement resiliency mindsets.
 	
-## Reflection:  Written (5 min)
+Demo: What options do we have when we're under pressure?
+* What freedom/strength can you draw from?
+* Connect to hypo vs. hyper-arousal. What will this look like depending on the state you might be in at a given time? When do you feel stuck? If I brace against this force, am I able to move? 
 
-1) How have you been monitoring your window of Tolerance?  
+Your brain influences your body on a constant feedback loop, and in return, your body is able to influence your brain too.
+	
+### Reflection (8 min)
 
-2) Do you have specific categories you need to focus on while at Turing?
+* Fill out your window of tolerance worksheet for the past week 
+* How did you feel when you came into this community? How do you feel at the end of week 1?
+* What steps will you need to take to monitor your window of tolerance? 
+* Do you have specific categories you need to focus on while at Turing?
+* Optional: Try out the pressure exercise
 
-## Pomodoro (5 mins)
+### Pomodoro (5 mins)
 
 ## Stress and Self Care In Tech (4 mins)
+What do we think stress/mental health looks like in the tech industry? How can we change that narrative?
 
 * Norms
 * Values
-* What do we want this to look like?
 
 Suggestions:
 
@@ -136,7 +142,7 @@ Suggestions:
 * Sleep is designed for helping you process
 * You can only do as much as you can do
 
-## Break Out Groups (10 mins)
+### Break Out Groups (10 mins)
 We'll break into groups now to come up with some potential action steps to help in 1 of the following areas during Turing to create a self-care kit:
 
 * Mental Self Care
@@ -145,20 +151,24 @@ We'll break into groups now to come up with some potential action steps to help 
 * Spiritual/Mindful Self Care
 * Emotional Self Care
 
-## Debrief on Self-Care Toolkits (10 min)
+### Debrief on Self-Care Toolkits (10 min)
 Let's create our own self-care kits now. Take a gallery walk around the room to see what's been listed and answer the following questions to create your own self-care kits:
 
 * What are your stressors or triggers?
 * What works for you?
 * What can you create at Turing?
 
-## Reflection (5 min)
+**Whole Group Share Out:** 
+* What are some takeaways from the gallery walk?
+* As a community, what can you be mindful of in regards to self-care that you can help each other with?
+
+### Reflection (5 min)
 
 * What ways can you improve your self care?
 * What is ONE thing you will commit to doing/improving next week in regards to your self care?
 * How will you help your buddy? How can they help you?
 
-Turn & Talk with your buddy to share your thoughts. 
+Turn & Talk with your accountabilibuddy to share your thoughts. 
 
 ## Closing: Relating Back to Why
 ### Research on Mindfulness (3 min)
@@ -173,5 +183,10 @@ Being intentional in taking care of your wellness is practicing mindfulness
 	Stress Resilience
 	“Neural Self-Hacking”
 	“Search Inside Yourself” training
+	
+Reminders throughout the module:
+* Slackbot
+* Articles
+* Videos
 
 
