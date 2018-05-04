@@ -2,6 +2,13 @@
 
 ### [Slides for the session](https://docs.google.com/presentation/d/1udbQS8rNQX0aM0dtxHerV30W7HGVGOcWfqOpDKVVcts/edit)
 
+Session Timeframe: 75 mins.
+
+* Opening/Turn & Talk (6 mins)
+* Background on stress (
+* Window of Tolerance (
+
+
 ### Opening
 
 As adults, we have all been in stressful situations before.  Most of us have not done an immersive program in a basement with no windows before.  We know that this type of enviornment can push you to your stress limits.  Even if you have managed stress well in the past, it is important to reflect on what has been working and what you might need to improve while you are here.
