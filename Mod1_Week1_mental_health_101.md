@@ -5,9 +5,12 @@
 Session Timeframe: 75 mins.
 
 * Opening/Turn & Talk (6 mins)
-* Background on stress (
-* Window of Tolerance (
-
+* Background on stress (12 mins)
+* Window of Tolerance & Reflection (20 mins)
+* Pomodoro (5 mins)
+* Self-Care Discussions (24 mins)
+* Reflection & Accountabilibuddies (6 mins)
+* Closing (2 mins)
 
 ### Opening
 
@@ -94,6 +97,7 @@ Using the hand-outs, get a sense of how the window of tolerance operates for you
 	HALT: Hungry, Angry, Lonely, Tired
 	
 ### Regulation Interventions (1 min)
+Reference the hand-out
 
 	Play
 	Nature
@@ -109,7 +113,7 @@ Protective Factors
 	Centering Practices
 	Time for Rest and Recovery
 
-### Stress Management (2 min)
+### Stress Management (6 min)
 What is in your **locus of control**?
 
 Quick Tips:
@@ -169,7 +173,7 @@ Let's create our own self-care kits now. Take a gallery walk around the room to 
 * What are some takeaways from the gallery walk?
 * As a community, what can you be mindful of in regards to self-care that you can help each other with?
 
-### Reflection (5 min)
+### Reflection (6 min)
 
 * What ways can you improve your self care?
 * What is ONE thing you will commit to doing/improving next week in regards to your self care?
@@ -178,7 +182,7 @@ Let's create our own self-care kits now. Take a gallery walk around the room to 
 Turn & Talk with your accountabilibuddy to share your thoughts. 
 
 ## Closing: Relating Back to Why
-### Research on Mindfulness (3 min)
+### Research on Mindfulness (2 min)
 Being intentional in taking care of your wellness is practicing mindfulness
 
 	Impact of Dr.’s who practice mindfulness
