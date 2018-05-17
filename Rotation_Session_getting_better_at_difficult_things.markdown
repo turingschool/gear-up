@@ -3,6 +3,9 @@
 ## Introduction
 As we watch Kathy Sierra's video and read Ta-Nehisi Coates' article, pay attention to both presenters' assumptions about your agency as a learner. What new ideas do they introduce about 1) your awareness of your learning experience, 2) the efficacy of your learning experience, 3) and your overall mindset as a learner?
 
+## Quick Intro (5 min)
+Do something fun with your group...your choice!
+
 ## Video (25 min)
 Together, we'll watch Kathy Sierra's keynote from [Fluent Conf 2015](https://www.youtube.com/watch?v=FKTxC9pl-WM). You should take notes!
 
@@ -20,9 +23,9 @@ As a group, discuss your answers to the questions above.
 
 What can and will you do to use these ideas to improve your experience as a learner here at Turing?
 
-## Survey (5 min)
-Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeeCstoM3u-YKiDsLn214zxZX1VbrTw7EDSeugnLFhN-3m4qg/viewform) about your takeaways from today's session.
+## Whole group share (10 min)
 
+Share out key ideas with the entire group
 
 ## Additional Resources:
 https://www.greaterthancode.com/podcast/episode-038-category-theory-for-normal-humans-with-eugenia-cheng/
