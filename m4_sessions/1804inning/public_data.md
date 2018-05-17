@@ -20,20 +20,21 @@ Discussing and Engaging with material and others on what civic tech and public d
 **Ice Breakers** (7 minutes)
 TBD
 
-**Intro** (10 minutes)
-* What is Civic Tech?
-* Real examples of how people have used and are using public data for civic tech
-* What classifies data as "public"
-* What is an API? 
+**Intro** (10 minutes) _materials: shared google slide presentation_
+* Sabrina: What is Civic Tech?
+* Anna: Real examples of how people have used and are using public data for civic tech
+* Jon: What classifies data as "public"
+* Jared: What is an API? 
 
 **Open Questions**(5 minutes)
  
 **Breakout** (7 minutes)
 (4 small groups: each group discusses one of the following questions)
-* What kind of problems could you solve with civic tech?
-* Where can you find public data?
-* What barriers are there to access for the public data?
-* Who is in the space of civic tech?
+1 facilitator per group with materials to help guide or supplement the discussion
+* Jared: What kind of problems could you solve with civic tech?
+* Sabrina: Where can you find public data?
+* Jon: What barriers are there to access for the public data?
+* Anna: Who is in the space of civic tech?
 
 **Whole Group Share**(10 minutes)
 
