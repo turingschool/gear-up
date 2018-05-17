@@ -23,7 +23,9 @@ As a group, discuss your answers to the questions above.
 
 What can and will you do to use these ideas to improve your experience as a learner here at Turing?
 
+## Whole group share (10 min)
 
+Share out key ideas with the entire group
 
 ## Additional Resources:
 https://www.greaterthancode.com/podcast/episode-038-category-theory-for-normal-humans-with-eugenia-cheng/
