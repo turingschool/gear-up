@@ -18,7 +18,8 @@ Discussing and Engaging with material and others on what civic tech and public d
  
 #### Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
 **Ice Breakers** (7 minutes)
-TBD
+Name, Mod, hometown, what draws you to civic tech?
+* Write and tally answers to the last question on the board
 
 **Intro** (10 minutes) _materials: shared google slide presentation_
 * Sabrina: What is Civic Tech?
@@ -56,6 +57,6 @@ TBD
  
 **Whole Group Share**(10 minutes)
 
-**Wrap It Up**
+Thank you! Have a great day!
 
  Submit a PR at the end of this session and tag @emhickmann
