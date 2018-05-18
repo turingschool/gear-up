@@ -20,31 +20,31 @@ How to be comfortable talking about your failures in a positive light as it's a 
 Here's how I faced these challenges, and how I came through it.
 
 ## Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
-Intros: 15min
-  -Say your name and mod and a summer camp you went to and if you loved it or hated it, and why you chose this session.
-  
+Intros: 15min (Maddy)
+ -Say your name, mod, favorite summer activity, and why you chose this session.
 
-  
-Stories of a few famous people of history (slides, video?) 4min
-Found a good video: [video](https://www.youtube.com/watch?v=zLYECIjmnQs)
+Videos: 6min
+Will Smith's take on failure (why failure is good): [video](https://www.youtube.com/watch?v=wFf6rhcYkXw) 2min
+Stories of famous people of history: [video](https://www.youtube.com/watch?v=zLYECIjmnQs) 3min
 
-Slides: 
-  -US Grant 
-  -Jk Rowling 
-  -Elon Musk
-  -Steve Jobs 
+Discussion: 25min (Aldo)
+Why we chose this as an important topic?
+Mention: If this makes you feel uncomfortable, that's kind of the point as it's a common interview question*
 
-DISCLAIMER:
-*If this makes you feel uncomfortable, that's kind of the point as it's a commin interview question*
+In small groups: Talk about a time you have failed 
+  -start with groups of two, turn and talk 3min
+  -then open up to table 10min
+  -then open it up to class to whoever wants to share 10min (led by Steven)
 
-In small groups: Talk about a time you have failed as small stories 
-  -start with groups of two, turn and talk
-  -then open up to table 
-  -then open it up to class to whoever wants to share
+Have them read article in class 5min (Steven)
+*Slack to them beforehand
+  [4 steps to overcoming failure](https://www.fastcompany.com/3035120/4-steps-to-overcoming-failure-and-using-it-to-your-advanta)
 
-Articles to read: 
-  [famous_folk](https://www.wanderlustworker.com/12-famous-people-who-failed-before-succeeding/)
-
-Social stigma of failure as a negative
+Discussion: (Ngoc)
+First turn and talk as a table 10min
+Discuss as group ~15min/until end
+ What are some examples of how you have failed while here at Turing?
+ Why is there a social stigma that failure is negative?
+ How can you overcome failure?
 
 # Submit a PR at the end of this session and tag @emhickmann
