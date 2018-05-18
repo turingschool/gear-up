@@ -21,7 +21,8 @@ Discussing and Engaging with material and others on what civic tech and public d
 Name, Mod, hometown, what draws you to civic tech?
 * Write and tally answers to the last question on the board
 
-**Intro** (10 minutes) _materials: shared google slide presentation_
+**Intro** (10 minutes) _materials:
+(SLIDES) https://docs.google.com/presentation/d/1Y2hAyOyOlcHQYUEi2cOVQH0-tLZ-Ea6UdD3S3hW4GJA/edit#slide=id.g337ecf2748_0_92
 * Sabrina: What is Civic Tech?
 * Anna: Real examples of how people have used and are using public data for civic tech
 * Jon: What classifies data as "public"
@@ -32,31 +33,26 @@ Name, Mod, hometown, what draws you to civic tech?
 **Breakout** (7 minutes)
 (4 small groups: each group discusses one of the following questions)
 1 facilitator per group with materials to help guide or supplement the discussion
+Material provided in slack channel extended to participants
 * Jared: What kind of problems could you solve with civic tech?
 * Sabrina: Where can you find public data?
-* Jon: What barriers are there to access for the public data?
+* Jon: What barriers are there to accessing public data?
 * Anna: Who is in the space of civic tech?
 
 **Whole Group Share**(10 minutes)
 
 **Breakout**(10 minutes)
 (4 small groups)
- * Think of a problem that could be solved with public data
+Moderators assist groups with direction
+Provided list of projects and open problems, one problem assigned to each group.
+Projects included in the slide deck.
+ * How would you define the problem?
  * How you might attack the problem?
-
-**Whole Group Share**(10 minutes)
-  
-**Breakout**(10 minutes)
-(4 small groups: each group is given a civic tech project to research)
- * Civic tech projects (TBD)
- * What problem were they trying to solve?
- * Who does it help and how?
- * What data sources did they use?
- * Is their solution effective and / or succesful?
- * Who are the contributers -> how has the work been shared?
  
-**Whole Group Share**(10 minutes)
 
+**Whole Group Share**(10 minutes)
+**Wrap Up with 'Final Thoughts' concluded from Group Share**
+  
 Thank you! Have a great day!
 
  Submit a PR at the end of this session and tag @emhickmann
