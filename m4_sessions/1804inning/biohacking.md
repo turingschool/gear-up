@@ -16,15 +16,20 @@ Session Outline (Please include who is facilitating and how much time you are go
 * What's your name, mod, and what does biohacking mean to you? 
 * Start tally for definitions of biohacking.
 ### Define Types of Biohacking: 30 min
-* Joe: Nutrigenomics
-* Matt: Genetics
-* Charles: Cyborgs
-* Ohm: Environment
+* Division of Topics
+ * Joe: Nutrigenomics
+ * Matt: Genetics
+ * Charles: Cyborgs
+ * Ohm: Environment
+* Combine all topics into single google drive slide presentation.
+* Each person will be responsible for providing an engaging presentation, which includes the materials and content. 
+
 ### Small Group Activity: 20 min
 * Spend five minutes finding example of good and bad biohacking
+ * This is intentionally vague to prevent group think, which is a nasty beast, emerging from it's nasty cave. 
 * Rest of set for discussion amongst whole group
 ### Closing Discussion 
-* Discuss how biohacking can help you in your future career as a software developer
+* Circle share how biohacking can help you in your future career as a software developer
 * What technology can help in your biohacking?
 
 
