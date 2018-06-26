@@ -45,3 +45,5 @@ Original Cover of BattleShip Board Game:
 http://starliteloungewinebar.com/wp-content/uploads/battleship-game-box.jpg
 
 
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
