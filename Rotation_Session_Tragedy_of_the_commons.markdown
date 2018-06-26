@@ -48,3 +48,6 @@ In groups of 3-4, discuss your answers to the questions above and your suggestio
 ## Whole Group Discussion (15 min)
 
 Bring together your groups and share reflections to at least two of the questions.  
+
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
