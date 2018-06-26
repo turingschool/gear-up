@@ -72,3 +72,6 @@ Discussion (15 min)
 ## Closing
 
 As you leave here today, we hope that this conversation continues in your cohort and that you are able to use this common language to address issues of inclusion as they might come up.  What will you do to create a better experience that is inclusive of everyone while you are here (where it is easy) and when you go out into the workforce?
+
+## Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
