@@ -27,5 +27,8 @@ What can and will you do to use these ideas to improve your experience as a lear
 
 Share out key ideas with the entire group
 
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
+
 ## Additional Resources:
 https://www.greaterthancode.com/podcast/episode-038-category-theory-for-normal-humans-with-eugenia-cheng/
