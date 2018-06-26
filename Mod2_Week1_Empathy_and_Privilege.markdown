@@ -172,9 +172,9 @@ Take time to share out some reflections from the group and share any reflections
 
 ## Final Reflection (10 min)
 
-We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  As we close out, take a few minutes to write in your notebook and respond to these prompts:
- 
-  * What are you taking away from this session?
-  * What perspectives did you hear today that make you think differently or challenged you?
+We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  
+  
+  ### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
  
  Facilitator:  Close with a few final thoughts to summarize the group discussion
