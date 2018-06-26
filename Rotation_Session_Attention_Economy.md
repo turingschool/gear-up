@@ -61,6 +61,9 @@ Either in a turn and talk or small group discussion
 
 * How will you manage your attention resources while you are here at Turing?  How will you use the "Attention Economy" in your future?
 
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
+
 
 * Provide some other resources for them to explore further:
   * https://www.samharris.org/podcast/item/what-is-technology-doing-to-us 
