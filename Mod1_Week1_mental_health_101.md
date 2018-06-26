@@ -200,4 +200,6 @@ Reminders throughout the module:
 * Articles
 * Videos
 
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
 
