@@ -250,9 +250,10 @@ Person B: (To the woman in the group) Well, you should go up there to be our eye
 
 Share in small groups or in whole group
 
-1) What are you taking away from this session?
+Discusion: What are the lenses that you need to become more aware of in order to interrupt microaggressions? 
 
-2) What are the lenses that you need to become more aware of in order to interrupt microaggressions? 
+### Survey (5 min)
+Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
 
 
 ## Resources
