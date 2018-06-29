@@ -4,12 +4,13 @@
 
 Session Timeframe: 75 mins.
 
-* Opening/Turn & Talk (6 mins)
-* Background on stress (12 mins)
-* Window of Tolerance & Reflection (20 mins)
+* Opening/Turn & Talk (5 mins)
+* Background on stress (8 mins)
+* Stress Resiliency/Management; TED Talk & Pressure Demo (20 mins)
+* Window of Tolerance & Reflection (10 mins)
 * Pomodoro (5 mins)
-* Self-Care Discussions (24 mins)
-* Reflection & Accountabilibuddies (6 mins)
+* Self-Care in Tech Discussions (17 mins)
+* Reflection & Accountabilibuddies (10 mins)
 * Closing (2 mins)
 
 ### Opening
@@ -162,6 +163,11 @@ We'll break into groups now to come up with some potential action steps to help 
 * Spiritual/Mindful Self Care
 * Emotional Self Care
 
+For large cohorts:
+* Break out into groups of 4
+* One person takes notes
+* Discuss all buckets
+
 ### Debrief on Self-Care Toolkits (10 min)
 Let's create our own self-care kits now. Take a gallery walk around the room to see what's been listed and answer the following questions to create your own self-care kits:
 
@@ -172,6 +178,10 @@ Let's create our own self-care kits now. Take a gallery walk around the room to 
 **Whole Group Share Out:** 
 * What are some takeaways from the gallery walk?
 * As a community, what can you be mindful of in regards to self-care that you can help each other with?
+
+For larger cohorts: (5 mins)
+* Go right to whole group debrief
+* Then into reflection
 
 ### Reflection (6 min)
 
