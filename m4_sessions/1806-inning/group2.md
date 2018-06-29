@@ -17,22 +17,22 @@ Living in an increasingly polarized society, it has become much harder to unders
 - An understanding of how social media actively encourages echo chambers
 
 ## Session Outline 
-    - Intros
-    - What is an echo chamber?
-    - The motivation behind them
+    - Intros (All)
+    - What is an echo chamber? (Kolya)
+    - The motivation behind them (Jake)
       - Why do people fall into them
       - What is the reason they stay in them
-    - Confliciting moral values
-    - Discuss: Where do you see echo chambers in your life?
-    - Short video on cognative dissonance
-    - Short discussion on video
+    - Confliciting moral values (Stephanie)
+    - Discuss: Where do you see echo chambers in your life? (Kolya)
+    - Short video on cognative dissonance 
+    - Short discussion on video (Jake)
     - 5-ish minutes of reading
       - Oatmeal comic (backfire effect)
       - Maybe an article about something(?)
-    - How can certain arguments shut down discussion
+    - How can certain arguments shut down discussion (Stephanie)
       - People argue for the sake of arguing, not always to solve a problem
-    - Activity about arguing the other side
-    - Closing
+    - Activity about arguing the other side (All)
+    - Closing (All)
     
 ## Introductions 
 - State your name and (something fun)
