@@ -1,33 +1,22 @@
 ## Group Members:
+Chase Richard, Megan Arellano, Jack Laird
 
-
-
-## Name of Session: 
+## Name of Session: Why emotional intelligence
 
 ## Session Description 
 
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
+Drop in to learn how emotional intelligence can make you a better developer.
 
 ## Session Outcomes 
 
-(What will students learn/leave with?): 
+Students will learn what emotional intelligence skills are important and how to improve them.  
 
 ## Session Outline 
 
-(Please include who is facilitating and how much time you are going to spend in each section):
-
-
-
-     Best practices:  No section should be longer than 20 minutes
-     Create a session that YOU would want to attend
-     Share resources in your slack channel
-     All sessions NEED to have a closing activity, reflection, discussion
+* 1. Introductions - meet your neighbor and introduce them to the class. (15 minutes)
+* 2. Intro to ei - Description and surface level explanation. (5 minutes)
+* 3. How ei can help with your work - Working in teams and developing empathetic apps. (20 minutes)
+* 4. Read the article, class discussion (20 minutes)
+* 5. Watch Video and wrap up discussion (10 minutes)
     
-## Recommended Trajectory 
-## Introductions 
-## Intro to new material
-## Small Group Activity
-## Closing Discussion
 
-
-Submit a PR at the end of this session and tag @emhickmann
