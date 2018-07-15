@@ -57,20 +57,4 @@ Back to campus => (Everyone, 5 Min) => We are still just walking, talking about 
 
 Tyler M. => (Strategies going forward, 10 min) => Here are some useful apps, meditation videos, and stretching guides you can use to practice relaxing anytime.
 
-### Apps
-  [Headspace](https://www.headspace.com/)
-
-  [Habit Bull](http://www.habitbull.com/)
-
-### Meditations
-  [Positive Vibes](https://www.youtube.com/watch?v=KCgVHFk3-lM)
-
-  [Wim Hof](https://www.youtube.com/watch?v=LU6Oi80n5J4)
-
-### Stretching Guides
-  [Stretching to the classics](https://www.youtube.com/watch?v=m8YU6IzPlJ0)
-
-  [Active Jack](https://youtu.be/7JqaF4oAuOY?t=31s)
-
-
 Submit a PR at the end of this session and tag @emhickmann
