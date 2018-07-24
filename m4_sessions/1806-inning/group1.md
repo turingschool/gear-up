@@ -32,6 +32,7 @@ Adam personal story
 Coping with imposter syndrome/How to interrupt the cycle
 Wrap it up/closing discussion : 20mins with Adam
 
-
+Slides can be found here:
+https://docs.google.com/presentation/d/1Al72A0SQjA-3oLkSDIEDMdfAGpP0dSoAPZRXMu1nnVY/edit#slide=id.p
 
 Submit a PR at the end of this session and tag @emhickmann
