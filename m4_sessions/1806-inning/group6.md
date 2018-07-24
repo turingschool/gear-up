@@ -16,10 +16,25 @@ The ways in which AR and VR will affect future technologies and how those techno
 
 (Please include who is facilitating and how much time you are going to spend in each section):
      15 minutes on each of the 4 sections with 10 minute Q&A at the end.
-     Industry: Kelly
-     Healthcare: Helen
-     Education: Sage
-     Entertainment: Sage
+Industry: Kelly
+     5 minutes on AR technologies
+     5 minutes on VR technologies
+     5 minutes of group discussion regarding pros, cons, and implications of the technologies in this field
+     
+Healthcare: Helen
+     5 minutes on AR technologies
+     5 minutes on VR technologies
+     5 minutes of group discussion regarding pros, cons, and implications of the technologies in this field
+
+Education: Sage
+     5 minutes on AR technologies
+     5 minutes on VR technologies
+     5 minutes of group discussion regarding pros, cons, and implications of the technologies in this field
+
+Entertainment: Sage
+     5 minutes on AR technologies
+     5 minutes on VR technologies
+     5 minutes of group discussion regarding pros, cons, and implications of the technologies in this field
 
      
      Best practices:  No section should be longer than 20 minutes
