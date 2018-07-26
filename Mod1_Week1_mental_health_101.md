@@ -106,6 +106,7 @@ Reference the hand-out
 	Relationships
 
 ### Stress Resilience (2 min)
+Reference Kelly MacGonigal's TED Talk: [How to Make Stress Your Friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 
 Protective Factors
 

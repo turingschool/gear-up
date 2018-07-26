@@ -1,33 +1,38 @@
 ## Group Members:
-
-
+Adam Conway, Seamus Quinn, Cameron Buscher, Eric Jungbluth
 
 ## Name of Session: 
+You're not an Imposter: You belong to the light, you belong to the thunder.
 
 ## Session Description 
 
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
+Think you're not a developer? You're not the only one! Learn about imposter syndrome and how to break the cycle.
 
 ## Session Outcomes 
 
 (What will students learn/leave with?): 
+Normalize imposter syndrome
+Learn more about it
+Learn to break the cycle
+
 
 ## Session Outline 
 
 (Please include who is facilitating and how much time you are going to spend in each section):
+Introductions : 10 mins with full group
 
+Seamus personal story/
+Small groups sharing their ideas on what it means to them/what they've experienced : 20mins with Seamus
 
+Cameron personal story/
+Teaching about imposter cycle/5 types of imposter syndrome
+Eric personal story/ : 20mins with Cam and Eric
 
-     Best practices:  No section should be longer than 20 minutes
-     Create a session that YOU would want to attend
-     Share resources in your slack channel
-     All sessions NEED to have a closing activity, reflection, discussion
-    
-## Recommended Trajectory 
-## Introductions 
-## Intro to new material
-## Small Group Activity
-## Closing Discussion
+Adam personal story
+Coping with imposter syndrome/How to interrupt the cycle
+Wrap it up/closing discussion : 20mins with Adam
 
+Slides can be found here:
+https://docs.google.com/presentation/d/1Al72A0SQjA-3oLkSDIEDMdfAGpP0dSoAPZRXMu1nnVY/edit#slide=id.p
 
 Submit a PR at the end of this session and tag @emhickmann

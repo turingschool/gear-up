@@ -1,23 +1,29 @@
 ## Group Members:
 Chase Richard, Megan Arellano, Jack Laird
 
+
 ## Name of Session: Why emotional intelligence matters
 
 ## Session Description
 
 Drop in to learn how emotional intelligence can make you a better developer.
 
+
 ## Session Outcomes
+
 
 Students will learn a basic framework for understanding emotional intelligence and put their new skills into practice with a group exercise.
 
+
 ## Session Outline
+
 
  1. Introductions (10 minutes, lead by Jack, see slide deck for intro format )
  2. Intro to ei - Description and surface level explanation. (5 minutes, slides 3-6, lead by Megan)
  3. Article reading and discussion (20 minutes)
      - We'll assign three groups. Each group gets 5 minutes to read one of the following articles:
           1. [13 Signs of High Emotional Intelligence](https://www.inc.com/justin-bariso/13-things-emotionally-intelligent-people-do.html)
+
 
           2. [The Importance of Emotional Intelligence at Work](https://www.entrepreneur.com/article/245755)
 
@@ -45,3 +51,11 @@ Students will learn a basic framework for understanding emotional intelligence a
 
     5. Wrap up discussion (5 minutes)
     - Thanks for coming to this session. It's hard to quantify emotional intelligence and it's harder to convince people of it's worth. For last piece of our session we want to ask you: How do you think that we should talk about emotional intelligence? Should we?
+
+* 1. Introductions - meet your neighbor and introduce them to the class. (15 minutes)
+* 2. Intro to ei - Description and surface level explanation. (5 minutes)
+* 3. How ei can help with your work - Working in teams and developing empathetic apps. (20 minutes)
+* 4. Read the article, class discussion (20 minutes)
+* 5. Watch Video and wrap up discussion (10 minutes)
+    
+
