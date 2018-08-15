@@ -162,11 +162,13 @@ Once finished reviewing the list, write in your notebook on these questions.
     *   If you were trying to describe that experience to someone else who hadn't shared that experience with you, how would that affect your trust with them? What could that person do to help you sustain trust? What could you do?
 
 
-## Discuss (35 min)
+## Discuss (25 min)
 
 We'll meet in groups to discuss what came up during our writing. Please be attentive to being respectful, active listeners.
 
-When there are about 10 minutes left, the facilitator will announce the final prompt: _Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continute to be aware of these as we work together to crewate a more inclusive environment?
+## Final Discussion (10 min)
+
+Final Prompt: "Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continute to be aware of these as we work together to crewate a more inclusive environment?"
 
 Take time to share out some reflections from the group and share any reflections you have from the conversations.
 
