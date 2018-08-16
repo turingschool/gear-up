@@ -5,13 +5,22 @@
 Session Timeframe: 75 mins.
 
 * Opening/Turn & Talk (5 mins)
-* Background on stress (8 mins)
+* Background on Stress (8 mins)
+
+
 * Stress Resiliency/Management; TED Talk & Pressure Demo (20 mins)
 * Window of Tolerance & Reflection (10 mins)
 * Pomodoro (5 mins)
 * Self-Care in Tech Discussions (17 mins)
 * Reflection & Accountabilibuddies (10 mins)
 * Closing (2 mins)
+
+
+Updates:
+-Condense timing
+-Emphasize self-care as a technique for building stress resilience
+-Video? 
+
 
 ### Opening
 
@@ -106,8 +115,6 @@ Reference the hand-out
 	Relationships
 
 ### Stress Resilience (2 min)
-Reference Kelly MacGonigal's TED Talk: [How to Make Stress Your Friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
-
 Protective Factors
 
 	Nature Exposure
@@ -206,10 +213,9 @@ Being intentional in taking care of your wellness is practicing mindfulness
 	“Neural Self-Hacking”
 	“Search Inside Yourself” training
 	
-Reminders throughout the module:
-* Slackbot
-* Articles
-* Videos
+For Follow Up:
+* Check out all the [Mental Health Resources here](https://github.com/turingschool/mental-health-resources/blob/master/README.md)
+* Check in with your accountabilibuddies
 
 ### Survey (5 min)
 Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
