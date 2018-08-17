@@ -7,7 +7,7 @@ Tory Dannenberg
 
 ## Session Description 
 
-     We will discuss the surprising science of happiness and have a session about how people think they know what makes them happy and what actually makes people as a healthy reminder. 
+     What makes you happy? That's what you think...
 
 ## Session Outcomes 
 
