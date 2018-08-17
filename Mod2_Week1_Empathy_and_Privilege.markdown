@@ -168,7 +168,7 @@ We'll meet in groups to discuss what came up during our writing. Please be atten
 
 ## Final Discussion (10 min)
 
-Final Prompt: "Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continute to be aware of these as we work together to crewate a more inclusive environment?"
+Final Prompt: "Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continue to be aware of these as we work together to create a more inclusive environment?"
 
 Take time to share out some reflections from the group and share any reflections you have from the conversations.
 
