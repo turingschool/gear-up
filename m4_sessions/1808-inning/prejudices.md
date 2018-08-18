@@ -6,7 +6,7 @@
 
 ## Session Description 
 
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
+Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. In this session we will identify, examine, and discuss our prejudices, biases, and our related experiences with the aim of creating concrete actionable solution to make tech and our broader communities more (inclusive**?)
 
 ## Session Outcomes 
 
