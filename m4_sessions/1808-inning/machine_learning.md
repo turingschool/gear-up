@@ -1,20 +1,24 @@
 ## Group Members:
-
+Ryan Harrington
+David Dunn
+Tyler Wesley
 
 
 ## Name of Session: 
+Machine Learning Blessing or Curse
 
 ## Session Description 
+Intro to ML and Driverless Cars
 
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
 
 ## Session Outcomes 
+Better understanding of the technology, where we're at today, how wield this powerful tool ethically, exposure to the debate.
 
-(What will students learn/leave with?): 
 
 ## Session Outline 
+Driverless Cars (pros, cons, ethics)
+Who stands to gain the most, lose the most, will society survive?
 
-(Please include who is facilitating and how much time you are going to spend in each section):
 
 ## Recommended Trajectory 
 
