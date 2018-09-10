@@ -31,17 +31,21 @@ As the name suggests, Stress Management addresses the issue of stress at Turing 
      All sessions NEED to have a closing activity, reflection, discussion
     
 ## Introductions
-* who we are
+* We introduce ourselves
 ## Intro to new material
 * What is stress and how we manage it.
+* Jimmy will take the lead and make a short slideshow presentation.
+* Short explanation of what the we will be doing in our groups before we head out.
 
 ## Small Group Activity
 after introductions, we will break up into three even groups, each of which will be lead by one of us.
-* Guided Meditation *Quin
-  *Everyone in the group will be asked to lie down on a yoga mat and close their eyes. Relaxing music will be playing and I will read a guided meditation.
-* Gardening *Theresa
-  *Students will work as individual to decorate and/or plant a pot.  Music playing also. Pots can be kept at school or taken home.  At end each student will share likes and how to incorporate into their future.
-* Journaling *Jimmy
+* Guided Meditation - Quin
+  - Everyone in the group will be asked to lie down on a yoga mat and close their eyes. Relaxing music will be playing and I will read a guided meditation.
+* Cooking - Theresa
+  - Each of the three groups will make a No Bake Lemon Icebox Pie.  They will store them in the fridge to set.
+  - ![Recipe](https://www.bettycrocker.com/recipes/no-bake-lemon-icebox-pie/21123185-3da2-4ffb-8ee1-ca41ad4dad16)
+  - Theresa will bring a bluetooth speaker for playing music in the kitchen
+* Journaling - Jimmy
   1. Learn the proven mental/emotional/psychological benefits of journaling.
   2. Learn how to set up your journaling habit.
   3. Learn some things to include in each journal entry.
