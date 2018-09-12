@@ -6,21 +6,12 @@ Session Timeframe: 75 mins.
 
 * Opening/Turn & Talk (5 mins)
 * Background on Stress (8 mins)
-
-
-* Stress Resiliency/Management; TED Talk & Pressure Demo (20 mins)
+* Stress Resiliency/Management; Pressure Demo (20 mins)
 * Window of Tolerance & Reflection (10 mins)
 * Pomodoro (5 mins)
 * Self-Care in Tech Discussions (17 mins)
 * Reflection & Accountabilibuddies (10 mins)
 * Closing (2 mins)
-
-
-Updates:
--Condense timing
--Emphasize self-care as a technique for building stress resilience
--Video? 
-
 
 ### Opening
 

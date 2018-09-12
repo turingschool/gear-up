@@ -4,11 +4,13 @@ David Dunn
 Tyler Westlie 
 
 
+
 ## Name of Session: 
 Machine Learning Blessing or Curse
 
 ## Session Description 
-Intro to ML and Driverless Cars
+Intro to AI, Machinelearning, and Deeplearning. Specifically in regards to driverless cars.
+Ethically implications of driverless cars: Truck Drivers, People getting hit by driverless cars, potentially no more need for drivers liscenses.
 
 
 ## Session Outcomes 

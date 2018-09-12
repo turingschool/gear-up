@@ -1,4 +1,4 @@
-Toxic Masculinity in Nerd Culture
+# Toxic Masculinity in Nerd Culture
 
 “Nerd culture is now part of the zeitgeist. Come join us and learn why you got to get over your idea of what a nerd is, dude.” < dude is meant ironically.
 
