@@ -182,7 +182,7 @@ Person A:  Well, I think if we used the spread operator...
 Person B: *Interrupts again* I am pretty sure that we should try to use a different method.  
 
 
-<b> Scenario 2  </b>````
+<b> Scenario 2  </b>
 
 Target of microaggression:  A person of color
 
