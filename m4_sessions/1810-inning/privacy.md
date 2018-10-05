@@ -1,24 +1,28 @@
 ## Group Members:
-
+Tim, Stephen, Kiel, Lucas
 
 
 ## Name of Session: 
 
-## Session Description (Why should students come to this session): (EX: Are you interested in biological enhancement? Drop in to learn about biohacking.)
+## Session Description (Why should students come to this session): (EX: Building a perfectly secure application!)
 
 ## Session Outcomes 
 
 (What will students learn/leave with?): 
+- Interview question takaways for security
+- Responsibilities of the developer for handling information
+- Self-awareness of limitations in security as a Turing Student
 
-
-
-     Best practices:  No section should be longer than 20 minutes
-     Create a session that YOU would want to attend
-     Share resources in your slack channel
-     All sessions NEED to have a closing activity, reflection, discussion
 ## Session Outline 
 
 (Please include who is facilitating and how much time you are going to spend in each section):
+- Introuction
+- Introduce Jeff hacking activity
+- Common Security Breaches / well-known security breaches
+- Good / Bad code comparison
+- Group discussion on interview questions for security questions
+- How much can you do to people with how little information
+
 
 ## Recommended Trajectory 
 
