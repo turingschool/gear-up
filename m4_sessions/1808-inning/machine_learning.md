@@ -1,7 +1,8 @@
 ## Group Members:
 Ryan Harrington
 David Dunn
-Tyler Westlie
+Tyler Westlie 
+
 
 
 ## Name of Session: 
@@ -17,9 +18,17 @@ Better understanding of the technology, where we're at today, how wield this pow
 
 
 ## Session Outline 
-Driverless Cars (pros, cons, ethics)
+Introductions, get an initial opinion on AI and Machine learning ethics.
+Introduce key-words(AI, machine learning, deep learning)
+Brief Video on how machines learn
+Introduce 3 possible impacts of AI on human society/economy/well-being
+3 minute clip from "Humans Need Not Apply"
+Delve into driverless cars: pros, cons, ethics
 Who stands to gain the most, lose the most, will society survive?
-
+Trolley Experiment
+Small group discussion about ethical implications of driverless cars.
+Come together as a group and share opinions.
+Did opinions change?
 
 ## Recommended Trajectory 
 
