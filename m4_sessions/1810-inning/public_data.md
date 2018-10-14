@@ -1,10 +1,14 @@
 ## Group Members:
+* Angela Duran
+* Colin Armstrong
+* Matt Bricker
+* Michael Lyons
 
 
 
-## Name of Session: 
+## Name of Session: Public Data: Our Lord and Savior
 
-## Session Description (Why should students come to this session): (EX: Are you interested in biological enhancement? Drop in to learn about biohacking.)
+## Session Description (Why should students come to this session): For people who want to learn more about public data and what we can use it for.
 
 ## Session Outcomes 
 
@@ -12,10 +16,7 @@
 
 
 
-     Best practices:  No section should be longer than 20 minutes
-     Create a session that YOU would want to attend
-     Share resources in your slack channel
-     All sessions NEED to have a closing activity, reflection, discussion
+     Students should leave with a better understanding of what can be acheived using public data, both for good and for bad
 ## Session Outline 
 
 (Please include who is facilitating and how much time you are going to spend in each section):
