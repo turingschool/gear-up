@@ -1,31 +1,59 @@
 ## Group Members:
 
-
+Connor Osburn
+Chris Powell
+Tom King
+Brandon Fiebiger
+Benjamin Paige
 
 ## Name of Session: 
 
+Ethics of AI
+
 ## Session Description (Why should students come to this session): (EX: Are you interested in biological enhancement? Drop in to learn about biohacking.)
+
+A discussion of all different sects of artificial intelligence, 
+providing a broad overview - including history, current events, and implications for the future AI.
+If you don’t have an opinion on artificial intelligence now, you will, when you leave this gear up!!!
 
 ## Session Outcomes 
 
 (What will students learn/leave with?): 
 
+     ## general undersanding of what it is     
+     ## Know what AI is and what the ethical probloms are. 
+          - now
+          - future
+     ## high level view, where it came from and what the future looks like.
 
-
-     Best practices:  No section should be longer than 20 minutes
-     Create a session that YOU would want to attend
-     Share resources in your slack channel
-     All sessions NEED to have a closing activity, reflection, discussion
 ## Session Outline 
 
 (Please include who is facilitating and how much time you are going to spend in each section):
 
-## Recommended Trajectory 
-
-    ## Introductons 
-    ## Intro to new material
-    ## Small Group Activity
-    ## Closing Discussion
-
+## Personal Intros 10min
+    ### Intros with 3-5 words on what you think about AI
+    ### Will write feelings on the board
+## Topic Intro 5-10min
+    ### Intro to ai / video
+## Small Groups 20-25min
+    ### Small groups to search and then present
+    #### 1. Voice and video mimicry (2-5min presentation by Connor)
+        - Identity questions
+        - What is truth?
+    #### 2. Self Driving Cars (2-5min presentation by Tom)
+        - Ethics concerns
+        - Benefits?
+        - Risks?
+        - Work related costs
+    #### 3. Mind Clones (2-5min presentation by Brandon)
+        - Rights of clones/non-clones
+        - Benefits?
+        - Risks?
+        - How do you feel about a copy of yourself?
+    #### 4. AI Hiring (2-5min presentation by Chris)
+        - Discuss ethics
+        - Amazon article
+Closing Discussion 15min (All Ben)
+    ## Closing Discussion Discuss where people think things/ ai are going. 
 
 Submit a PR at the end of this session and tag @emhickmann

@@ -8,7 +8,8 @@ Can technology save all problems?
 Participate in a discussion about: Can technology solve all problems?
 
 ## Session Outcomes 
-Walk away with greater understanding/exposure to different opinions regarding whether technology can solve all problems. Also, how we can take this into account moving forward building applications as software developers at our future jobs.
+Walk away with greater understanding/exposure to a different opinions regarding whether technology can solve all problems. Also, how we can take this into account moving forward building applications as software developers.
+
 
 
      Best practices:  No section should be longer than 20 minutes
