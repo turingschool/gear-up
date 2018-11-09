@@ -9,6 +9,9 @@ Print Full Role Play List for students prior to the session [Full Role Play List
 ## Take Attendance
 Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance.
 
+## Cohort Introduces Norms (Starting with 1810 cohort) 
+The cohort introduces their norms from Mod 1 to the Facilitator. 
+
 ## Intro (8 min)
 
 We are going to spend today discussing microaggressions and specifically discussing how we can build our skill at being able to interrupt microaggressions.  We began discussing this in Mod 1 when we watched Code: Debugging the Gender Gap.  In that movie, we heard the phrase from Megan Smith, "Death by 1,000 cuts."  At Turing, we see microaggressions happen daily.  Today we will look at a set of scenarios that have happened on our campus with our well intentioned students and staff that care about inclusion.  We all commit microaggressions, yet we have never been taught the skills of how to discuss or interrupt them.
