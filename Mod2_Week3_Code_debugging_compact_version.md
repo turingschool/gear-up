@@ -9,6 +9,8 @@ Log in to amazon prime and bring up the video.
 Grouping: please put your cohorts into small groups of 3-4 students before the film
 
 
+## Take Attendance
+Pass the print-out roster around the room for students to sign in for attendance.
 
 ## Intro: (5 min)
 
