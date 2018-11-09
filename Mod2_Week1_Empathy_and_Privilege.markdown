@@ -7,6 +7,9 @@ Privilege refers to the advantages that individuals and groups are afforded in s
 ## Take Attendance
 Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance.
 
+## Cohort Introduces Norms 
+The cohort introduces their norms from Mod 1 to the Facilitator. 
+
 ## Session Overview
 
 Here's what we're going to do today:
