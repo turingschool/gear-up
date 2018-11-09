@@ -6,6 +6,8 @@
 
 Print Full Role Play List for students prior to the session [Full Role Play List](https://docs.google.com/document/d/19EY_750vOk5TRCBFVflSfL--7aydvqdjNI7bUZVGHxE/edit)
 
+## Take Attendance
+Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance.
 
 ## Intro (8 min)
 
