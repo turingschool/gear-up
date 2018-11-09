@@ -4,6 +4,8 @@
 
 Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
 
+## Take Attendance
+Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance.
 
 ## Session Overview
 
