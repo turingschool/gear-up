@@ -2,10 +2,18 @@
 
 ## Background
 
-Privilege refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and marginalization affect our relationships with each other and how we can navigate these dynamics to work better together.
+We are going to connect today to our previous discussion on intersectionality. We are working within a framework that validates and recognizes the multiple facets of each individual's identity, recognizing that these different identity markers can carry varying levels of oppression, marginalization, and privilege. 
+
+***Privilege*** refers to the advantages that individuals and groups are afforded in systems of power (communities, organizations, countries, families, etc.). Often, conversations about privilege become ones where stark lines are drawn between "haves" and "have-nots"; we're aiming for a slightly different discussion today, where we'll focus on how privilege and oppression affect our relationships with each other and how we can navigate these dynamics to work better together.
+
+Reminder/Check for Understanding: 
+**Intersectionality**: an analytic framework that attempts to identify how interlocking systems of power impact those who are most marginalized in society.
+**Marginalization**: treatment of a person or group as powerless, insignificant or peripheral.
+**Oppression**: the systematic mistreatment of people within a social identity group, supported and enforced by the society and its institutions, solely based on the person’s membership in the social identity group.
+
 
 ## Take Attendance
-Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance.
+Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance. If in a mixed group, pass around a sign-up sheet.
 
 ## Cohort Introduces Norms 
 The cohort introduces their norms from Mod 1 to the Facilitator. 
@@ -20,12 +28,12 @@ Everyone will interact with these statements differently because we all walk in 
 
 ##### Why
 
-These statements help illustrate how varied our experiences of privilege/marginalization are, and will help every individual in the session connect with both sides of the power dynamic.
+These statements help illustrate how varied our experiences of privilege/marginalization/oppression are, and will help every individual in the session connect with different sides of the power dynamic.
 
 
-#### 2. Write/reflect on how, as an individual, your unique experiences of privilege and marginalization have affected your sense of connection to those around you.
+#### 2. Write/reflect on how, as an individual, your unique experiences of privilege and oppression have affected your sense of connection to those around you.
 
-Inevitably, everyone will have some experiences that roughly fit in the category of being marginalized, and everyone will have some experiences that roughly fit in the category of being privileged. One thing that these experiences share is they both seem to have a pretty profound effect on people's feeling of connection to those around them. We will set aside a period of time to write and reflect on both types of experiences.
+Inevitably, everyone will have some experiences that roughly fit in the category of being oppressed, and everyone will have some experiences that roughly fit in the category of being privileged. One thing that these experiences share is they both seem to have a pretty profound effect on people's feeling of connection to those around them. We will set aside a period of time to write and reflect on both types of experiences. 
 
 ##### Why
 
@@ -43,7 +51,7 @@ Sharing and listening are both an important part of processing this material. We
 
 #### 4. Discuss how these dynamics affected our ability to work together last inning.
 
-We'll continue discussion in the same groups, but pivot to some new questions focused specifically on ways in which privilege and marginalization shape our experience at Turing.
+We'll continue discussion in the same groups, but pivot to some new questions focused specifically on ways in which privilege and oppression shape our experience at Turing.
 
 ##### Why
 
@@ -56,7 +64,7 @@ We'll take a few minutes to tie all this back to what we can each do, as individ
 
 ##### Why
 
-Ultimately, today's conversation should lead to individuals' ability to connect with others in spite of experiencing privilege differently in the dynamics they share. Individuals need time to tie this really complex topic back to what they can do, today, to connect and do right by others who are affected by privilege and marginalization.
+Ultimately, today's conversation should lead to individuals' ability to connect with others in spite of experiencing privilege differently in the dynamics they share. Individuals need time to tie this really complex topic back to what they can do, today, to connect and do right by others who are affected by privilege, oppression, and marginalization.
 
 
 ## Setup
@@ -69,17 +77,11 @@ Chairs and tables available for small group discussions. Students start out seat
 The facilitator will kick off the session by reviewing the overview described above. After that overview, small groups will do whip around to each member: every individual should share briefly how they're feeling (concerns about the session, lunch coma, TGIF).
 
 ## Session overview (5 min)
-Walk through the session overview (above) and what you will do today. Before we begin, we want to make sure that we have some norms for the conversation.  Everyone has different experiences and different perspectives.  As we start to engage, we should agree to a few things:
-
-  * Believe first (Believe someone's story.  Instead of saying, "I'm sure they didn't mean that..." you can say, "I'm sorry that happened.  Would you be comfortable sharing more?")
-  * Use I statements (These are your experiences)
-  * Assume the positive of others
-  * Ask follow up questions
-  * Confidential (Your conversations stay in this room)
+Walk through the session overview (above) and what you will do today. Before we begin, we want to make sure that we have some norms for the conversation.  Everyone has different experiences and different perspectives.  As we start to engage, remind ourselves of our Gear Up Norms. 
 
 ## Privilege Statements and Reflection (15 min)
 
-Review the following list of statements that describe the different ways people in our society may experience privilege or marginalization. Put a check mark next to statements that are true for you. When you finish the list, write about the questions listed below.
+Review the following list of statements that describe the different ways people in our society may experience privilege, oppression, or marginalization. Put a check mark next to statements that are true for you. When you finish the list, respond to the questions listed below.
 
 ### Experience Statements
 
@@ -88,20 +90,26 @@ Review the following list of statements that describe the different ways people 
 *   ___ You can make mistakes and not have people attribute your behavior to flaws in your racial or gender group.
 *   ___ You have always assumed you’ll go to college.
 *   ___ You have an invisible illness or disability.
-*   ___ You have been a victim of sexual harassment.
+*   ___ You have experienced sexual harassment.
 *   ___ You rely, or have relied, primarily on public transportation.
 *   ___ You do your best work when you are in a quiet space.
 *   ___ You studied the culture of your ancestors in elementary school.
 *   ___ You often feel/felt that your parents are/were too busy to spend time with you.
-*   ___ You would never think twice about calling the police when trouble occurs.
+*   ___ You feel personally safe to call the police when trouble occurs.
 *   ___ English is your first language.
-*   ___ There was ever substance abuse in your household.
+*   ___ There was never substance abuse in your household.
 *   ___ You've ever felt uncomfortable sharing your political attitudes because they would be held against you.
 *   ___ You constantly feel unsafe walking alone at night.
-*   ___ Someone in your household suffered or suffers from mental illness.
+*   ___ Someone in your household experiences mental illness.
 *   ___ You were ever made fun of or bullied for something you could not change or was beyond your control.
-*   ___ You have ever been spoken over because you could not articulate your thoughts fast enough.
+*   ___ You have ever been spoken over during a professional conversation.
 *   ___ You can show affection for your romantic partner in public without fear of ridicule or violence.
+*   ___ You ever tried to change your appearance, mannerisms, or behavior to fit in more.
+*   ___ Your religious holidays were/are celebrated in school/work. 
+*   ___ You feel good about how your identities are portrayed by the media.
+*   ___ Others have assumed you were not tech-savvy because of your age.
+*   ___ You have seen an aspect of your identity caricatured as a Halloween costume, mascot, or party theme.
+*   ___ You see yourself well-represented in the current tech industry.
 
 <!-- *   ___ You are right-handed.
 *   ___ You have a physically visible disability.
@@ -155,7 +163,7 @@ Review the following list of statements that describe the different ways people 
 
 ### Reflection Questions
 
-Once finished reviewing the list, write in your notebook on these questions.
+Once finished reviewing the list, respond in your notebook to these questions.
 
 *   What were some factors that you have never thought of before?
 *   What statement made you think most? If you could add a statement, what would it be?
@@ -173,15 +181,12 @@ We'll meet in groups to discuss what came up during our writing. Please be atten
 
 ## Final Discussion (10 min)
 
-Final Prompt: "Communication style, gender norms, introversion/extroversion, and learning styles are all areas in which individuals at Turing experience privilege and marginalization. How can we continue to be aware of these as we work together to create a more inclusive environment?"
+Final Prompt: Connect your experience in this activity, our previous discussion on empathy, and your perspective-taking homework assignment from Mod 1. How can we at Turing work together to create a more inclusive environment? Think of three specific action items you and your group are willing to take.
 
 Take time to share out some reflections from the group and share any reflections you have from the conversations.
-
-## Final Reflection (10 min)
-
-We'll take a few minutes to tie this really complex topic back to what we, as individuals, can do today to connect and do right by others who are affected by the disparities we discussed in groups. Remember, privilege is not a concept we're using to make individuals feel guilty, rather it is a framework in which we can better understand each other and stay connected in spite of widely varying experiences.  
+ 
   
   ### Survey (5 min)
-Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
+Please have students complete the Gear Up reflection in their personal Gear Up gist.  These reflections will take the place of Gear Up Surveys.
  
  Facilitator:  Close with a few final thoughts to summarize the group discussion
