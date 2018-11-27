@@ -186,7 +186,7 @@ Final Prompt: Connect your experience in this activity, our previous discussion 
 Take time to share out some reflections from the group and share any reflections you have from the conversations.
  
   
-  ### Survey (5 min)
-Please have students complete the Gear Up reflection in their personal Gear Up gist.  These reflections will take the place of Gear Up Surveys.
+  ### Final Reflection (5 min)
+Please have students complete the Gear Up reflection in their personal Gear Up gist.  These reflections will take the place of Gear Up Surveys, and students should continue using that same gist to reflect throughout the module.
  
  Facilitator:  Close with a few final thoughts to summarize the group discussion
