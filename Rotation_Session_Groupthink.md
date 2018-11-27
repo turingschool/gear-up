@@ -54,8 +54,14 @@ In your small groups, discuss what you could specifically do to be aware of Grou
 
 Groupthink is likely something that we all have been a part of without even knowing it.  Consider the suggestions you heard today and continue to educate yourself on additional ways to guard from Groupthink. What can you implement immediately in your next project, cohort retro, or posse? Linked below are some additional resources for you to continue to explore this concept.
 
-### Survey (5 min)
-Please have students complete the Gear Up survey.  These reflections will take the place of Gear Up Reflections in their portfolio. https://goo.gl/forms/q8b3WbojxsmQoodi1
+### Final Reflection (5 min)
+Please have students complete the Gear Up reflection in their personal Gear Up gist, answering these questions:
+
+* What are you left thinking about from today's session?
+* How do you think the concepts covered in Gear Up today will impact you as a software developer? 3-5 sentences
+* Any additional thoughts on the session today?
+
+These reflections will take the place of Gear Up Surveys, and students should continue using that same gist to reflect throughout the module.
 
 ### Additional Resources
 http://www.psysr.org/about/pubs_resources/groupthink%20overview.htm
