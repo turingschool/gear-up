@@ -121,6 +121,7 @@ Whip around: Each person will share one of the following: Air (what they’re le
 ## Assign homework and Gear Up gauge
 
 [Homework](https://docs.google.com/document/d/13JDV6X-mdrksC3MfnSPwgwrCC371jGESHdb_qY-QN8s/edit)
+
 [Gear Up Gauge](https://docs.google.com/forms/d/e/1FAIpQLScc7lAUrycKKNsv80riBFgWn-ew9QTLOCTnDCs9Um-5S4Dajw/viewform) 
 
 ## Final Reflection (5 min)
