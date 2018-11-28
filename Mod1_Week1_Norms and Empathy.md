@@ -63,8 +63,7 @@ We'll close out with a whip-around.
 
 ## Setup
 
-Chairs and tables available for small group discussions. Students start out seated in their groups.  Facilitator will need a ball of yarn and Print the statements and reflection questions for students. [Print](https://docs.google.com/document/d/13rXmM8pduOoASfqxxg9n_JEvwfnDWG4YHlOUUxpH71U/edit?usp=sharing)
-
+Chairs and tables available for small group discussions. Students start out seated in their groups.  Facilitator will need a ball of yarn and printed copies of the poem.
 
 ## Introductions (10 min)
 
@@ -76,16 +75,16 @@ Walk through the session overview (above) and what you will do today.
 ## Group Norms (15 min)
 
 Possible Norms:
--Less on point more on purpose
--Get comfortable with discomfort
--Low ego, high impact
--Relationship is the measure of our strength
--Here to do good, not feel good all the time
--Lived experience is invaluable, give space to share it
--Permission to make mistakes, permission to make mistakes, permission to make mistakes!
--Vegas rule: what happens here stays here
--Move up, move back
--Accept others’ lived experiences as truths
+- Less on point more on purpose
+- Get comfortable with discomfort
+- Low ego, high impact
+- Relationship is the measure of our strength
+- Here to do good, not feel good all the time
+- Lived experience is invaluable, give space to share it
+- Permission to make mistakes, permission to make mistakes, permission to make mistakes!
+- Vegas rule: what happens here stays here
+- Move up, move back
+- Accept others’ lived experiences as truths
 
 ### Intro (2 min)
 Importance of relationship and community norms in critical conversations. Safe vs. Brave: how to create brave space. Can we ensure safety? How do we attempt to do the least harm?
