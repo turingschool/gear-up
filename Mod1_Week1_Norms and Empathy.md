@@ -1,5 +1,7 @@
 # Norms and Empathy
 
+[Slide deck](https://docs.google.com/presentation/d/1IaQvh-BH1rLv10_x6kY8INK73pG9wXdUHjf-vu1q9k8/edit#slide=id.g44a1b318e3_1_9)
+
 ## Background
 
 - Gear Ups are an intentional and continuously integrated part of the Turing curriculum. They are used to instill the purpose of our mission and aid the student body in building a diverse and inclusive community.
