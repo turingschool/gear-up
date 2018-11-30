@@ -27,7 +27,7 @@ Gear Up is an intentional and continuously integrated part of the Turing curricu
     <td>
       <ul>
         <li>Week 1: Norms and Empathy</li>
-        <li>Week 3: Mission Possible (Social Justice 101)</li>
+        <li>Week 3: Intersectionality (Social Justice 101)</li>
         <li>Week 5: Social Justice Deep Dive</li>
       </ul>
     </td>
