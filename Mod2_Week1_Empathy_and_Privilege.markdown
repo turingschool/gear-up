@@ -181,7 +181,10 @@ We'll meet in groups to discuss what came up during our writing. Please be atten
 
 ## Final Discussion (10 min)
 
-Final Prompt: Connect your experience in this activity, our previous discussion on empathy, and your perspective-taking homework assignment from Mod 1. How can we at Turing work together to create a more inclusive environment? Think of three specific action items you and your group are willing to take.
+Final Prompt: Connect your experience in this activity, our previous discussion on empathy, and your perspective-taking homework assignment from Mod 1. 
+
+- How can we at Turing work together to create a more inclusive environment? 
+- Think of three specific action items you and your group are willing to take.
 
 Take time to share out some reflections from the group and share any reflections you have from the conversations.
  
