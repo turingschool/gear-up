@@ -6,6 +6,8 @@ Haley Jacobs
 
 ## Name of Session: Women in Tech
 
+Bill Gates and Steve Jobs ain't got shit on these ladies
+
 ## Session Description 
 
 Learn more about women in tech and their contributions. Learn about your peers' experiences with being women in tech and how we can support them. Gain insight into how you can make a difference. The realization that while there have certainly been a limited number of women in tech, there is also a lack of knowledge about them that has contributed to that thinking.
