@@ -25,6 +25,14 @@ We are going to add one additional norm to our class-established norms for this 
 	Take this seriously, no jokes about "microaggressions".
 
 
+## Perspective Ice Breaker (20 min)
+
+Get into a circle. Pass around the giant magnifying glass and answer one of the following questions:
+
+1) What are you bringing to this discussion today?
+2) What lens of your identity are you "seeing through" today?
+3) What pieces of the way you show up do you want to examine today?
+
 ## Small Group Discussion (8 min)
 
 
@@ -57,7 +65,7 @@ Pair Share:
 
 ## Every Day Microaggressions (4 min)
 
-Here are a few comments that would considered microaggressions.  
+Here are a few comments that would be considered microaggressions.  
 
 * "Diversity is important, but we won't lower the bar."
 
@@ -83,7 +91,7 @@ Read more at: http://www.nationalreview.com/article/370078/microaggression-alec-
 | Immigration   | biases      |  
 
 
-<i> Historically, the United States was created with laws that systematically oppressed certain groups of people.  Though we might not all have grown up here, we ALL are a part of today's society that has been formed from that history.  We ALL have a part to change things that we do not feel are providing an equal opportunity for everyone.  If we do not interrupt this cycle, we are more likely to stay in segregated communities or social circles that continue to deepen the biases that we have developed.  </i>
+<i> Historically, the United States was created with laws that systematically oppressed certain groups of people based on race, class, gender, gender expression, and sexuality. Though we might not all have grown up here, we ALL are a part of today's society that has been formed from that history. We ALL have a part to change things that we do not feel are providing an equal opportunity for everyone. This requires us to unlearn this socialization and act counter-culturally to disrupt systems of oppression. If we do not interrupt this cycle, we are more likely to stay in segregated communities or social circles that continue to deepen the biases that we have developed.  </i>
 
 We also know that there are different types of experiences that will increase our dependence on bias and stereotypes.  
 
@@ -127,7 +135,7 @@ Challenges to interrupting microaggressions (in addition to the ones the group d
 	
 	
 	
-It can be important to think about how to interrupt a microaggression from two different perspectives. As a TARGET and as an ALLY.  Oftentimes it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the situation with the target before stepping in as an ally.
+It can be important to think about how to interrupt a microaggression from two different perspectives. As a TARGET and as an ALLY.  Oftentimes it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the situation with the target before stepping in as an ally. The person committing the microaggression is called the AGENT. 
 
 
 <b> Consider Context:  Should you address the person in the immediate group/situation or ask them to a 1:1 conversation? </b>
@@ -246,7 +254,7 @@ Person B: (To the woman in the group) Well, you should go up there to be our eye
 
 Share in small groups or in whole group
 
-Discusion: What are the lenses that you need to become more aware of in order to interrupt microaggressions? 
+Discussion: What are the lenses that you need to become more aware of in order to interrupt microaggressions? 
 
 ### Final Reflection (5 min)
 Please have students complete the Gear Up reflection in their personal Gear Up gist, answering these questions:
