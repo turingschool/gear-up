@@ -1,4 +1,4 @@
-# Microaggressions 
+# Microaggressions Part 1: Theory
 
 ### (Updated 1hr and 15 min)
 
