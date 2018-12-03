@@ -14,24 +14,15 @@ The cohort introduces their norms from Mod 1 to the Facilitator.
 
 ## Intro (8 min)
 
-We are going to spend today discussing microaggressions and specifically discussing how we can build our skill at being able to interrupt microaggressions.  We began discussing this in Mod 1 when we watched Code: Debugging the Gender Gap.  In that movie, we heard the phrase from Megan Smith, "Death by 1,000 cuts."  At Turing, we see microaggressions happen daily.  Today we will look at a set of scenarios that have happened on our campus with our well intentioned students and staff that care about inclusion.  We all commit microaggressions, yet we have never been taught the skills of how to discuss or interrupt them.
+We are going to spend today discussing microaggressions and specifically discussing how we can build our skill at being able to interrupt microaggressions.  We began discussing this in Mod 2 when we watched Code: Debugging the Gender Gap.  In that movie, we heard the phrase from Megan Smith, "Death by 1,000 cuts."  At Turing, we see microaggressions happen daily.  Today we will look at a set of scenarios that have happened on our campus with our well intentioned students and staff that care about inclusion.  We all commit microaggressions, yet we have never been taught the skills of how to discuss or interrupt them.
 
 
 
 ## Norms (5 min)
 
-We are going to agree to a set of norms for this conversation so that we can get uncomfortable and learn together in this space.  
+We are going to add one additional norm to our class-established norms for this conversation:
 	
-	
-	Believe other people's experience
-	
-	Confidential conversations
-	
-	Speak from your own experience
-	
-	Ask questions instead of assuming
-	
-	Take this seriously...jokes are not funny in this space
+	Take this seriously, no jokes about "microaggressions".
 
 
 ## Small Group Discussion (8 min)
@@ -112,7 +103,7 @@ Lonely
 
 * Does this sound like Turing? *
 
-## Interruping Microaggressions (5 min)
+## Interrupting Microaggressions (5 min)
 
 Pair Share: 
 
@@ -136,7 +127,7 @@ Challenges to interrupting microaggressions (in addition to the ones the group d
 	
 	
 	
-It can be important to think about how to interrupt a microaggression from two different perspectives. As a TARGET and as an ALLY.  Oftentimes it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the sitaution with the target before stepping in as an ally.
+It can be important to think about how to interrupt a microaggression from two different perspectives. As a TARGET and as an ALLY.  Oftentimes it will be easier to interrupt as an ALLY because you do not have the same risk as those who are the targets.  You might want to privately discuss the situation with the target before stepping in as an ally.
 
 
 <b> Consider Context:  Should you address the person in the immediate group/situation or ask them to a 1:1 conversation? </b>
@@ -233,7 +224,7 @@ Person A: I wish I was gay so that I could share a wardrobe.  That must be so ni
 
 <b> Scenario 7  </b>  
 
-Target of microagression: A person of color
+Target of microaggression: A person of color
 
 Person A:  Have you noticed that all of our speakers this inning have been white men?
 
@@ -241,7 +232,7 @@ Person B:  You are always so sensitive about race.  There probably aren't any de
 
 <b> Scenario 8  </b>
 
-Target of microagression: A woman
+Target of microaggression: A woman
 
 Person A:  We should get ready to present.  Who wants to do what part?
 
