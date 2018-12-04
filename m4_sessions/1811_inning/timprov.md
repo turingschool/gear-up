@@ -1,17 +1,25 @@
 
 ## Group Members:
-
+Tim Garrity, Nick Dambrosio, Graham Munro, Dina Caraballo, Abdulla Qudrat
 
 
 ## Name of Session: 
+TIMPROV
+
 
 ## Session Description 
 
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
+Good developers know how to code. Great developers know how to communicate.
+It's week five - let's have some fun!
 
 ## Session Outcomes 
 
-(What will students learn/leave with?): 
+* Meaningful connections
+* Identity
+* Collaboration
+* Reacting, not Acting
+
+
 
 ### Recommended Trajectory 
 
@@ -26,6 +34,11 @@
 
 ## Session Outline (Agenda for session, include timing for each session and who is facilitating)
 
+Intro
+Whole group: Pass the clap; One word story;
+Split into two groups: Kumja; Family portrait; Hitchhiker
+Split into four groups: Count to 20; Bus Stop; Freeze
+Whole group: Reflection - "How do I use this in the workplace"?
 
 
 Submit a PR at the end of this session and tag @emhickmann
