@@ -12,7 +12,7 @@ The cohort introduces their norms from Mod 1 to the Facilitator.
 
 ## Intro (2 min)
 
-We are going to spend today practicing interrupting and apologizing for microaggressions and specifically practicing how we can build our skill at being able to interrupt microaggressions.  
+We are going to spend today practicing interrupting and taking accountability for microaggressions and specifically practicing how we can build our skill at being able to interrupt ourselves and others from commiting microaggressions.  
 
 ## Norms (2 min)
 
