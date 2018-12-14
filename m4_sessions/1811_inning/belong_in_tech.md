@@ -49,14 +49,23 @@ intro -
 session - 
 
 5 mins-
-mini presentation
+     the end goal of the session.
+     Share why we chose to come into this decision.
+          *give understanding of where each student is coming from, difference in module and mindset.
 
 count off by 4's and break out into small groups lead by each moderator. 2 minutes
 
-Jessica - Diversity statistics and why they matter
+Jessica - Diversity statistics and why they matter.
+     
+
 Mark - code switching, and why its ok. 
-Justin - Your difference does not matter
+     be comfortable as who they are as a person no matter their environment.
+
+Justin - Your difference does not matter.
+     to tackle any doubts they may have about themselves or stereotypes they have about others.
+
 Andrew - Positive intelligence ( reference the Book) Silence negative voices.
+     Give them the tools to recognize thought pattern and change negative to positive before a downward spiral.
 
 ** each 10 minutes for each round robin^^
 
@@ -65,8 +74,13 @@ fill time for character description
 
 
 closing - 
-5 minutes on reflection
-5 minutes on survey
+ reflection questions
+     * take a minute to think about your life track towards getting you into tech
+     * How can your different experiences and skills benefit a team.
+     * What did you learn today that you can incorporate into your daily thought process and into the next inning
+     * is there something that we could add to this gear up to help get of over mental roadblocks
+     * As developer how will you try to make everyone feel welcome and accepted
+     
 
    
 
