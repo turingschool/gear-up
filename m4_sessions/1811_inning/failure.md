@@ -35,7 +35,9 @@ Short video  talking about how failure is a good thing 5 mins
 
 https://www.youtube.com/watch?v=rBUSsP9rDsw&list=PL4I0udEHucIbGoeBQ30f79fDfcXTrSIIn&index=2
 
-Redefinition of failure 7 mins. (ask how people would define failure, ask how people feel when they fail, ask what they think of others when they fail) --Ben will lead this segment (this will be more of a full group discussion)
+Redefinition of failure 7 mins. (ask how people would define failure, ask how people feel when they fail, ask what they think of others when they fail) --Ben will lead this segment (this will be more of a full group discussion
+
+For this segment we are gonna have each person write one word about how they feel when they fail, and one word about how they feel about others when they fail, and mix them up and read them aloud to see the contrast
 
 Short video of successful people and their failures 5 min
 
