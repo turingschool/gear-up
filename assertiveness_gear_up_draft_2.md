@@ -5,7 +5,7 @@
 * Claire Beauvais
 
 ## Name of Session: Developing Healthy Assertiveness in the Workplace
-[Session slides (we are still working to finalize these1)] (https://docs.google.com/presentation/d/10mGghxB5I2FUGWK5eZikJLPun4MSVSIn0dCC5dkqg5o/edit#slide=id.gc6f83aa91_0_84)
+[Session slides - we are still working to finalize these1](https://docs.google.com/presentation/d/10mGghxB5I2FUGWK5eZikJLPun4MSVSIn0dCC5dkqg5o/edit#slide=id.gc6f83aa91_0_84)
 
 ## Session Description 
 
@@ -35,7 +35,7 @@ Do you have trouble voicing your opinion at crucial moments? Ever wanted a raise
     * Resources for continued improvement in assertiveness.
     * [Mayo Clinic: Being assertive: Reduce stress, communicate better](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
     * [Emotional Intelligence at Work: Assertiveness](http://www.emotionalintelligenceatwork.com/resources/assertiveness/)    
-    * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work}(https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
+    * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work](https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
     
 
    
