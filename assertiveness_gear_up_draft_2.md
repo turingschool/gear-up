@@ -24,7 +24,7 @@ Do you have trouble voicing your opinion at crucial moments? Ever wanted a raise
 * Students’ perceptions of assertiveness
     * Have students line up.
     * Why did you select this session, on a scale of 1-10, how assertive do you think you are?
-    * [Assertiveness survey] (http://www.fresnostate.edu/studentaffairs/lrc/supportnet/documents/AssessYourAssertiveness2.pdf)
+    * [Assertiveness survey](http://www.fresnostate.edu/studentaffairs/lrc/supportnet/documents/AssessYourAssertiveness2.pdf)
 
 * Role play for common workplace assertiveness scenarios
     * Definitions/differences between passive, aggressive, and assertive.
@@ -33,9 +33,9 @@ Do you have trouble voicing your opinion at crucial moments? Ever wanted a raise
     * Volunteers to demonstrate advanced assertiveness (Scenario 3 - Managing the team for top results).
 * Conclusion
     * Resources for continued improvement in assertiveness.
-    * [Mayo Clinic: Being assertive: Reduce stress, communicate better] (https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
-    * [Emotional Intelligence at Work: Assertiveness] (http://www.emotionalintelligenceatwork.com/resources/assertiveness/)    
-    * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work] (https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
+    * [Mayo Clinic: Being assertive: Reduce stress, communicate better](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
+    * [Emotional Intelligence at Work: Assertiveness](http://www.emotionalintelligenceatwork.com/resources/assertiveness/)    
+    * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work}(https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
     
 
    
