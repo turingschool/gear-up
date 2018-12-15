@@ -33,10 +33,10 @@ Do you have trouble voicing your opinion at crucial moments? Ever wanted a raise
     * Volunteers to demonstrate advanced assertiveness (Scenario 3 - Managing the team for top results).
 * Conclusion
     * Resources for continued improvement in assertiveness.
-    * [How to be More Assertive at Work](https://www.themuse.com/advice/how-to-be-more-assertive-at-work-without-being-a-jerk)
-    * [Mayo Clinic: Being assertive: Reduce stress, communicate better](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
-    * [Emotional Intelligence at Work: Assertiveness](http://www.emotionalintelligenceatwork.com/resources/assertiveness/)    
-    * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work](https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
+       * [How to be More Assertive at Work](https://www.themuse.com/advice/how-to-be-more-assertive-at-work-without-being-a-jerk)
+       * [Mayo Clinic: Being assertive: Reduce stress, communicate better](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
+       * [Emotional Intelligence at Work: Assertiveness](http://www.emotionalintelligenceatwork.com/resources/assertiveness/)    
+       * [US Department of Veterans Affairs: Learn to Communicate Assertively at Work](https://www.va.gov/vetsinworkplace/docs/em_eap_assertive.asp)
     
 
    
