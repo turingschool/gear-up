@@ -39,6 +39,7 @@ PoC group:
 * How do you feel about the idea of emotional labor as a PoC in tech?
  * How has this shown up at Turing?
  * How do you anticipate this showing up in your future work?
+ -Review HW assignment of choosing the other perspective
 
 White groups:
 
@@ -46,6 +47,7 @@ White groups:
 * What was your initial reaction to selecting this group?
 * How often do you/ have you relied on PoC to teach you and relive trauma in order for you to learn?
 * Fight/Flight/Freeze - what are you feeling right now? Is this real trauma? Or just discomfort?
+-Review HW assignment of choosing the other perspective
 
 Not comfortable identifying as either:
 
@@ -53,6 +55,7 @@ Not comfortable identifying as either:
 * Why did you choose this group?
 * Fight/Flight/Freeze - what are you feeling right now? Is this real trauma? Or just discomfort?
 * How do you feel race plays into your daily interactions?
+-Review HW assignment of choosing the other perspective
 
 ### Journaling time (10 min)
 Ten minutes to reflect on how you think this relates to our mission and future work in the tech industry. In notebooks!
