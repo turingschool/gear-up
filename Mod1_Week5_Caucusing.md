@@ -24,7 +24,7 @@ Four separate rooms available for small group discussions.
 
 ## Opening (10 min)
 
-Body check. Reminder of Norms. Acknowledgement that this is scary and we aren't experts.
+Body check. Reminder of [Norms](https://docs.google.com/presentation/d/1eiblnyQQPHTaBNTdRPisNprelCrUFUuhVgYAdoIeWR4/edit#slide=id.g4c1460c520_0_10). Acknowledgement that this is scary and we aren't experts.
 
 ## Guiding Questions (45 min)
 
