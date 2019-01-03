@@ -12,9 +12,11 @@ Depending on the cohort that you're in, Facilitator should pull up the attendanc
 
 Meet in Clarke with all FE and BE students. Explain rationale for racial caucusing. 
 
-"White people and people of color each have work to do separately and together. Caucuses provide spaces for people to work within their own racial/ethnic groups. For white people, a caucus provides time and space to work explicitly and intentionally on understanding white culture and white privilege and to increase one’s critical analysis around these concepts. A white caucus also puts the onus on white people to teach each other about these ideas, rather than constantly relying on people of color to teach them. For people of color, a caucus is a place to work with their peers on their experiences of internalized racism, for healing and to work on liberation.
+"White people and people of color each have work to do separately and together. Caucuses provide spaces for people to work within their own racial/ethnic groups. For people of color, a caucus is a place to work with their peers on their experiences of internalized racism, for healing and to work on liberation.For white people, a caucus provides time and space to work explicitly and intentionally on understanding white culture and white privilege and to increase one’s critical analysis around these concepts. A white caucus also puts the onus on white people to teach each other about these ideas, rather than constantly relying on people of color to teach them.
 
 White people are often uncomfortable with the idea of white caucuses as part of racial equity work. A typical comment is “if we are working on racism, isn’t it better for us to learn together?” It does feel awkward to separate by race. Yet such separation occurs all the time in real life, and many times that reality is not understood or interrogated as it is when participating in a caucus. Since white people often find learning about whiteness and white privilege a steep learning curve, taking advantage of caucus time to do this work can be extremely useful." From racialequitytools.org
+
+The focus of the above statement is around white people's experience not because we believe white people should be centered in this discussion but because it is often white people who experience more discomfort seperating based on race because they are socialized to think individually and not based on race. 
 
 ## Setup
 
