@@ -16,7 +16,7 @@ Meet in Clarke with all FE and BE students. Explain rationale for racial caucusi
 
 White people are often uncomfortable with the idea of white caucuses as part of racial equity work. A typical comment is “if we are working on racism, isn’t it better for us to learn together?” It does feel awkward to separate by race. Yet such separation occurs all the time in real life, and many times that reality is not understood or interrogated as it is when participating in a caucus. Since white people often find learning about whiteness and white privilege a steep learning curve, taking advantage of caucus time to do this work can be extremely useful." From racialequitytools.org
 
-The focus of the above statement is around white people's experience not because we believe white people should be centered in this discussion but because it is often white people who experience more discomfort seperating based on race because they are socialized to think individually and not based on race. 
+The focus of the above statement is around white people's experience not because we believe white people should be centered in this discussion but because it is often white people who experience more discomfort seperating based on race because they are socialized to think of themselves as individuals and not based on their race. 
 
 ## Setup
 
