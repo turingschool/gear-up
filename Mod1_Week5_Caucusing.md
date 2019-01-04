@@ -44,8 +44,11 @@ PoC group:
 White groups:
 
 * What have been your reactions to the first two sessions?
+* What does it feel like knowing some of your cohort is not here?
 * What was your initial reaction to selecting this group?
 * How often do you/ have you relied on PoC to teach you and relive trauma in order for you to learn?
+* Can you identify a time you did something racist or that you saw someone else do something racist? How did you respond?
+* What is your role as a white person to examine your race/address racism? What does your role look like in tech spaces, with your families, in white spaces, in multiracial spaces, etc.?
 * Fight/Flight/Freeze - what are you feeling right now? Is this real trauma? Or just discomfort?
 -Review HW assignment of choosing the other perspective
 
