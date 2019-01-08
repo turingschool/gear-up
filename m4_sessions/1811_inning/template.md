@@ -5,8 +5,7 @@
 ## Name of Session: 
 
 ## Session Description 
-
-(Why should students come to this session): Are you interested in biological enhancement? Drop in to learn about biohacking.
+(Why should students come to this session): Ex: Are you interested in biological enhancement? Drop in to learn about biohacking.
 
 ## Session Outcomes 
 
@@ -18,7 +17,7 @@
      Create a session that YOU would want to attend
      Share resources in your slack channel
      All sessions NEED to have a closing activity, reflection, discussion
-     # Introductons 
+     # Introductons with pronouns
      # Intro to new material
      # Small Group Activity
      # Closing Discussion
