@@ -54,7 +54,9 @@ IDEAS - Main purpose: Connect the entire session to job interviews/networking - 
 Find new quizzes - CODY
 (10-15 mins) session on body language tips/tricks. - CODY
 
-(5 mins) final quiz.
+(5-10 mins) watch final video on silent/noise
+
+(5 mins) final quiz for students.
 
 
 
