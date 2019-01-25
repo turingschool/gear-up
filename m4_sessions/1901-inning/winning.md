@@ -14,31 +14,30 @@ How to be comfortable talking about your failures in a positive light as it's a 
 Here's how I faced these challenges, and how I came through it.
 
 ## Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
-Intros: 15min ()
- -Say your name, mod, favorite summer activity, and why you chose this session.
+Intros: 10min
+ -Say your name, mod, and answer to strange question TBD.
 
-Videos: 6min
-Will Smith's take on failure (why failure is good): [video](https://www.youtube.com/watch?v=wFf6rhcYkXw) 2min
-Stories of famous people of history: [video](https://www.youtube.com/watch?v=zLYECIjmnQs) 3min
+Video: 2min
+ - Will Smith's take on failure (why failure is good): [video](https://www.youtube.com/watch?v=wFf6rhcYkXw) 2min
 
-Discussion: 25min ()
-Why we chose this as an important topic?
-Mention: If this makes you feel uncomfortable, that's kind of the point as it's a common interview question*
+Activity: 15min
+ - Build w/ no plan (5min)
+ - Build w/ time for planning (10min)
 
-In small groups: Talk about a time you have failed 
-  -start with groups of two, turn and talk 3min
-  -then open up to table 10min
-  -then open it up to class to whoever wants to share 10min (led by )
+Video: 20min
+ - TED Talk (8min) [video](https://www.ted.com/talks/tom_wujec_build_a_tower?language=en)
+ - Discussion (10min)
+ 
+*New Groups*
 
-Have them read article in class 5min ()
+Groups read article intro and respective sections: 15min
 *Slack to them beforehand
   [4 steps to overcoming failure](https://www.fastcompany.com/3035120/4-steps-to-overcoming-failure-and-using-it-to-your-advanta)
+ - Read/Write (10min)
+ - Share to everyone (5min)
 
-Discussion: ()
-First turn and talk as a table 10min
-Discuss as group ~15min/until end
- What are some examples of how you have failed while here at Turing?
- Why is there a social stigma that failure is negative?
- How can you overcome failure?
+Closing: 5min
+ - Last thoughts
+ - Survey
 
 # Submit a PR at the end of this session and tag @emhickmann
