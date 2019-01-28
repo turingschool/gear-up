@@ -6,33 +6,29 @@ You're not an Imposter: You belong to the light, you belong to the thunder.
 
 ## Session Description 
 
-Think you're not a developer? You're not the only one! Learn about imposter syndrome and how to break the cycle.
+Think you're not a developer? You're not the only one! Learn about the 5 types of impostor syndrome and how to support yourself and each other.
 
 ## Session Outcomes 
 
 (What will students learn/leave with?): 
-Normalize imposter syndrome
-Learn more about it
-Learn to break the cycle
-
+Normalize imposter syndrome.
+have some visibility on your own struggle and how to look at it from an outside perspective. 
 
 ## Session Outline 
 
-(Please include who is facilitating and how much time you are going to spend in each section):
-Introductions : 10 mins with full group
+Loryn Mason, Kylie Stanley, Mike Duke, Michael Gatewood:
 
- personal story/
-Small groups sharing their ideas on what it means to them/what they've experienced : 20mins with 
+Introductions : 10 mins with full group - Name, mod, program, ice-breaker question. Acknowledge trauma, consent, and give the option to set own level of participation. 
 
- personal story/
-Teaching about imposter cycle/5 types of imposter syndrome
- personal story/ : 20mins with 
+Personal Experiences: Write on a note card: something that triggers your imposter syndrome. try statements like "'something happens' and I don't feel like I belong"
 
- personal story
-Coping with imposter syndrome/How to interrupt the cycle
-Wrap it up/closing discussion : 20mins with 
-
-Slides can be found here:
+Information about imposter syndrome: Teaching about imposter cycle/5 types of imposter syndrome from slides:
 https://docs.google.com/presentation/d/1Al72A0SQjA-3oLkSDIEDMdfAGpP0dSoAPZRXMu1nnVY/edit#slide=id.p
+
+Telling our stories: Hand out note cards randomly to each participant to read someone else's experience. Try and identify the type of IS is detailed (more than one is okay)
+
+What can we do about it: Go back to the slides and talk about strategies to combat each type of IS. Need to research more specific strategies than the ones on the slides. 
+
+Wrap it up/closing discussion: Have each participant talk about personal strategies they will take away as well as strategies they can use to help the rest of the group. end on a positive note. 
 
 Submit a PR at the end of this session and tag @emhickmann
