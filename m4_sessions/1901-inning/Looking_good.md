@@ -14,7 +14,13 @@ We communicate all the time without saying a word, or even thinking about it! Le
 1. 5 minutes (Laura): mingling/intros
 2. 5 minutes (Laura): Group quiz - [Quiz Link](https://testyourself.psychtests.com/testid/3764)
 3. 5 minutes (Laura): Group quiz - [Quiz Link](https://www.theguardian.com/small-business-network/2016/mar/04/quiz-fluent-body-language-business-success-relationships)
+
+Feedback, questions, interpretations. 
+
+Jump to why this is helpful - 
+
 4. 10 minutes (Jonathan): Body language and professionalism - practice power poses, smiling, placebo effect, subconscious
+
 5. 15 minutes (Stephanie): Watch this video (sound off, pay attention to the body language, write impressions on the white board) - [Video Link](https://www.youtube.com/watch?v=_ZBKX-6Gz6A)
 6. 10 minutes (Leta): Turn and talk - try to tell the story of your commute to Turing this morning using one word (think "I am Groot"). Listener: did you get it? What emotions did you pick up on? Talk about what you were trying to communicate, how you interpreted it. Then switch!
 8. 15 minutes (Nick): Group wrapup/takeaways -
@@ -32,4 +38,25 @@ We communicate all the time without saying a word, or even thinking about it! Le
 - [Non-Verbal Communication Across Cultures](https://www.psychologytoday.com/blog/between-cultures/201706/non-verbal-communication-across-cultures)
 - [The Power of the Power Pose: Amy Cuddy’s famous finding is the latest example of scientific overreach.](http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html)
 
-### Names of group members: 
+### Names of group members: Amy Petrie, Rajaa, Cody, Jordan W.
+
+
+IDEAS - Main purpose: Connect the entire session to job interviews/networking - nonverbal communication for interviews, practical help.
+
+(5-10 mins) Session starts. Each group member has a "role" they will be playing with their body langauge when the students come in. We will give introductions, ask the students to introduce themselves (ice breaker). Ask the students if they notice our nonverbal behavior and what roles we were playing/how we were feeling. - JORDAN
+
+(5-10 mins) Students take quiz #1. Feebdack from quiz - either as a class or in pairs. - AMY
+
+(5 mins) One video showing positive body language - RAJAA
+(5 mins) One video showing negative body language - RAJAA
+(10 mins) Discussion/feedback
+
+Find new quizzes - CODY
+(10-15 mins) session on body language tips/tricks. - CODY
+
+(5-10 mins) watch final video on silent/noise
+
+(5 mins) final quiz for students.
+
+
+
