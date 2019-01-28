@@ -74,3 +74,19 @@ _We'll split the room into 5 groups and each of the presenters will sit with a g
 
 **4. Share out:** (10 minutes)
 - What is your personal committment (post Turing) to benefit the greater good as a developer (i.e. with your new skills)? 
+
+
+
+
+
+_____________________________________________________________________
+
+Our plan for changes: 
+
+Altogether, we like the set up of this lesson and want to stick to the format of it, however we do want to make some changes. 
+
+
+Things to be changed:
+Isaac - Come up with more relevant examples for social movements in tech. He will use the four types of social movements(Alternative, Redemptive, Revolutionary, Reformative).
+Meg - Research and prepare information for the history of social movement in tech. She will also come up with an ice breaker for the start of class that is relevant to the lesson
+Ashley - Prepare and brainstorm the activity for the class. Right now, we are thinking that we will do some sort of activity where students will find a problem, and pitch an idea for a tech solution. 
