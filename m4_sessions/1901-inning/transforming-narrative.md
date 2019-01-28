@@ -8,9 +8,9 @@
     Identify when they are in a fixed mindset.
     Identify techniques to remove themselves from the fixed mindset into a growth mindset. 
     Identify an area that they want to transition into a growth mindset.
-    Express the difference between having a growth mindset and remaining constantly positive.
+    Express the difference between having a growth mindset and remaining constantly positive. !!(ask as a thought provoking question during idea introduction)!!
     Express their failures through the lens of a growth mindset, and understand their failure as a learning tool. 
-    Support other students who are currently in a fixed-mindset. 
+    Support other students who are currently in a fixed-mindset. !!(Ask students, when they were in a fixed mindset, how others might help them move beyond it)!!
   
 
 # Session Outline: Include the flow of the session and the time for each section.
@@ -25,7 +25,7 @@
 Francy 10 minutes - Students will identify an area that they are in a fixed mindset. Students will think of a time they they felt a fixed mindset, whether it was during Turing or before. Are there areas in the future where you feel that you're feeling fixed?
     - 4 minutes thinking this through, 2 minutes pair and share, and then 4 minutes of group share. 
     
- 4 minutes - Modeling the infographic exercise. 
+ 4 minutes - Modeling the infographic exercise.
 
  16 minutes - Students will pair up with another person and work through the infographic, using the fixed experience that they came up with during the previous activity. Students will take note of what they could have done differently or what techniques they could have employed.
  
@@ -36,6 +36,30 @@ Francy 10 minutes - Students will identify an area that they are in a fixed mind
 ALL 5 Minutes - We will open up the conversation so that students can share their new narratives. 
 
 Know that this experience has prepared you for failure. Being mindful of this failure and accepting of the fact that we can grow from our failures will allow us to perservere and succeed. 
+
+## New Ideas
+
+Introduce fixed and growth mindsets and then give students scenarios and ask them to decide if each is a fixed mindset or a growth mindset.
+
+Assign groups based on mixing together introverts and extroverts. Use cards that are color coded by how introverted or extroverted the students are then sort them into piles for each of us to run as small groups with a mixture of each color.
+
+Groups of 4 for small discussions and regroup to share small group ideas.
+
+Discuss techniques for moving out of a fixed mindset before infographic exercise.
+
+Use whiteboard to make a list of symptoms of fixed mindset and a list of techniques for moving towards a growth mindset.
+
+Instead of a coding challenge do a paper puzzle. - Will
+
+!! - Additive ideas.
+
+## To Do
+ 
+- [ ] Prepare group division materials
+- [ ] Brainstorm thought provoking questions for each session
+- [ ] Revise presentation/sessions timeline
+- [ ] Include Quinn in Planning
+- [ ] Prepare materials for paper challenge
 
 # Names of group members: 
 
