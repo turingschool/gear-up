@@ -38,7 +38,10 @@ Students will learn a basic framework for understanding emotional intelligence a
     - Any relationship is a two-way street. How do your EI needs/expectations of others      	
   compare/contrast to the role of EI in your own internal 
   (mental) life? 
-    - It is not reasonable to expect others to accommodate needs of which they are simply not aware; how can you improve your   own communication and introspection habits in order to better understand your own emotional needs/expectations, and in turn   to communicate these more clearly to those around you, and thereby increase the     chances of developing healthy,             satisfying relationships?
+    - It is not reasonable to expect others to accommodate needs of which they are simply not aware...
+        - how can you improve your own communication and introspection habits in order to better understand your own emotional needs/expectations? 
+        - What could you do to communicate these needs/expectations more clearly to those around you?
+        - How might this impact the chances of developing healthy, satisfying relationships?
     - How will you improve your own EI, in order to make a 
   positive contribution to the Turing community? Set one goal 
   for yourself, related to emotional intelligence, to focus 
