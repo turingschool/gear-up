@@ -1,6 +1,6 @@
 # Microaggressions Part 2: Practice
 
-[Powerpoint](https://docs.google.com/presentation/d/1XShMhQvKq_h1YgXOl-rl4x71xaNF2Ua22Mseo7yFggw/edit?usp=sharing)
+[Facilitator Slide Deck](https://docs.google.com/presentation/d/1XShMhQvKq_h1YgXOl-rl4x71xaNF2Ua22Mseo7yFggw/edit?usp=sharing)
 
 Print Full Role Play List for students prior to the session [Full Role Play List](https://docs.google.com/document/d/19EY_750vOk5TRCBFVflSfL--7aydvqdjNI7bUZVGHxE/edit)
 
