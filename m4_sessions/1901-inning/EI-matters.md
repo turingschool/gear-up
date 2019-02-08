@@ -39,7 +39,7 @@ Students will learn a basic framework for understanding emotional intelligence a
   compare/contrast to the role of EI in your own internal 
   (mental) life? 
     - It is not reasonable to expect others to accommodate needs of which they are simply not aware...
-        - how can you improve your own communication and introspection habits in order to better understand your own emotional needs/expectations? 
+        - how can you improve your own introspection habits in order to better understand your own emotional needs/expectations? 
         - What could you do to communicate these needs/expectations more clearly to those around you?
         - How might this impact the chances of developing healthy, satisfying relationships?
     - How will you improve your own EI, in order to make a 
