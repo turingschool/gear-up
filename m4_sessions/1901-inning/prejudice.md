@@ -57,24 +57,63 @@ And One of the following:
 
 
 ## Group Notes from 1/25
--Intro with snacks and have them pick an implicit bias out of a fishbowl
--Students write on the back of their paper about a insteresting topic
--Introduce ourselves 
--Start out with the Implicit Bias Test (split students into three groups and assign each group a specific bias test to take)
--Model (have Gear Up leaders take test beforehand and model 
-externally reflecting on the results we get) 
--Set ground rules for big group discussion 
--Have students work in groups to discuss mark down small group discussions
--Come together to share big group discussions
--Introduce article about racist Bots and bias in AI development
--Come up with strategies as a group for advocating for a diverse tech community
+**Learning Goals**
+At the end of this session, students will be able to-
+  1. Acknowledge that bias is inherent in all of our perspectives.
+  2. Help students verbalize the impact of sterotyping or personal bias in tech.
+  3. Recognize self-reflection as a method for understanding one's own biases.
+  4. List strategies for eliminating bias in tech. 
 
 
+**Materials & Resources** 
+- Personal computers
+- Slack group with shared link to the implicit bias test shared beforehand
+- 15-20 slips of paper with an implicit bias test written on it (race, gender and/or disability) 
+- [Article on implict bias in tech](https://www.pcmag.com/article/361661/artificial-intelligence-has-a-bias-problem-and-its-our-fau)
+- Google slides with learning outcomes and norms to be posted on airplay during Gear Up
 
--What are our learning goals? What kinds of guiding questions could we ask that are related to learning goals?
--Help students create concrete action steps for post-session awakening
--Introduce discussion about AI bias 
--Make a bridge to making students into advocates for tech diversity 
+
+**Norms**
+- Listen.
+- Use "I" statements 
+- Take people's stories at face value - don't question the authenticity of someone's experience
+- Don't make the story about you (be aware of how interpersonal relationships reflect larger societal issues) 
+- Respect each other 
+- Be nice 
+- Seek to be informative and educate rather than accusatory 
+
+
+**Icebreakers**
+1. Which tv show would you pick to live inside for a week?
+2. What would be on the menu for your ultimate birthday dinner? 
+3. What would you do for fun if you had to give up the internet for a week?
+4. What personality trait has gotten you in the most trouble? 
+
+
+**Discussion Questions**
+Small group reflection-
+  1. How do you feel about your result? Did you get the result that you expected? Were you completely surprised? 
+  2. Did you find the result of your test helpful? Is it counter-productive?
+  3. Do you think you have internalized prejudice? 
+  4. Have you ever been the target of prejudice? Have you ever been complicit in a bias (through action or being a bystander)? 
+Whole group reflection-
+  1. Share any insights from your small group discussion? 
+  2. Where do you think your implicit bias comes from? Your culture? Enviornment? Yourself? 
+  3. What do you think about being "blind" to race/gender discrimination? 
+  4. If you have identified a prejudice you hold, what can you actively do to counteract or stop it? 
+  5. Let's think of strategies for dismantling implicit bias in the tech industry. 
+
+
+**Timeline**
+Students walk in and take an annoymous test from the fishbowl that they can't look at (5 min)
+Icebreaker questions/introductions with facilitators leading (pronouns, mod and ask/answer icebreaker) (5 min)
+State learning goals (5 min)
+Help students set up their computers and take the Implicit Bias Test (15 min) 
+Allow students who have finished to take a POM (5 min)
+Small group discussion (10 min)
+Large group discussion (15 min) 
+Closing and share reading resources to learn more about implicit biases in tech in slack channel (5 min)
+
 
 
 Submit a PR at the end of this session and tag @emhickmann
