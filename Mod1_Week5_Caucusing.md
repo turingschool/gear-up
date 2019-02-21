@@ -10,7 +10,7 @@ Depending on the cohort that you're in, Facilitator should pull up the attendanc
 
 ## Opening Activity 
 
-Meet in Clarke with all FE and BE students. Explain rationale for racial caucusing. 
+Explain rationale for racial caucusing. 
 
 "White people and people of color each have work to do separately and together. Caucuses provide spaces for people to work within their own racial/ethnic groups. For people of color, a caucus is a place to work with their peers on their experiences of internalized racism, for healing and to work on liberation.For white people, a caucus provides time and space to work explicitly and intentionally on understanding white culture and white privilege and to increase one’s critical analysis around these concepts. A white caucus also puts the onus on white people to teach each other about these ideas, rather than constantly relying on people of color to teach them.
 
