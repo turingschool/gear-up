@@ -32,6 +32,8 @@ Four separate rooms available for small group discussions.
 
 Body check. Reminder of [Norms](https://docs.google.com/presentation/d/1eiblnyQQPHTaBNTdRPisNprelCrUFUuhVgYAdoIeWR4/edit#slide=id.g4c1460c520_0_10). Acknowledgement that this is scary and we aren't experts.
 
+Go around-how do you self identify, how are you feeling coming into this session? (each student should share for up to two minutes)
+
 ## Guiding Questions (45 min)
 
 [Pre-reading](https://www.compasspoint.org/blog/race-caucusing-organizational-context-poc%E2%80%99s-experience)
