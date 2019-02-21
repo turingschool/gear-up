@@ -5,6 +5,12 @@
 - Gear Ups are an intentional and continuously integrated part of the Turing curriculum. They are used to instill the purpose of our mission and aid the student body in building a diverse and inclusive community.
 - Gear Ups provide students with knowledge about intersections of identity and institutionalized systems of power, along with data and vocabulary connecting those topics to tech specifically.
 
+## Slides for each caucus
+
+- [POC racial caucus slides](https://docs.google.com/presentation/d/19q9YR0cmUBuUg-GjTq5TfdDDvx7iqqO8yj5rzBpUtEQ/edit#slide=id.g1c033f9cd5_0_35)
+- [White racial caucus slides](https://docs.google.com/presentation/d/1kIi4mx0dSDMQf43tKxqL4D4WBfQZ2Prms7YuVLm9J9Q/edit#slide=id.g1c033f9cd5_0_35)
+- [Multiracial racial caucus slides](https://docs.google.com/presentation/d/18E2ZwN4yakfAhLDaqdUI6xKCyi5pcY_1ikSenOZ2vuU/edit#slide=id.g1c033f9cd5_0_35)
+
 ## Take Attendance
 Depending on the cohort that you're in, Facilitator should pull up the attendance spreadsheet and quickly take attendance. If in a mixed group, pass around a sign-up sheet.
 
