@@ -2,7 +2,7 @@
 
 [Slide deck](https://docs.google.com/presentation/d/1kMjVrNg2uCVT1GxXDgnauzUfBL8qixtsf86HZNGY9b0/edit?usp=sharing)
 
-##Setup
+## Setup
 Ask students to move all desks to the sides of the room and make a circle (offer option to sit on chairs to be inclusive of all abilities, encourage people to stand if they are able)
 
 ## Intro/Background - 3 min
@@ -35,7 +35,7 @@ In a circle one student volunteers to go first and says "Everybody go..." and th
 and then repeats whatever they just did as exactly as possible. The next person does their sound and movement in a clockwise direction. Repeat 1-2 times. Connect to getting 
 comfortable with discomfort, anticipatory anxiety, cohort connection of being in the unknown together, etc.
 
-##Break - 5 min
+## Break - 5 min
 Take a 5 minute break!
 
 ## Accountabilabuddies
@@ -69,12 +69,12 @@ Reflection- 5 min
 * Have students share back ideas they have for using their accountabilabuddies, maintaining mental health and well being, 
 anything they learned about their buddy that their buddy is comfortable sharing.
 
-##Lunch Discussions- 3 min
+## Lunch Discussions- 3 min
 In week two and three Mod 2 students will facilitate lunch discussions for you to check in and process how you are adjusting 
 to Turing. This is an opportunity to check in on emotional well being and stress management, not talk about code! Review slides
 for group. 
 
-##Closing T.O. Games
+## Closing T.O. Games
 **Two By Three By Bradford**
 In pairs begin counting 1,2,3 and alternating turns. Once that has been mastered replace 1 with a sound, once that has been 
 mastered replace 2 with a movement, once that has been mastered replace 3 with a movement and a sound. By the end of the game 
@@ -98,7 +98,7 @@ students hear “stop,” they start walking and when they hear “move” they 
 For both of these games connect to learning new languages through code, leaving security to take risk, rewiring brain for this environment
 can feel challenging and stressful but it will be accompanied by laughter and reward along the way.
 
-##Closing Dialogue- 
+## Closing Dialogue- 
 Have students reflect on: 
 * How Theater of the Oppressed relates to time at Turing. 
 * Take aways from accountabilabuddies.
