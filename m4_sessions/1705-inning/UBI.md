@@ -1,12 +1,9 @@
 # Group One
 
 ## List your group members here:
-- Franklin Cosby
-- Ashley Schauer
-- Valerie Trudell
-- Kyle Zucker
-- Tim Brandle
-
+- Dan
+- Dylan
+- Nico
 
 ------------------------------------------------------------------------------------------
 ## Mission Alignment
@@ -18,7 +15,13 @@ Our mission is to “unlock human potential.” The software we write enables it
 solving increasingly difficult problems. However, some automation, especially of physical processes, can force some out of the jobs
 they’ve done for years. This has the potential to do more harm than good for inclusion in our society.
 
-
+## Outline
+1. Into/ General UBI info - 10 min
+2. General UBI info - Video 10min
+3. Individual Reflection on pros and cons - 5 min
+3. Break into small groups and discuss pros and cons - 15 min
+4. Come back together and write the pros and cons on the board - 10 min
+5. Thought Experiment - As a group led by us - 20 min
 
 ## Video
 
