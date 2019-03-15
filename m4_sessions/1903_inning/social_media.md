@@ -1,17 +1,18 @@
-##### Black Mirror: What would you do for likes?
+##### Social Media: How Connected Are You Really?
 
 #### Outline
-* Jump right into Black Mirror episode Nose Dive
-* Cut video short so we could have 20-30 minutes of discussion 
+How Connected Are You Really?
+
+
 
 ###### Outcomes
-To make students realize the psychological and sociological impacts of social media on themselves and others.
+To make students realize the (+) & (-) psychological and sociological impacts of social media on themselves and others.
 
 ##### Group Members
-* Marissa Reinke
-* Jon W.
-* Mickey Fen
-* Spencer Carter
+* Michael Clampett
+* Shannon Moranetz
+* Travis Gee
+* Maddie Jones
 
 ## SESSION OUTCOMES
 
@@ -19,38 +20,82 @@ To make students realize the psychological and sociological impacts of social me
 
 * Making people think about their social presence (+/-)
 
-* Is Social Media a direct representation of who you are
+* What are you presenting to the world? How does it compare to your looking glass self?
 
 ## Prompt questions
 
 * Government and Social Media - thoughts/ideas
 
-* What does that mean as a developer and our social responsibility 
+* What does that mean as a developer and our social responsibility? We are the people that make those decisions.
 
-* How do you use it
+* Why do you use it?
 
-* What do you think of double posting? 
+* What apps do you use?
 
-* What do you think about people who don't use it? 
+* Is there a future for social media without the negative effects listed here? How can that balance be achieved?
+
+
 
 ## GROUPING
   
-  * Open floor discussion
+  * Open floor debate-moderated
 
 ## LOGISTICS
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| Room setup in a horseshoe. TVs with speakers | students need: notebooks and something to write with | netflix.com |
+| Large room needed. Argument Posters on both sides of room | students need: open-minded and respectful |
 
 ## SESSION OUTLINE
 
 | Timing | Facilitator Talking Points | Participant Actions  |
-5 min intro / warmup - Jon
-30 min video - TV
-5 min write about why you use social media/how often/could you go without it - Marissa
-15 min discussion time - Spencer
-5 min wrapup  |  What do you participate in currently? OMG how any likes? Then ask again at closing. | Computers closed, minds open, eyes watching tv, ready to talk! Everyone being respectful and waiting their turn to talk. - Fenwick
+larger discussion - need bigger room for activity
+
+10 min Come together - Introduction & Icebreaker Game
+
+tennis ball game - something interesting about yourself
+
+-what brought you to turing, where are you from, etc
+
+15 min Breakout groups  - far enough away that groups can't hear the opposing arguments
+
+-two groups for a Pro
+
+-two groups for a Con
+
+-each of us four will facilitate the discussion
+
+POMODORO - 5 min
+
+15 min breakout groups again - everyone switches sides
+
+POMODORO - 5 min
+
+20 min remaining here.
+
+videos - 10 min.
+
+-Pros - 5 min
+
+-Video - how does social media positively affect humankind?
+
+-autism and interconnectedness
+
+-immigration and emigration
+
+-proliferating the "you're not alone" mentality
+
+-Cons - 5 min
+
+-Video - how does social media negatively affect society?
+
+-depression
+
+-dopamine reward cycle and engineering addiction
+
+groups questions
+
+group up - what stuck out, how do you feel now? what position do you take?
 
 ### Why Us?
 DO YOU CONTROL YOUR SOCIAL MEDIA OR DOES IT CONTROL YOU? This a GearUp all about the unrecognized implications of social media and your psyche. We will explore a society that a persons life is all dependent on how many likes they receive. 
