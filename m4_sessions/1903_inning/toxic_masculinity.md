@@ -1,24 +1,24 @@
 # Group One
-## Session Title: Toxic Masculinity & Nerd Culture
+## Session Title: Toxic Masculinity
 ## Description: Why should students come to this session?
-* Nerd culture is now part of the zeitgeist. Come join us and 		learn why you got to get over your idea of what a nerd is, 		dude.
+* TBD...
 
 ## Session Outcomes: What will students leave with or gain from this session?
-* Intro: What’s your favorite nerd thing?
-* Awareness of what nerd culture encompasses and why the term ‘nerd’ isn’t specific.
-* Awareness of how toxic masculinity effects media and why there’s this protectionism in ‘nerd’ media (aka. misogyny)
-* Examples in media of this actually in media
-* Real world examples of ways it can harm (Dr. Disrespect)
-* Discussion - Where do you see the effects in media and in your own life? How has this affected you? 
-* Awareness of why you are now ONE OF US
+* Awareness of what toxic masculinity is
+* Ways to interject/support someone struggling with toxic masculinity
+* How can we work to change tosic masculinity at Turing and in the tech industry?
 
 ## Session Outline: Include the flow of the session and the time for each section.
-* Intro - Introduce selves with favorite piece of nerd media/thing
-* The evolution of nerd culture
-* The protectionism of the term ‘nerd’ and why it isn’t specific - point to how we all like different things considered nerdy and toxic masculinity in these things
-* How this has influenced media and our own lives 
-* Small groups with questions
-* Bring it back together and reflections 
+1. Students journal - define toxic masculinity
+2. Watch clip from The Mask You Live In and facilitators discuss definition of toxic masculinity
+3. Students journal - define toxic masculinity again
+4. Facilitators dispell myths and negative connotations surrounding toxic masculinity
+5. Mask Exercise Activity: one side of mask, students write pronouns and what they portray to the world, back side students write how they actually feel that they don't share (exercise from movie). Masks thrown into center of room and each person takes another person's mask.
+6. Small group discussion of their mask and the mask they read. Open up to large group discussion.
+7. Meditation/closing for 10 min.
 
 ## Names of group members
-*
+* Karin Ohman
+* Jeo D
+* Hillary Stewart
+* Ben Lee
