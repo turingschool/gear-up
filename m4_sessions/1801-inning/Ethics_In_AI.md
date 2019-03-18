@@ -1,55 +1,47 @@
-#Update Group 1: Ethics in AI
+
+#### Name of Session: 
+Ethics in AI
+
+#### Group Members: 
+Anna Smolenztnov, Heather Hartley, Jimmy Smith, Mary Goodhart
 
 ## Why should students pick this session?
-To equip themselves to understand the ethics and problems revolving around artificial intelligence - one of the most important issues of the next century.
+As artificial intelligence technologies find there way into more aspects of our lives, we are starting to realize that there is a big difference between how AI can be used and how it should be used. As developers, we are responsible for understanding the impact of what our future projects could have on humanity. This session will cover current issues and concerns with AI, how to become more aware, and start the conversation on how to address those issues. 
 
-## Discuss
-* What is AI?
+## 5 minute warm up
+* What is AI? (basic AI definition)
 * For the people who are worried about it, what are they worried about?
+* Where do you interact with AI?
+
+## Recap of questions
+* Actual definition of AI
+* Potential worry areas
+* Examples of where you interact with AI
 
 ## Issues
-#### Human dignity
-The effect on us of losing human interactions. Joseph Wasenbaum - "AI technology should not be used to replace positions that require respect and care. Customer service reps, nursemaids for the elderly, police officers. If machines replace them, we will find ourself alienated...." Counter argument from Pamela McCordic.
-#### Implications on security/privacy
+#### Bias in AI (facial recognition in government agencies across the board)
+
+
+#### Implications on privacy
 “I like my Alexa, but I don’t like being recorded and monitored.”
 #### Automation > Labor
 How do we manage this as a society? Is it worth it? Charles Murray.
 #### Difficulty verifying/pinpointing mistakes
 Black Box Problem (https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
-  
-#### Other Topics
-* Machine consciousness
-* How does this relate to us as developers of software? (Developers that write code that writes code...). 
-* Human emotion is flawed, is this why we need machines?
-https://www.forbes.com/sites/tonybradley/2017/07/31/facebook-ai-creates-its-own-language-in-creepy-preview-of-our-potential-future/#131c0c3e292c
 
 
-## Timeline
-1. (10 minutes) Introductions
-2. (10 minutes) Human dignity
-3. (10 minutes) Implictaions on security/privacy
-4. (10 minutes) Automation > Labor
-5. (10 minutes) Difficulty verifying/pinpointing mistakes
-6. (10 minutes) Small group discussions: Which of these topics don’t sit right with you?
-7. (10 minutes) Discuss conclusions
+## Timeline/Session Outline
+1. (5 minutes) Introductions-names/pronouns/favorite
+2. (5 minutes) Small group questions
+3. (10 minutes) Facilitators talking about answers to questions
+3. (5 minutes) Bias in AI Scenario
+4. (3 minutes) Potential Issues with Scenario/Development
+5. (5 minutes) Bias in AI group discussion
+6. (5 minutes) POM
+7. (3 minutes) Privacy Scenario
+8. (3 minutes) Small group discussion
+9. (5 minutes) Privacy Group Discussion 
+10. (10 minutes) Practical AI Discussion moving forward as Devs
 
-
-Group 1
-
-Group Members: Liam Barstad, Joan Harrington, Aaron Schreck, Iza Jimenez
-
-Name of Session: Ethics in Ai
-
-Session Description (Why should students come to this session):
-As tech developers well have ethical responsibilies.
-Discuss singularity, Moores Law inevitability.
-Practices like machine learning will become more common place, what are the ethical ramifications?
-
-Session Outcomes (What will students learn/leave with?):
-Different views on Ai, possible ramifications both short and long term.
-
-Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
-10min Ice breakers/intros
-15min Current perspectives of Ai
-
-More to be added...
+#### Session Outcomes (What will students learn/leave with?):
+Different views on AI, possible ramifications both short and long term, an ability to start a discussion in the workplace about ethics in AI.
