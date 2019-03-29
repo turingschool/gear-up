@@ -1,8 +1,8 @@
 ## Group Members:
-Anten Skrabec
-Eric Weissman
-Tiffany Bachmann
-Whitney Burton
+- Anten Skrabec
+- Eric Weissman
+- Tiffany Bachmann
+- Whitney Burton
 
 ## Name of Session: 
 Mental Health in Tech Industry
