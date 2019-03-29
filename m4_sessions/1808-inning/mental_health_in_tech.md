@@ -50,6 +50,6 @@ Effects of Tech Industry culture on mental health conditions, ways to prevent bu
     - What kind of changes could you make in your own life?
     - What are some other ideas/strategies for mental health support?
   - **(7 min)** Disccusions in small groups (count off by three)
-3. **(10 min)** large group discussion
-4. **(10 min)** looking forward, and strategies
-5. **(5 min)** students write in their journal about some of their own strategies and ways they can help others.
+4. **(10 min)** large group discussion
+5. **(10 min)** looking forward, and strategies
+6. **(5 min)** students write in their journal about some of their own strategies and ways they can help others.
