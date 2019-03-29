@@ -52,4 +52,8 @@ Effects of Tech Industry culture on mental health conditions, ways to prevent bu
   - **(7 min)** Disccusions in small groups (count off by three)
 4. **(10 min)** large group discussion
 5. **(10 min)** looking forward, and strategies
+  - Use Headspace and/or similar apps to help with self-reflection, being mindful, etc.
+  - Don't be afraid to seek out a mental health professional and be supportive of others who want to meet with a mental health professional
+  - Build techniques into your work routine to give yourself deliberate breaks/opportunities to disconnect from the work (Pomodoros, change of scenery/get fresh air, etc.)
+  - Take care of your body in a way that works for you - daily walk, moving around, etc.
 6. **(5 min)** students write in their journal about some of their own strategies and ways they can help others.
