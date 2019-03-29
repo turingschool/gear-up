@@ -44,6 +44,9 @@ Expose what shows up about one of us
   - facebook
   - google location history
   - ancestry 
+  
+- Have students pair and google each other
+- talk about DNA tracking
 
   
 Look at the information FB stores about you that you can download. This doesn't even cover all of what they have.
@@ -56,6 +59,9 @@ Small Group Dicussion:
 * (10) What are you willing to give away? Where do you draw the line for what you're willing to give away?
 ```
 -
+- What are the benefits of being tracked? what are the cons?
+- present both viewpoints
+
 Break up into small groups and discuss where they stand with this.
 Report back to Large Group?
 ```
@@ -65,6 +71,7 @@ Report back to Large Group?
 - Do you read privacy policies before you sign up?
 Large Group?
 Have you ever deleted an app because you disagree with the privacy policy?
+
 ```
 
 * (5) Closing activity: Discuss final impressions of privacy. Takeaways for your career and how you think about the apps you're building.
