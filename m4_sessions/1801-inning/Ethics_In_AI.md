@@ -32,9 +32,14 @@ Black Box Problem (https://www.technologyreview.com/s/604087/the-dark-secret-at-
 
 ## Timeline/Session Outline
 1. (5 minutes) Introductions-names/pronouns/favorite
-2. (5 minutes) Small group questions
+2. (5 minutes) Small group questions - discussion in small groups
 3. (10 minutes) Facilitators talking about answers to questions
 3. (5 minutes) Bias in AI Scenario
+4. (1 minute) Individual write thoughts about concerns with scenario
+5. (5 minutes) Small group discussion about concerns with scenario/possible courses of action
+6. (5 minutes) Large group discussion - each group sharing out
+7. (5 minutes) Presentation with data about concerns about scenario
+
 4. (3 minutes) Potential Issues with Scenario/Development
 5. (5 minutes) Bias in AI group discussion
 6. (5 minutes) POM
