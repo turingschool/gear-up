@@ -17,8 +17,7 @@ Read _two_ of the following articles/videos (we recommend all of them!) and refl
 * ["The Surprising (Nontechnical) Skill You Need to Succeed in Tech"](https://www.themuse.com/advice/the-surprising-and-nontechnical-skill-you-need-to-succeed-in-tech), _The Muse_
 * ["Why Aren't We More Compassionate?"](http://www.ted.com/talks/daniel_goleman_on_compassion#t-39146), TED Talk (Daniel Goleman)
 * ["Can you teach people to have empathy?"](http://www.bbc.com/news/magazine-33287727), BBC (Jun 29, 2015)
-* ["Three Kinds of Empathy"](http://www.danielgoleman.info/three-kinds-of-empathy-cognitive-emotional-compassionate/), Daniel Goleman
-* ["The Importance of Empathy in Our Services-Centric, People-Oriented Economy"](http://blogs.wsj.com/cio/2015/10/09/the-importance-of-empathy-in-our-services-centric-people-oriented-economy/), _Wall Street Journal Blog_ (Oct 9, 2015)
+
 
 #### Reflect
 After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
