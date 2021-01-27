@@ -2,7 +2,7 @@ title: "Career Development Curriculum - Turing School of Software and Design"
 description: "Open source career development curriculum for the Turing School of Software and Design"
 url: "https://careerdev.turing.io/"
 
-baseurl: '/'
+baseurl: '/gear-up'
 permalink: /:title
 
 markdown: kramdown
