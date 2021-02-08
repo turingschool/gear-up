@@ -10,13 +10,14 @@ _Our **mission** is to unlock human potential by training a diverse, inclusive s
 ### Pre-Work Preparation
 #### Background Knowledge
 
+Step 1: Watch this video from Google. 
 * ["Unconconscious Bias at Work"](https://www.youtube.com/watch?v=NW5s_-Nl3JE)
 
-If you are unfamiliar with the term "Implicit Bias," take time to read this article to build your background knowledge. 
+Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read this article to build your background knowledge. 
 * ["PBS News Hour: Implicit Bias"](https://www.pbs.org/newshour/nation/making-people-aware-of-their-implicit-biases-doesnt-usually-change-minds-but-heres-what-does-work)
 
 #### Reflect
-After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
+Create a gist on Github and reflect (4-6 sentences) on the following prompts.
 
 * What were your reflections from the video?
 * In what ways have you examined your implicit biases before coming to Turing?
@@ -25,11 +26,11 @@ After reading the articles above, create a gist on Github and reflect (4-6 sente
 
 #### READ
 
-If you are unfamiliar with the term "Intersectionality," take time to read this article to understand the theory and introduction of the concept.  
+If you are unfamiliar with the term "Intersectionality," take time to read this article to understand the theory and introduction of the concept. If you are familiar, move to the reflection questions.  
 * ["What's Intersectionality? Let These Scholars Explain the Theory and Its History"](https://time.com/5560575/intersectionality-theory/)
 
 #### Reflect
-After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
+Create a gist on Github and reflect (4-6 sentences) on the following prompts.
 
 *“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”
 
