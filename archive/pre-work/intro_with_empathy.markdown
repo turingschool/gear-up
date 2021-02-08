@@ -31,8 +31,8 @@ If you are unfamiliar with the term "Intersectionality," take time to read this 
 #### Reflect
 After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
 
-* “All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”
+*“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”
 
-      * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
-      * What strengths does your identity give you?  How will you utilize those at Turing?
-      * How do you think you could value the identies of those around you to bring out their strengths at Turing? 
+ * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+ * What strengths does your identity give you?  How will you utilize those at Turing?
+ * How do you think you could value the identies of those around you to bring out their strengths at Turing? 
