@@ -17,7 +17,7 @@ Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read t
 * ["PBS News Hour: Implicit Bias"](https://www.pbs.org/newshour/nation/making-people-aware-of-their-implicit-biases-doesnt-usually-change-minds-but-heres-what-does-work)
 
 #### Reflect
-Create a gist on Github and reflect (4-6 sentences) on the following prompts.
+Create a gist on Github and reflect (4-6 sentences) on the following questions:
 
 * What were your reflections from the video?
 * In what ways have you examined your implicit biases before coming to Turing?
@@ -30,7 +30,7 @@ If you are unfamiliar with the term "Intersectionality," take time to read this 
 * ["What's Intersectionality? Let These Scholars Explain the Theory and Its History"](https://time.com/5560575/intersectionality-theory/)
 
 #### Reflect
-Create a gist on Github and reflect (4-6 sentences) on the following prompts.
+On your same gist, reflect on the following quesitons:
 
 *“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”
 
