@@ -1,28 +1,38 @@
 ## Gear Up Pre-Work
-### Turing Culture: Developing Empathetic Programmers
 
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
-### Why Empathy?
-* Interpersonal skills (including empathy) have a direct, significant impact on your professional success.
-* Empathy is a foundational interpersonal skill. Other skills, such as collaboration, communication, compromise all hinge on your ability to demonstrate empathy.
-* Interpersonal skills, including empathy, can be developed and improved.
-* Turing's mission (cited above) demands that we support students development of technical _and_ interpersonal skills. 
+### What is the purpose of Gear Up in Mod 0?
+
+* Reflect on intersectionality and how your identity impacts your experiences and interactions with others
+* Develop greater empathy and awareness of the experiences of others in the field of software development
 
 ### Pre-Work Preparation
-#### Read
-Read _two_ of the following articles/videos (we recommend all of them!) and reflect on these questions: why are we talking about empathy at a software development school? how can you develop the "skill" of empathy? and why should you care?
+#### Background Knowledge
 
-* ["Why is Empathy Important for Design"](http://www.bresslergroup.com/blog/why-empathic-design/)
-* ["The Surprising (Nontechnical) Skill You Need to Succeed in Tech"](https://www.themuse.com/advice/the-surprising-and-nontechnical-skill-you-need-to-succeed-in-tech), _The Muse_
-* ["Why Aren't We More Compassionate?"](http://www.ted.com/talks/daniel_goleman_on_compassion#t-39146), TED Talk (Daniel Goleman)
-* ["Can you teach people to have empathy?"](http://www.bbc.com/news/magazine-33287727), BBC (Jun 29, 2015)
+* ["Unconconscious Bias at Work"](https://www.youtube.com/watch?v=NW5s_-Nl3JE)
 
+If you are unfamiliar with the term "Implicit Bias," take time to read this article to build your background knowledge. 
+* ["PBS News Hour: Implicit Bias"](https://www.pbs.org/newshour/nation/making-people-aware-of-their-implicit-biases-doesnt-usually-change-minds-but-heres-what-does-work)
 
 #### Reflect
 After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
-* What role does empathy play in your life and how has it helped you?
-* How does empathy help you build better software?
-* Why is empathy important for working on a team?
-* Describe a situation in which your ability to empathize with a colleague or teammate was helpful.
-* When do you find it most difficult to be empathetic in professional settings? How can you improve your skills when faced with these scenarios?
+
+* What were your reflections from the video?
+* In what ways have you examined your implicit biases before coming to Turing?
+* What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
+
+
+#### READ
+
+If you are unfamiliar with the term "Intersectionality," take time to read this article to understand the theory and introduction of the concept.  
+* ["What's Intersectionality? Let These Scholars Explain the Theory and Its History"](https://time.com/5560575/intersectionality-theory/)
+
+#### Reflect
+After reading the articles above, create a gist on Github and reflect (4-6 sentences) on the following prompts.
+
+* “All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”
+
+      * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+      * What strengths does your identity give you?  How will you utilize those at Turing?
+      * How do you think you could value the identies of those around you to bring out their strengths at Turing? 
