@@ -104,7 +104,7 @@ Reflection individually or in pairs
 
 - Resource Access
   - [Code For America](https://www.codeforamerica.org/)
-  - [Engineers Without Borders])https://www.ewb-usa.org/)
+  - [Engineers Without Borders](https://www.ewb-usa.org/)
   - [Hack4impact](https://hack4impact.org/about)
   - [Coding For a Better World](https://ssir.org/articles/entry/coding_for_a_better_world)
 
