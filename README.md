@@ -1,66 +1,75 @@
-# Gear Up
+# Gear Up 2021
 
-## Overview
-Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. Our vision is a world powered by technology where the people building it represent the people using it. We're here to build a movement.
+## Gear Up Purpose
 
-In order to advance this mission and vision, our curriculum transcends technical training. We also present students with opportunities to grow as individuals, members of a team, and members of a community. 
-
-Gear Up is an intentional and continuously integrated part of the Turing curriculum to instill the purpose of our mission and aid the student body in building a diverse and inclusive community.
-
-* Curriculum spans 4 modules
-* Each module includes 3 Gear Up sessions
-* Knowledge: Gear Ups provide students with knowledge about intersections of identity and institutionalized systems of power, along with data and vocabulary connecting those topics to tech specifically.
-* Understanding: Students will be asked to engage in critical self-reflection in order to be able to identify their individual powers and privileges and how their actions can impact the larger community.
-* Skills: Students will gain the skill set to: 
-  - Navigate critical conversations 
-  - Approach their community with empathy and vulnerability 
-  - Practice humility as they enter the tech industry
+- Reflect on intersectionality and how your identity impacts your experiences and interactions with others
+- Develop greater empathy and awareness of the experiences of others in the field of software development
+- Provide exposure to the biases that exist in the field of software development 
+- Build skills to address micro and macro aggressions 
+    - The ability to identify micro/macro aggressions
+    - Using inclusive language 
+    - Accepting other’s experiences
+  - Apologizing when you commit a micro/macroagression
+- Building a vision of the impact you want to make on the people around you and the people who will use your products
+- Communicating how your identity creates a unique perspective to who you are as a Software Developer
 
 
-<table>
-  <tr>
-    <th>Module</th>
-    <th>Sessions</th>
-  </tr>
-  <tr>
-    <td>Mod 1</td>
-    <td>
-      <ul>
-        <li>Week 1: Norms and Empathy</li>
-        <li>Week 3: Intersectionality (Social Justice 101)</li>
-        <li>Week 5: Social Justice Deep Dive</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Mod 2</td>
-    <td>
-      <ul>
-        <li>Week 1: Empathy and Privilege 2</li>
-        <li>Week 3: Code: Debugging the Gender Gap</li>
-        <li>Week 5: Choice Session, Mod 4 facilitated</li>
-      </ul> 
-  </tr>
-  <tr>
-    <td>Mod 3</td>
-    <td>
-      <ul>
-        <li>Week 1: Microaggressions 1: Theory</li>
-        <li>Week 3: Microaggressions 2: Practice</li>
-        <li>Week 5: Choice Session, Mod 4 facilitated</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Mod 4</td>
-    <td>
-      <ul>
-        <li>Week 1: Create your own gear up</li>
-        <li>Week 3: Create your own gear up</li>
-        <li>Week 5: Facilitate gear up session</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-Rotation sessions:  Group Think, Attention Economy, Tragedy of the Commons, Getting Better at Difficult Things
+## Gear Up Overview
+
+|   | Week 1  | Week 3  | Week 5  |
+|---|---|---|---|
+| Mod 1 | Dev Empathy: Intersectionality & Bias  | Dev Empathy: Experiences & Awareness   | Dev Understanding: Mod 4 Capstone Group   |
+| Mod 2 |  Dev Reality: Communication  | Dev Reality: The Tech Landscape  | Dev Understanding: Mod 4 Capstone Group   | 
+| Mod 3 | Dev Identity: The Culture We Build  | Dev Identity: Who is the Developer I Want to Be?   |  Dev Understanding: Mod 4 Capstone Group   |
+| Mod 4 | Dev Impact: Build Capstone  | Dev Impact: Refine Capstone  | Dev Impact: Present Capstone   |
+
+
+## Gear Up Norms
+
+*Adapted from Courageous Conversations*
+
+### Stay Engaged
+
+- Be present in this space.
+- Close browsers, projects, or other distractions.
+- Stay with the topic.
+
+### Speak Your Truth
+
+- Use “I” language for your experience, not generalizing the experience of many.
+- Everyone does not communicate the same way, appreciate the way people express their ideas.
+
+### Accept The Experience
+
+- People sometimes try to “fix” the pain or discomfort of others, instead sit with them in the pain or discomfort.
+- We all experience things differently and our reality is different. Listen to that experience without judgment or attempts to minimize.
+
+### Step Up, Step Back
+
+- Be mindful of the airtime you are taking. 
+- If you are often silent, push yourself to speak up. If you often speak, push yourself to listen more.
+
+### Listen To Build
+
+- People are often waiting to share a point of view or experience and that can lead to missing the opportunity to connect to others. 
+- Listen to the ideas and try to BUILD on the conversation instead of dropping ideas in the middle of the circle. 
+
+### Ongoing Work
+
+Equity and inclusion work does not end in an hour session. 
+These ideas are meant to be a starting point to an ongoing conversation and process. 
+There is not a clean, simple, or easy way to wrap up conversations on identity.
+
+
+## Session Design
+
+Sessions in Modules 1 - 3 will follow a general format that includes:
+
+- Content is provided for review at least 48 hours prior to the session on Turing.io/GearUp (TBD)
+- Each session will have the option of independent reflection or group discussions
+- Each student will submit a synthesis of what they are learning and applying from the session in a google form.
+- Students in the independent reflection can link their gist or write a summary response
+- Students in discussion groups will share what they learned from their discussion group
+- *FE/BE cohorts will be combined to have two facilitators in each session*
+
