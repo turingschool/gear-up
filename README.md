@@ -73,3 +73,9 @@ Sessions in Modules 1 - 3 will follow a general format that includes:
 - Students in discussion groups will share what they learned from their discussion group
 - *FE/BE cohorts will be combined to have two facilitators in each session*
 
+## Culture Survey
+
+Each Module should complete a Culture Survey at least ONCE during a Module.
+   - Recommended between weeks 1-3 
+   - Please see Culture Survey.md for further directions 
+   - Instructors can choose how to implement the survey and feedback discussion
