@@ -2,6 +2,7 @@
 
 ## Purpose:  Communicate how your identity creates a unique perspective as a software developer.
 
+---------------------------------------------------
 ## Session 2 Structure
 
 Gear Up Norms Review (10 min)
@@ -29,49 +30,55 @@ Closing (5 min)
 - Remind students that they should be making all final updates by XXXXXX (add date)
 
 ---------------------------------------------------
-## Gear Up Norms 
+## Session 2 Plan
 
-*Adapted from Courageous Conversations*
+## Gear Up Norms Review (10 min)
+- Instructors should review the GU Norms 
+- Give 5 minutes for reflection independently or in pairs on the GU Norms
 
-### Stay Engaged
+      ## Gear Up Norms 
 
-- Be present in this space.
-- Close browsers, projects, or other distractions.
-- Stay with the topic.
+      *Adapted from Courageous Conversations*
 
-### Speak Your Truth
+      ### Stay Engaged
 
-- Use “I” language for your experience, not generalizing the experience of many.
-- Everyone does not communicate the same way, appreciate the way people express their ideas.
+      - Be present in this space.
+      - Close browsers, projects, or other distractions.
+      - Stay with the topic.
 
-### Accept The Experience
+      ### Speak Your Truth
 
-- People sometimes try to “fix” the pain or discomfort of others, instead sit with them in the pain or discomfort.
-- We all experience things differently and our reality is different. Listen to that experience without judgment or attempts to minimize.
+      - Use “I” language for your experience, not generalizing the experience of many.
+      - Everyone does not communicate the same way, appreciate the way people express their ideas.
 
-### Step Up, Step Back
+      ### Accept The Experience
 
-- Be mindful of the airtime you are taking. 
-- If you are often silent, push yourself to speak up. If you often speak, push yourself to listen more.
+      - People sometimes try to “fix” the pain or discomfort of others, instead sit with them in the pain or discomfort.
+      - We all experience things differently and our reality is different. Listen to that experience without judgment or attempts to minimize.
 
-### Listen To Build
+      ### Step Up, Step Back
 
-- People are often waiting to share a point of view or experience and that can lead to missing the opportunity to connect to others. 
-- Listen to the ideas and try to BUILD on the conversation instead of dropping ideas in the middle of the circle. 
+      - Be mindful of the airtime you are taking. 
+      - If you are often silent, push yourself to speak up. If you often speak, push yourself to listen more.
 
-### Ongoing Work
+      ### Listen To Build
 
-Equity and inclusion work does not end in an hour session. 
-These ideas are meant to be a starting point to an ongoing conversation and process. 
-There is not a clean, simple, or easy way to wrap up conversations on identity.
+      - People are often waiting to share a point of view or experience and that can lead to missing the opportunity to connect to others. 
+      - Listen to the ideas and try to BUILD on the conversation instead of dropping ideas in the middle of the circle. 
+
+      ### Ongoing Work
+
+      Equity and inclusion work does not end in an hour session. 
+      These ideas are meant to be a starting point to an ongoing conversation and process. 
+      There is not a clean, simple, or easy way to wrap up conversations on identity.
 
 #### REFLECTION 
 
-- Which of these norms is most challenging for you right now?
-- Which of these norms will be most important when you are practicing your presentation today?  
-- Which of these norms will be most important when you are giving feedback on other's presentations today?
+  - Which of these norms is most challenging for you right now?
+  - Which of these norms will be most important when you are practicing your presentation today?  
+  - Which of these norms will be most important when you are giving feedback on other's presentations today?
 
-## Capstone Overview
+## Capstone Overview (10 min)
 
 #### In Mod 4, each student will put together their experiences in Gear Up and present a Gear Up Capstone.  Those capstones will be presented in small groups of Mod 1, 2, and 3 students in week 5.  
 
@@ -90,7 +97,7 @@ There is not a clean, simple, or easy way to wrap up conversations on identity.
 ##### If you have an idea that better represents your synthesis of Gear Up, pitch the idea to your Mod 4 instructor.  
 
 
-## Practice Presentations
+## Practice Presentations (40 - 50 min)
 
 You will move into your break out rooms for the next 40 minutes.  You should complete the following:
 - Each person should *time* their presentation to ensure it falls between 5-10 minutes
@@ -104,6 +111,6 @@ You will move into your break out rooms for the next 40 minutes.  You should com
 
 Review [10 Ways to Keep Your Audience Engaged During an Online Presenatation](https://visme.co/blog/engage-audience-online-presentation/) 
 
-## Closing
+## Closing (5 min)
 
 **REMINDER** Your updates should be complete by XXXX.  
